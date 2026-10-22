@@ -5,8 +5,28 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-10-22T15:06:12.213Z",
+  "updatedAt": "2026-10-22T16:34:37.668Z",
   "problems": [
+    {
+      "frontendId": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "problemName": "0232-implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "folderPath": "0232-implement-queue-using-stacks/",
+      "readmePath": "0232-implement-queue-using-stacks/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0232-implement-queue-using-stacks.py",
+          "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.py",
+          "sha": "f727ff1cd5bf889b07b36366d2c0b3124d039e6b",
+          "lastSyncedAt": "2026-10-22T16:34:37.668Z"
+        }
+      ]
+    },
     {
       "frontendId": "933",
       "title": "Number of Recent Calls",
