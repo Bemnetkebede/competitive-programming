@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-22T16:34:37.668Z",
+  "updatedAt": "2026-11-03T13:39:33.558Z",
   "problems": [
     {
       "frontendId": "232",
@@ -24,6 +24,26 @@
           "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.py",
           "sha": "f727ff1cd5bf889b07b36366d2c0b3124d039e6b",
           "lastSyncedAt": "2026-10-22T16:34:37.668Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "641",
+      "title": "Design Circular Deque",
+      "slug": "design-circular-deque",
+      "problemName": "0641-design-circular-deque",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-deque/",
+      "folderPath": "0641-design-circular-deque/",
+      "readmePath": "0641-design-circular-deque/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0641-design-circular-deque.py",
+          "path": "0641-design-circular-deque/0641-design-circular-deque.py",
+          "sha": "e16aff27225a5ce281d68348a9251fcaf8f8dbf4",
+          "lastSyncedAt": "2026-11-03T13:39:33.558Z"
         }
       ]
     },
