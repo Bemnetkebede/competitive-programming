@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-03T13:40:10.143Z",
+  "updatedAt": "2026-11-03T13:40:19.946Z",
   "problems": [
+    {
+      "frontendId": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "problemName": "0844-backspace-string-compare",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+      "folderPath": "0844-backspace-string-compare/",
+      "readmePath": "0844-backspace-string-compare/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0844-backspace-string-compare.py",
+          "path": "0844-backspace-string-compare/0844-backspace-string-compare.py",
+          "sha": "24bf0dc8ccad70db75f9d9cb40abf592829c6622",
+          "lastSyncedAt": "2026-11-03T13:40:19.946Z"
+        }
+      ]
+    },
     {
       "frontendId": "1598",
       "title": "Crawler Log Folder",
