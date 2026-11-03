@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-22T16:34:37.668Z",
+  "updatedAt": "2026-11-03T13:37:43.539Z",
   "problems": [
     {
       "frontendId": "232",
@@ -24,6 +24,26 @@
           "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.py",
           "sha": "f727ff1cd5bf889b07b36366d2c0b3124d039e6b",
           "lastSyncedAt": "2026-10-22T16:34:37.668Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "problemName": "0739-daily-temperatures",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+      "folderPath": "0739-daily-temperatures/",
+      "readmePath": "0739-daily-temperatures/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0739-daily-temperatures.py",
+          "path": "0739-daily-temperatures/0739-daily-temperatures.py",
+          "sha": "3690277db6cc3d701a6a6c436eee2a5c0bdddb85",
+          "lastSyncedAt": "2026-11-03T13:37:43.539Z"
         }
       ]
     }
