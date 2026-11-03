@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List",
+    "tagId": "7"
+  },
+  "updatedAt": "2026-11-03T13:39:33.558Z",
+  "problems": [
+    {
+      "frontendId": "641",
+      "title": "Design Circular Deque",
+      "slug": "design-circular-deque",
+      "problemName": "0641-design-circular-deque",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-deque/",
+      "folderPath": "0641-design-circular-deque/",
+      "readmePath": "0641-design-circular-deque/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0641-design-circular-deque.py",
+          "path": "0641-design-circular-deque/0641-design-circular-deque.py",
+          "sha": "e16aff27225a5ce281d68348a9251fcaf8f8dbf4",
+          "lastSyncedAt": "2026-11-03T13:39:33.558Z"
+        }
+      ]
+    }
+  ]
+}
