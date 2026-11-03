@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-11-03T13:39:49.408Z",
+  "problems": [
+    {
+      "frontendId": "2526",
+      "title": "Find Consecutive Integers from a Data Stream",
+      "slug": "find-consecutive-integers-from-a-data-stream",
+      "problemName": "2526-find-consecutive-integers-from-a-data-stream",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/",
+      "folderPath": "2526-find-consecutive-integers-from-a-data-stream/",
+      "readmePath": "2526-find-consecutive-integers-from-a-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2526-find-consecutive-integers-from-a-data-stream.py",
+          "path": "2526-find-consecutive-integers-from-a-data-stream/2526-find-consecutive-integers-from-a-data-stream.py",
+          "sha": "b764be36059f101c83be4d9ea504cea7925d94ad",
+          "lastSyncedAt": "2026-11-03T13:39:49.408Z"
+        }
+      ]
+    }
+  ]
+}
