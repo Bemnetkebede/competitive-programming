@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T18:34:34.772Z",
+  "updatedAt": "2026-11-04T18:34:44.529Z",
   "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0019-remove-nth-node-from-end-of-list.py",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py",
+          "sha": "8c3e33db6c03467448aee3fad825d105a2752f22",
+          "lastSyncedAt": "2026-11-04T18:34:44.529Z"
+        }
+      ]
+    },
     {
       "frontendId": "86",
       "title": "Partition List",
