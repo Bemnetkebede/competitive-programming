@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-04T18:34:00.347Z",
+  "updatedAt": "2026-11-04T18:34:23.518Z",
   "problems": [
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0206-reverse-linked-list.py",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.py",
+          "sha": "f0d7c02bc12310b7103281cfe125196637a0f86b",
+          "lastSyncedAt": "2026-11-04T18:34:23.518Z"
+        }
+      ]
+    },
     {
       "frontendId": "234",
       "title": "Palindrome Linked List",
