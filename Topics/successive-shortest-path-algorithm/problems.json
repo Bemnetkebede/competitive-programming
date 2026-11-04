@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "successive-shortest-path-algorithm",
+    "name": "Successive Shortest Path Algorithm",
+    "tagId": "122029"
+  },
+  "updatedAt": "2026-11-04T18:32:20.838Z",
+  "problems": [
+    {
+      "frontendId": "1029",
+      "title": "Two City Scheduling",
+      "slug": "two-city-scheduling",
+      "problemName": "1029-two-city-scheduling",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-city-scheduling/",
+      "folderPath": "1029-two-city-scheduling/",
+      "readmePath": "1029-two-city-scheduling/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1029-two-city-scheduling.py",
+          "path": "1029-two-city-scheduling/1029-two-city-scheduling.py",
+          "sha": "bc33efa69c320de4e156cbeb282bd7fa024b199e",
+          "lastSyncedAt": "2026-11-04T18:32:20.838Z"
+        }
+      ]
+    }
+  ]
+}
