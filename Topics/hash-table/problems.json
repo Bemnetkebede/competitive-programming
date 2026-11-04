@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-04T18:29:34.617Z",
+  "updatedAt": "2026-11-04T18:31:34.597Z",
   "problems": [
     {
       "frontendId": "496",
@@ -24,6 +24,26 @@
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.py",
           "sha": "47aee9589c205d3e9c072e42e7758b7829cc7039",
           "lastSyncedAt": "2026-11-04T18:28:52.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "781",
+      "title": "Rabbits in Forest",
+      "slug": "rabbits-in-forest",
+      "problemName": "0781-rabbits-in-forest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rabbits-in-forest/",
+      "folderPath": "0781-rabbits-in-forest/",
+      "readmePath": "0781-rabbits-in-forest/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0781-rabbits-in-forest.py",
+          "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.py",
+          "sha": "d0a7d59f384aad191bc9c6c02bc60625d0526c7e",
+          "lastSyncedAt": "2026-11-04T18:31:34.597Z"
         }
       ]
     },
