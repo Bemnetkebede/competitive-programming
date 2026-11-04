@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-03T13:39:49.408Z",
+  "updatedAt": "2026-11-04T18:26:58.680Z",
   "problems": [
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0496-next-greater-element-i.py",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.py",
+          "sha": "47aee9589c205d3e9c072e42e7758b7829cc7039",
+          "lastSyncedAt": "2026-11-04T18:26:58.680Z"
+        }
+      ]
+    },
     {
       "frontendId": "2526",
       "title": "Find Consecutive Integers from a Data Stream",
