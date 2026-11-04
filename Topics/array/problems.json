@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T18:38:13.165Z",
+  "updatedAt": "2026-11-04T18:38:29.988Z",
   "problems": [
     {
       "frontendId": "11",
@@ -484,6 +484,26 @@
           "path": "1598-crawler-log-folder/1598-crawler-log-folder.py",
           "sha": "c1fb94a6b737c468946c27c6233fef4a9fb265ec",
           "lastSyncedAt": "2026-11-04T18:29:57.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2491",
+      "title": "Divide Players Into Teams of Equal Skill",
+      "slug": "divide-players-into-teams-of-equal-skill",
+      "problemName": "2491-divide-players-into-teams-of-equal-skill",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/",
+      "folderPath": "2491-divide-players-into-teams-of-equal-skill/",
+      "readmePath": "2491-divide-players-into-teams-of-equal-skill/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2491-divide-players-into-teams-of-equal-skill.py",
+          "path": "2491-divide-players-into-teams-of-equal-skill/2491-divide-players-into-teams-of-equal-skill.py",
+          "sha": "572494950927dc7bf735a96e5df6b979bf77ded9",
+          "lastSyncedAt": "2026-11-04T18:38:29.988Z"
         }
       ]
     }
