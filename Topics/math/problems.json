@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math",
+    "tagId": "8"
+  },
+  "updatedAt": "2026-11-04T18:30:36.674Z",
+  "problems": [
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0150-evaluate-reverse-polish-notation.py",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
+          "sha": "96cf7c2cfd6e5117ac8fe140c3ec2ad4ce5eeeea",
+          "lastSyncedAt": "2026-11-04T18:30:36.674Z"
+        }
+      ]
+    }
+  ]
+}
