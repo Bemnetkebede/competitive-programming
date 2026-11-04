@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T18:35:54.606Z",
+  "updatedAt": "2026-11-04T18:36:06.639Z",
   "problems": [
     {
       "frontendId": "48",
@@ -64,6 +64,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
           "sha": "96cf7c2cfd6e5117ac8fe140c3ec2ad4ce5eeeea",
           "lastSyncedAt": "2026-11-04T18:30:36.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0303-range-sum-query-immutable.py",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
+          "sha": "fd8490ea5ac7129fdf84d2c9c8dd952255d34bb3",
+          "lastSyncedAt": "2026-11-04T18:36:06.639Z"
         }
       ]
     },
