@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T18:32:13.351Z",
+  "updatedAt": "2026-11-04T18:32:20.838Z",
   "problems": [
     {
       "frontendId": "150",
@@ -144,6 +144,26 @@
           "path": "0860-lemonade-change/0860-lemonade-change.py",
           "sha": "fc4fa5316d94125e36a0a9a06a29cd5662f099c6",
           "lastSyncedAt": "2026-11-04T18:32:13.351Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1029",
+      "title": "Two City Scheduling",
+      "slug": "two-city-scheduling",
+      "problemName": "1029-two-city-scheduling",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-city-scheduling/",
+      "folderPath": "1029-two-city-scheduling/",
+      "readmePath": "1029-two-city-scheduling/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1029-two-city-scheduling.py",
+          "path": "1029-two-city-scheduling/1029-two-city-scheduling.py",
+          "sha": "bc33efa69c320de4e156cbeb282bd7fa024b199e",
+          "lastSyncedAt": "2026-11-04T18:32:20.838Z"
         }
       ]
     },
