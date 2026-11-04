@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-04T18:36:42.524Z",
+  "updatedAt": "2026-11-04T18:37:52.696Z",
   "problems": [
     {
       "frontendId": "209",
@@ -24,6 +24,26 @@
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
           "sha": "5a30a6117d6b0b99c5538412562f02af79a96340",
           "lastSyncedAt": "2026-11-04T18:36:42.524Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "0633-sum-of-square-numbers/",
+      "readmePath": "0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0633-sum-of-square-numbers.py",
+          "path": "0633-sum-of-square-numbers/0633-sum-of-square-numbers.py",
+          "sha": "c740e906c36520b14d6ad85452f822d9cc2e54e2",
+          "lastSyncedAt": "2026-11-04T18:37:52.696Z"
         }
       ]
     }
