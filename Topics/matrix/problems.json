@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-04T18:35:26.602Z",
+  "updatedAt": "2026-11-04T18:35:38.773Z",
   "problems": [
     {
       "frontendId": "48",
@@ -24,6 +24,26 @@
           "path": "0048-rotate-image/0048-rotate-image.py",
           "sha": "c64929fe854e5681d2532b9b4aaa4b5cb10b25ac",
           "lastSyncedAt": "2026-11-04T18:35:26.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "498",
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "problemName": "0498-diagonal-traverse",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
+      "folderPath": "0498-diagonal-traverse/",
+      "readmePath": "0498-diagonal-traverse/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0498-diagonal-traverse.py",
+          "path": "0498-diagonal-traverse/0498-diagonal-traverse.py",
+          "sha": "c93de932a85c93032a35b371ea107b83582f09ab",
+          "lastSyncedAt": "2026-11-04T18:35:38.773Z"
         }
       ]
     }
