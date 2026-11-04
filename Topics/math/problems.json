@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T18:31:34.597Z",
+  "updatedAt": "2026-11-04T18:31:53.844Z",
   "problems": [
     {
       "frontendId": "150",
@@ -44,6 +44,26 @@
           "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.py",
           "sha": "d0a7d59f384aad191bc9c6c02bc60625d0526c7e",
           "lastSyncedAt": "2026-11-04T18:31:34.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2139",
+      "title": "Minimum Moves to Reach Target Score",
+      "slug": "minimum-moves-to-reach-target-score",
+      "problemName": "2139-minimum-moves-to-reach-target-score",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-reach-target-score/",
+      "folderPath": "2139-minimum-moves-to-reach-target-score/",
+      "readmePath": "2139-minimum-moves-to-reach-target-score/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2139-minimum-moves-to-reach-target-score.py",
+          "path": "2139-minimum-moves-to-reach-target-score/2139-minimum-moves-to-reach-target-score.py",
+          "sha": "14feab16baba06d616b14b09f079412df8fdf804",
+          "lastSyncedAt": "2026-11-04T18:31:53.844Z"
         }
       ]
     }
