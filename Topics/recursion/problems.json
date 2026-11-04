@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-11-04T18:34:00.347Z",
+  "problems": [
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0234-palindrome-linked-list.py",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.py",
+          "sha": "05156a14ad015b8afeba85573ebed2137a6e1a23",
+          "lastSyncedAt": "2026-11-04T18:34:00.347Z"
+        }
+      ]
+    }
+  ]
+}
