@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T18:31:34.597Z",
+  "updatedAt": "2026-11-04T18:32:01.302Z",
   "problems": [
     {
       "frontendId": "150",
@@ -24,6 +24,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
           "sha": "96cf7c2cfd6e5117ac8fe140c3ec2ad4ce5eeeea",
           "lastSyncedAt": "2026-11-04T18:30:36.674Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "problemName": "0452-minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+      "folderPath": "0452-minimum-number-of-arrows-to-burst-balloons/",
+      "readmePath": "0452-minimum-number-of-arrows-to-burst-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0452-minimum-number-of-arrows-to-burst-balloons.py",
+          "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.py",
+          "sha": "597f33648213ade413eb960f6e944e2b3f4d9bdb",
+          "lastSyncedAt": "2026-11-04T18:32:01.302Z"
         }
       ]
     },
