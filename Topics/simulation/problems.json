@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-04T18:30:07.172Z",
+  "updatedAt": "2026-11-04T18:35:38.773Z",
   "problems": [
+    {
+      "frontendId": "498",
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "problemName": "0498-diagonal-traverse",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/diagonal-traverse/",
+      "folderPath": "0498-diagonal-traverse/",
+      "readmePath": "0498-diagonal-traverse/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0498-diagonal-traverse.py",
+          "path": "0498-diagonal-traverse/0498-diagonal-traverse.py",
+          "sha": "c93de932a85c93032a35b371ea107b83582f09ab",
+          "lastSyncedAt": "2026-11-04T18:35:38.773Z"
+        }
+      ]
+    },
     {
       "frontendId": "844",
       "title": "Backspace String Compare",
