@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T18:35:14.740Z",
+  "updatedAt": "2026-11-04T18:37:12.834Z",
   "problems": [
     {
       "frontendId": "19",
@@ -104,6 +104,26 @@
           "path": "0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "f2e3e1e31536814bd930e94703c075da9f7fa29d",
           "lastSyncedAt": "2026-11-04T18:35:14.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "763",
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "problemName": "0763-partition-labels",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+      "folderPath": "0763-partition-labels/",
+      "readmePath": "0763-partition-labels/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0763-partition-labels.py",
+          "path": "0763-partition-labels/0763-partition-labels.py",
+          "sha": "cf6f4236f0a947802fa385eac9f20bc2b3dba29b",
+          "lastSyncedAt": "2026-11-04T18:37:12.834Z"
         }
       ]
     },
