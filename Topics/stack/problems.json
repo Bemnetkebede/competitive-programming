@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-04T18:30:36.674Z",
+  "updatedAt": "2026-11-04T18:30:51.212Z",
   "problems": [
+    {
+      "frontendId": "71",
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "problemName": "0071-simplify-path",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path/",
+      "folderPath": "0071-simplify-path/",
+      "readmePath": "0071-simplify-path/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0071-simplify-path.py",
+          "path": "0071-simplify-path/0071-simplify-path.py",
+          "sha": "8f5aac35fca648b1844b05b4faba418284dd2256",
+          "lastSyncedAt": "2026-11-04T18:30:51.212Z"
+        }
+      ]
+    },
     {
       "frontendId": "150",
       "title": "Evaluate Reverse Polish Notation",
