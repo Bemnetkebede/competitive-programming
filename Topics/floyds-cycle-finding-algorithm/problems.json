@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "floyds-cycle-finding-algorithm",
+    "name": "Floyd's Cycle Finding Algorithm",
+    "tagId": "122033"
+  },
+  "updatedAt": "2026-11-04T18:33:32.266Z",
+  "problems": [
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0142-linked-list-cycle-ii.py",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py",
+          "sha": "57b68c173c238d58830f5bece823062112ee8952",
+          "lastSyncedAt": "2026-11-04T18:33:32.266Z"
+        }
+      ]
+    }
+  ]
+}
