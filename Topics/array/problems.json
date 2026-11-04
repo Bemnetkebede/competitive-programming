@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T18:35:38.773Z",
+  "updatedAt": "2026-11-04T18:35:54.606Z",
   "problems": [
     {
       "frontendId": "48",
@@ -204,6 +204,26 @@
           "path": "0860-lemonade-change/0860-lemonade-change.py",
           "sha": "fc4fa5316d94125e36a0a9a06a29cd5662f099c6",
           "lastSyncedAt": "2026-11-04T18:32:13.351Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "problemName": "0867-transpose-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transpose-matrix/",
+      "folderPath": "0867-transpose-matrix/",
+      "readmePath": "0867-transpose-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0867-transpose-matrix.py",
+          "path": "0867-transpose-matrix/0867-transpose-matrix.py",
+          "sha": "f7a7e92335c5763d9adec14f6796ecf5e870b3ff",
+          "lastSyncedAt": "2026-11-04T18:35:54.606Z"
         }
       ]
     },
