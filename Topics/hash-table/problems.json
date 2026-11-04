@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-04T18:35:14.740Z",
+  "updatedAt": "2026-11-04T18:36:30.855Z",
   "problems": [
     {
       "frontendId": "142",
@@ -44,6 +44,26 @@
           "path": "0146-lru-cache/0146-lru-cache.py",
           "sha": "0dd68fee0fd84d2dc49c0ef46d53c71f87a7073e",
           "lastSyncedAt": "2026-11-04T18:33:08.889Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "problemName": "0424-longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "folderPath": "0424-longest-repeating-character-replacement/",
+      "readmePath": "0424-longest-repeating-character-replacement/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0424-longest-repeating-character-replacement.py",
+          "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
+          "sha": "d451f15320d3ee03c49ab62831231ad32da89f65",
+          "lastSyncedAt": "2026-11-04T18:36:30.855Z"
         }
       ]
     },
