@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T18:36:42.524Z",
+  "updatedAt": "2026-11-04T18:37:05.535Z",
   "problems": [
     {
       "frontendId": "48",
@@ -184,6 +184,26 @@
           "path": "0641-design-circular-deque/0641-design-circular-deque.py",
           "sha": "e16aff27225a5ce281d68348a9251fcaf8f8dbf4",
           "lastSyncedAt": "2026-11-04T18:29:13.057Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "0643-maximum-average-subarray-i/",
+      "readmePath": "0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0643-maximum-average-subarray-i.py",
+          "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.py",
+          "sha": "981757f7fb665488bda0398c72087eb66d5d198c",
+          "lastSyncedAt": "2026-11-04T18:37:05.535Z"
         }
       ]
     },
