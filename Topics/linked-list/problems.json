@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T18:33:32.266Z",
+  "updatedAt": "2026-11-04T18:33:46.161Z",
   "problems": [
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "0086-partition-list/",
+      "readmePath": "0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0086-partition-list.py",
+          "path": "0086-partition-list/0086-partition-list.py",
+          "sha": "a725feb8fd161925a45a1e5629df84146d897f9f",
+          "lastSyncedAt": "2026-11-04T18:33:46.161Z"
+        }
+      ]
+    },
     {
       "frontendId": "142",
       "title": "Linked List Cycle II",
