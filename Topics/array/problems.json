@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T18:32:20.838Z",
+  "updatedAt": "2026-11-04T18:32:39.497Z",
   "problems": [
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "0055-jump-game/",
+      "readmePath": "0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0055-jump-game.py",
+          "path": "0055-jump-game/0055-jump-game.py",
+          "sha": "1c0a75031872ea8b04d5ba68bebad95a4983ab6c",
+          "lastSyncedAt": "2026-11-04T18:32:39.497Z"
+        }
+      ]
+    },
     {
       "frontendId": "150",
       "title": "Evaluate Reverse Polish Notation",
