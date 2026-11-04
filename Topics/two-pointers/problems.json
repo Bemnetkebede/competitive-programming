@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T18:34:44.529Z",
+  "updatedAt": "2026-11-04T18:35:14.740Z",
   "problems": [
     {
       "frontendId": "19",
@@ -84,6 +84,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.py",
           "sha": "05156a14ad015b8afeba85573ebed2137a6e1a23",
           "lastSyncedAt": "2026-11-04T18:34:00.347Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "0567-permutation-in-string/",
+      "readmePath": "0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0567-permutation-in-string.py",
+          "path": "0567-permutation-in-string/0567-permutation-in-string.py",
+          "sha": "f2e3e1e31536814bd930e94703c075da9f7fa29d",
+          "lastSyncedAt": "2026-11-04T18:35:14.740Z"
         }
       ]
     },
