@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T18:37:12.834Z",
+  "updatedAt": "2026-11-04T18:37:24.346Z",
   "problems": [
     {
       "frontendId": "19",
@@ -64,6 +64,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py",
           "sha": "57b68c173c238d58830f5bece823062112ee8952",
           "lastSyncedAt": "2026-11-04T18:33:32.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0189-rotate-array.py",
+          "path": "0189-rotate-array/0189-rotate-array.py",
+          "sha": "c9f7fac5e5a7588b1be3c8084455e04cebc02de6",
+          "lastSyncedAt": "2026-11-04T18:37:24.346Z"
         }
       ]
     },
