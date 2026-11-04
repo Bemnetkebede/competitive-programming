@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-11-04T18:36:06.639Z",
+  "problems": [
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0303-range-sum-query-immutable.py",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
+          "sha": "fd8490ea5ac7129fdf84d2c9c8dd952255d34bb3",
+          "lastSyncedAt": "2026-11-04T18:36:06.639Z"
+        }
+      ]
+    }
+  ]
+}
