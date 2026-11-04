@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T18:34:44.529Z",
+  "updatedAt": "2026-11-04T18:34:53.327Z",
   "problems": [
     {
       "frontendId": "19",
@@ -104,6 +104,26 @@
           "path": "0146-lru-cache/0146-lru-cache.py",
           "sha": "0dd68fee0fd84d2dc49c0ef46d53c71f87a7073e",
           "lastSyncedAt": "2026-11-04T18:33:08.889Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "0203-remove-linked-list-elements/",
+      "readmePath": "0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0203-remove-linked-list-elements.py",
+          "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.py",
+          "sha": "19ec6251d859cf0f5b75163cb9e6b77840324dc3",
+          "lastSyncedAt": "2026-11-04T18:34:53.327Z"
         }
       ]
     },
