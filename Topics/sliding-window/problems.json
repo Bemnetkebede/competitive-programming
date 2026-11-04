@@ -5,8 +5,28 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-04T18:35:03.021Z",
+  "updatedAt": "2026-11-04T18:35:14.740Z",
   "problems": [
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "0567-permutation-in-string/",
+      "readmePath": "0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0567-permutation-in-string.py",
+          "path": "0567-permutation-in-string/0567-permutation-in-string.py",
+          "sha": "f2e3e1e31536814bd930e94703c075da9f7fa29d",
+          "lastSyncedAt": "2026-11-04T18:35:14.740Z"
+        }
+      ]
+    },
     {
       "frontendId": "904",
       "title": "Fruit Into Baskets",
