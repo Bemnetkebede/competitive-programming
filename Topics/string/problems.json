@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T18:30:51.212Z",
+  "updatedAt": "2026-11-04T18:31:06.659Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0020-valid-parentheses.py",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.py",
+          "sha": "8b6033b942e14e63f07fb3588e2cbbd19e88b98a",
+          "lastSyncedAt": "2026-11-04T18:31:06.659Z"
+        }
+      ]
+    },
     {
       "frontendId": "71",
       "title": "Simplify Path",
