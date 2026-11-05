@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-05T12:24:05.282Z",
+  "updatedAt": "2026-11-05T12:24:11.404Z",
   "problems": [
     {
       "frontendId": "100",
@@ -103,7 +103,7 @@
           "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.py",
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.py",
           "sha": "64d2dbdc7cb559ebceac7537ca68bada8461a6f8",
-          "lastSyncedAt": "2026-11-05T07:32:43.611Z"
+          "lastSyncedAt": "2026-11-05T12:24:11.404Z"
         }
       ]
     },
