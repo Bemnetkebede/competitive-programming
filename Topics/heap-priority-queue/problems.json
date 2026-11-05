@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-05T07:35:37.165Z",
+  "updatedAt": "2026-11-05T07:35:46.839Z",
   "problems": [
     {
       "frontendId": "743",
@@ -84,6 +84,26 @@
           "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.py",
           "sha": "155d0db508254fad8b71fefbce663b3930111bbf",
           "lastSyncedAt": "2026-11-05T07:35:37.165Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1845",
+      "title": "Seat Reservation Manager",
+      "slug": "seat-reservation-manager",
+      "problemName": "1845-seat-reservation-manager",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/seat-reservation-manager/",
+      "folderPath": "1845-seat-reservation-manager/",
+      "readmePath": "1845-seat-reservation-manager/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1845-seat-reservation-manager.py",
+          "path": "1845-seat-reservation-manager/1845-seat-reservation-manager.py",
+          "sha": "a9a72745a8af0713a68f416305d05001652cb949",
+          "lastSyncedAt": "2026-11-05T07:35:46.839Z"
         }
       ]
     },
