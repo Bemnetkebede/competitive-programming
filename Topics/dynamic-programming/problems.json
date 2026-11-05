@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:34:38.195Z",
+  "updatedAt": "2026-11-05T07:38:14.066Z",
   "problems": [
     {
       "frontendId": "55",
@@ -504,6 +504,26 @@
           "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.py",
           "sha": "ce82620a34153e9d2413f6d1663d91acbd351e59",
           "lastSyncedAt": "2026-11-05T07:29:57.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1162",
+      "title": "As Far from Land as Possible",
+      "slug": "as-far-from-land-as-possible",
+      "problemName": "1162-as-far-from-land-as-possible",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/as-far-from-land-as-possible/",
+      "folderPath": "1162-as-far-from-land-as-possible/",
+      "readmePath": "1162-as-far-from-land-as-possible/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1162-as-far-from-land-as-possible.py",
+          "path": "1162-as-far-from-land-as-possible/1162-as-far-from-land-as-possible.py",
+          "sha": "0eb11b30c4b9aed5b8efab56168fe7b0eb0111a6",
+          "lastSyncedAt": "2026-11-05T07:38:14.066Z"
         }
       ]
     },
