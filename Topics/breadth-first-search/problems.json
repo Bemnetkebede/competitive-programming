@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-05T12:19:52.015Z",
+  "updatedAt": "2026-11-05T12:20:28.242Z",
   "problems": [
     {
       "frontendId": "100",
@@ -363,7 +363,7 @@
           "filename": "0743-network-delay-time.py",
           "path": "0743-network-delay-time/0743-network-delay-time.py",
           "sha": "95088b35e75f21b648142b49a8cc5283898a0e60",
-          "lastSyncedAt": "2026-11-05T07:27:44.984Z"
+          "lastSyncedAt": "2026-11-05T12:20:28.242Z"
         }
       ]
     },
