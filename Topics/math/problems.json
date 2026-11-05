@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-05T07:26:19.405Z",
+  "updatedAt": "2026-11-05T07:27:35.948Z",
   "problems": [
     {
       "frontendId": "48",
@@ -24,6 +24,26 @@
           "path": "0048-rotate-image/0048-rotate-image.py",
           "sha": "c64929fe854e5681d2532b9b4aaa4b5cb10b25ac",
           "lastSyncedAt": "2026-11-05T07:20:30.480Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0062-unique-paths.py",
+          "path": "0062-unique-paths/0062-unique-paths.py",
+          "sha": "7d84d4338e2dc0534b87008097afc19023b3e1de",
+          "lastSyncedAt": "2026-11-05T07:27:35.948Z"
         }
       ]
     },
