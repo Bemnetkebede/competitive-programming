@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-05T07:19:45.790Z",
+  "updatedAt": "2026-11-05T07:19:50.027Z",
   "problems": [
     {
       "frontendId": "19",
@@ -43,7 +43,7 @@
           "filename": "0083-remove-duplicates-from-sorted-list.py",
           "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
           "sha": "b47115e822afe528c268bde1c05a198adabc5b45",
-          "lastSyncedAt": "2026-11-04T18:33:53.500Z"
+          "lastSyncedAt": "2026-11-05T07:19:50.027Z"
         }
       ]
     },
