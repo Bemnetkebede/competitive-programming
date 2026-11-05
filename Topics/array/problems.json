@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:22:45.316Z",
+  "updatedAt": "2026-11-05T07:22:58.388Z",
   "problems": [
     {
       "frontendId": "11",
@@ -564,6 +564,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
           "sha": "4907bb8218297bbc0750f79dc3a8e7a5fa7cadfc",
           "lastSyncedAt": "2026-11-05T07:22:36.921Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "2418-sort-the-people/",
+      "readmePath": "2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2418-sort-the-people.py",
+          "path": "2418-sort-the-people/2418-sort-the-people.py",
+          "sha": "5ed0d5ec3d2c7edf42bb3e0e664ea4f7ce7bf197",
+          "lastSyncedAt": "2026-11-05T07:22:58.388Z"
         }
       ]
     },
