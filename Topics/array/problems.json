@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:35:26.661Z",
+  "updatedAt": "2026-11-05T07:35:37.165Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1104,6 +1104,26 @@
           "path": "1823-find-the-winner-of-the-circular-game/1823-find-the-winner-of-the-circular-game.py",
           "sha": "7baa1a5da8fec4c08e41daa05166cf64bcf59dd7",
           "lastSyncedAt": "2026-11-05T07:23:30.955Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1834",
+      "title": "Single-Threaded CPU",
+      "slug": "single-threaded-cpu",
+      "problemName": "1834-single-threaded-cpu",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-threaded-cpu/",
+      "folderPath": "1834-single-threaded-cpu/",
+      "readmePath": "1834-single-threaded-cpu/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1834-single-threaded-cpu.py",
+          "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.py",
+          "sha": "155d0db508254fad8b71fefbce663b3930111bbf",
+          "lastSyncedAt": "2026-11-05T07:35:37.165Z"
         }
       ]
     },
