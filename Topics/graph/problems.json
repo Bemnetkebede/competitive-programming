@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-05T07:31:42.298Z",
+  "updatedAt": "2026-11-05T07:34:45.736Z",
   "problems": [
     {
       "frontendId": "743",
@@ -64,6 +64,26 @@
           "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.py",
           "sha": "ae7f6e7cdad37ca9f60d0b76098aa218e1e12e2d",
           "lastSyncedAt": "2026-11-05T07:28:47.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "947",
+      "title": "Most Stones Removed with Same Row or Column",
+      "slug": "most-stones-removed-with-same-row-or-column",
+      "problemName": "0947-most-stones-removed-with-same-row-or-column",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+      "folderPath": "0947-most-stones-removed-with-same-row-or-column/",
+      "readmePath": "0947-most-stones-removed-with-same-row-or-column/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0947-most-stones-removed-with-same-row-or-column.py",
+          "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.py",
+          "sha": "42fb5063db664944837a59a9022af64f060f81b5",
+          "lastSyncedAt": "2026-11-05T07:34:45.736Z"
         }
       ]
     },
