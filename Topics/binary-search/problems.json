@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T12:15:27.297Z",
+  "updatedAt": "2026-11-05T12:16:03.007Z",
   "problems": [
     {
       "frontendId": "74",
@@ -63,7 +63,7 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.py",
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "6c3fda3f93122db10a73691759b35d9d146b7e70",
-          "lastSyncedAt": "2026-11-05T07:22:27.421Z"
+          "lastSyncedAt": "2026-11-05T12:16:03.007Z"
         }
       ]
     },
