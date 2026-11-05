@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:28:18.234Z",
+  "updatedAt": "2026-11-05T07:29:02.047Z",
   "problems": [
     {
       "frontendId": "11",
@@ -544,6 +544,26 @@
           "path": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.py",
           "sha": "45b9171dc6286eb0be7ee086a15d16404e22ba5d",
           "lastSyncedAt": "2026-11-05T07:27:04.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "720",
+      "title": "Longest Word in Dictionary",
+      "slug": "longest-word-in-dictionary",
+      "problemName": "0720-longest-word-in-dictionary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+      "folderPath": "0720-longest-word-in-dictionary/",
+      "readmePath": "0720-longest-word-in-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0720-longest-word-in-dictionary.py",
+          "path": "0720-longest-word-in-dictionary/0720-longest-word-in-dictionary.py",
+          "sha": "9510fd26aab5baad0511136d3d7a453f8177456e",
+          "lastSyncedAt": "2026-11-05T07:29:02.047Z"
         }
       ]
     },
