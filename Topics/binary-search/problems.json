@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T12:16:09.638Z",
+  "updatedAt": "2026-11-05T12:22:28.085Z",
   "problems": [
     {
       "frontendId": "74",
@@ -143,7 +143,7 @@
           "filename": "0300-longest-increasing-subsequence.py",
           "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.py",
           "sha": "15f0cfcbf3612eb059fd51a9780694df43337910",
-          "lastSyncedAt": "2026-11-05T07:30:09.427Z"
+          "lastSyncedAt": "2026-11-05T12:22:28.085Z"
         }
       ]
     },
