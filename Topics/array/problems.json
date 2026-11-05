@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:39:02.630Z",
+  "updatedAt": "2026-11-05T07:39:49.255Z",
   "problems": [
     {
       "frontendId": "11",
@@ -724,6 +724,26 @@
           "path": "0648-replace-words/0648-replace-words.py",
           "sha": "9c6db8958342224ab2166fd97b893bf192debc04",
           "lastSyncedAt": "2026-11-05T07:29:36.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "690",
+      "title": "Employee Importance",
+      "slug": "employee-importance",
+      "problemName": "0690-employee-importance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-importance/",
+      "folderPath": "0690-employee-importance/",
+      "readmePath": "0690-employee-importance/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0690-employee-importance.py",
+          "path": "0690-employee-importance/0690-employee-importance.py",
+          "sha": "516509ec5cc3cbd59aaa01888b17c21006c44999",
+          "lastSyncedAt": "2026-11-05T07:39:49.255Z"
         }
       ]
     },
