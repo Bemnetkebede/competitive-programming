@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-05T07:34:59.567Z",
+  "updatedAt": "2026-11-05T07:35:16.315Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "0617-merge-two-binary-trees/0617-merge-two-binary-trees.py",
           "sha": "750c600629670b7a6d0080f9599fb3c1ae9743bb",
           "lastSyncedAt": "2026-11-05T07:33:19.805Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "684",
+      "title": "Redundant Connection",
+      "slug": "redundant-connection",
+      "problemName": "0684-redundant-connection",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/redundant-connection/",
+      "folderPath": "0684-redundant-connection/",
+      "readmePath": "0684-redundant-connection/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0684-redundant-connection.py",
+          "path": "0684-redundant-connection/0684-redundant-connection.py",
+          "sha": "b3204969e3f6730e4ad90b4528f3a252fdc806e5",
+          "lastSyncedAt": "2026-11-05T07:35:16.315Z"
         }
       ]
     },
