@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "number-theory",
+    "name": "Number Theory",
+    "tagId": "61067"
+  },
+  "updatedAt": "2026-11-05T07:29:25.941Z",
+  "problems": [
+    {
+      "frontendId": "2447",
+      "title": "Number of Subarrays With GCD Equal to K",
+      "slug": "number-of-subarrays-with-gcd-equal-to-k",
+      "problemName": "2447-number-of-subarrays-with-gcd-equal-to-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/",
+      "folderPath": "2447-number-of-subarrays-with-gcd-equal-to-k/",
+      "readmePath": "2447-number-of-subarrays-with-gcd-equal-to-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2447-number-of-subarrays-with-gcd-equal-to-k.py",
+          "path": "2447-number-of-subarrays-with-gcd-equal-to-k/2447-number-of-subarrays-with-gcd-equal-to-k.py",
+          "sha": "a54540600067da9ff6dde79c0bc6a74e0eace756",
+          "lastSyncedAt": "2026-11-05T07:29:25.941Z"
+        }
+      ]
+    }
+  ]
+}
