@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-05T07:29:47.420Z",
+  "updatedAt": "2026-11-05T07:35:46.839Z",
   "problems": [
     {
       "frontendId": "146",
@@ -144,6 +144,26 @@
           "path": "0933-number-of-recent-calls/0933-number-of-recent-calls.py",
           "sha": "ca0da5b410ebcf2d077ceb6c5427efd0fc23ca45",
           "lastSyncedAt": "2026-11-05T07:17:42.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1845",
+      "title": "Seat Reservation Manager",
+      "slug": "seat-reservation-manager",
+      "problemName": "1845-seat-reservation-manager",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/seat-reservation-manager/",
+      "folderPath": "1845-seat-reservation-manager/",
+      "readmePath": "1845-seat-reservation-manager/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1845-seat-reservation-manager.py",
+          "path": "1845-seat-reservation-manager/1845-seat-reservation-manager.py",
+          "sha": "a9a72745a8af0713a68f416305d05001652cb949",
+          "lastSyncedAt": "2026-11-05T07:35:46.839Z"
         }
       ]
     },
