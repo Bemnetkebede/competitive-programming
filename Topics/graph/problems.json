@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-05T07:27:44.984Z",
+  "updatedAt": "2026-11-05T07:28:06.155Z",
   "problems": [
     {
       "frontendId": "743",
@@ -24,6 +24,26 @@
           "path": "0743-network-delay-time/0743-network-delay-time.py",
           "sha": "95088b35e75f21b648142b49a8cc5283898a0e60",
           "lastSyncedAt": "2026-11-05T07:27:44.984Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2976",
+      "title": "Minimum Cost to Convert String I",
+      "slug": "minimum-cost-to-convert-string-i",
+      "problemName": "2976-minimum-cost-to-convert-string-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+      "folderPath": "2976-minimum-cost-to-convert-string-i/",
+      "readmePath": "2976-minimum-cost-to-convert-string-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2976-minimum-cost-to-convert-string-i.py",
+          "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.py",
+          "sha": "9110bc52685eecf2f8e661860abddd915dd0fe98",
+          "lastSyncedAt": "2026-11-05T07:28:06.155Z"
         }
       ]
     }
