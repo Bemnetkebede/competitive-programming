@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T12:19:52.015Z",
+  "updatedAt": "2026-11-05T12:20:12.008Z",
   "problems": [
     {
       "frontendId": "55",
@@ -63,7 +63,7 @@
           "filename": "0064-minimum-path-sum.py",
           "path": "0064-minimum-path-sum/0064-minimum-path-sum.py",
           "sha": "9d26f4c330e2a377f86bf38d917e48902fd97af4",
-          "lastSyncedAt": "2026-11-05T07:27:27.022Z"
+          "lastSyncedAt": "2026-11-05T12:20:12.008Z"
         }
       ]
     },
