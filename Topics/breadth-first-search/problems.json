@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-05T07:39:02.630Z",
+  "updatedAt": "2026-11-05T07:39:11.533Z",
   "problems": [
     {
       "frontendId": "100",
@@ -364,6 +364,26 @@
           "path": "0802-find-eventual-safe-states/0802-find-eventual-safe-states.py",
           "sha": "1fec80e04294710253dc4211218128f6f9e1c879",
           "lastSyncedAt": "2026-11-05T07:37:00.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "841",
+      "title": "Keys and Rooms",
+      "slug": "keys-and-rooms",
+      "problemName": "0841-keys-and-rooms",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+      "folderPath": "0841-keys-and-rooms/",
+      "readmePath": "0841-keys-and-rooms/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0841-keys-and-rooms.py",
+          "path": "0841-keys-and-rooms/0841-keys-and-rooms.py",
+          "sha": "27a50ed700acc72edb6c8a361d095b8516076f14",
+          "lastSyncedAt": "2026-11-05T07:39:11.533Z"
         }
       ]
     },
