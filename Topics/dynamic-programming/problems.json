@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:24:15.425Z",
+  "updatedAt": "2026-11-05T07:24:22.440Z",
   "problems": [
     {
       "frontendId": "55",
@@ -64,6 +64,26 @@
           "path": "0213-house-robber-ii/0213-house-robber-ii.py",
           "sha": "29f14da7c6142bda72c8bce1b4fb14e3d5a9fa8e",
           "lastSyncedAt": "2026-11-05T07:24:15.425Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2140",
+      "title": "Solving Questions With Brainpower",
+      "slug": "solving-questions-with-brainpower",
+      "problemName": "2140-solving-questions-with-brainpower",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/solving-questions-with-brainpower/",
+      "folderPath": "2140-solving-questions-with-brainpower/",
+      "readmePath": "2140-solving-questions-with-brainpower/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2140-solving-questions-with-brainpower.py",
+          "path": "2140-solving-questions-with-brainpower/2140-solving-questions-with-brainpower.py",
+          "sha": "b46e70625270497b3a1709fbdf5603417d3981a2",
+          "lastSyncedAt": "2026-11-05T07:24:22.440Z"
         }
       ]
     }
