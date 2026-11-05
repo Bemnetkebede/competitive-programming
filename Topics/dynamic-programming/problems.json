@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:38:14.066Z",
+  "updatedAt": "2026-11-05T07:38:24.570Z",
   "problems": [
     {
       "frontendId": "55",
@@ -384,6 +384,26 @@
           "path": "0518-coin-change-ii/0518-coin-change-ii.py",
           "sha": "56d569bc513baac27362dcbfe76fa758e92e9408",
           "lastSyncedAt": "2026-11-05T07:30:37.194Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0542-01-matrix.py",
+          "path": "0542-01-matrix/0542-01-matrix.py",
+          "sha": "5dfebf6a994e9388d64ad6a40a01e5f166196d85",
+          "lastSyncedAt": "2026-11-05T07:38:24.570Z"
         }
       ]
     },
