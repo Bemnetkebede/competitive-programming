@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:25:13.229Z",
+  "updatedAt": "2026-11-05T07:25:26.295Z",
   "problems": [
     {
       "frontendId": "55",
@@ -24,6 +24,26 @@
           "path": "0055-jump-game/0055-jump-game.py",
           "sha": "1c0a75031872ea8b04d5ba68bebad95a4983ab6c",
           "lastSyncedAt": "2026-11-05T07:19:07.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "120",
+      "title": "Triangle",
+      "slug": "triangle",
+      "problemName": "0120-triangle",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+      "folderPath": "0120-triangle/",
+      "readmePath": "0120-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0120-triangle.py",
+          "path": "0120-triangle/0120-triangle.py",
+          "sha": "c3a786099b007c73a2f4874340ee4251d5e3add7",
+          "lastSyncedAt": "2026-11-05T07:25:26.295Z"
         }
       ]
     },
