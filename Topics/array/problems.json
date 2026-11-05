@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:38:03.114Z",
+  "updatedAt": "2026-11-05T07:38:14.066Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1044,6 +1044,26 @@
           "path": "1029-two-city-scheduling/1029-two-city-scheduling.py",
           "sha": "bc33efa69c320de4e156cbeb282bd7fa024b199e",
           "lastSyncedAt": "2026-11-05T07:18:54.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1162",
+      "title": "As Far from Land as Possible",
+      "slug": "as-far-from-land-as-possible",
+      "problemName": "1162-as-far-from-land-as-possible",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/as-far-from-land-as-possible/",
+      "folderPath": "1162-as-far-from-land-as-possible/",
+      "readmePath": "1162-as-far-from-land-as-possible/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1162-as-far-from-land-as-possible.py",
+          "path": "1162-as-far-from-land-as-possible/1162-as-far-from-land-as-possible.py",
+          "sha": "0eb11b30c4b9aed5b8efab56168fe7b0eb0111a6",
+          "lastSyncedAt": "2026-11-05T07:38:14.066Z"
         }
       ]
     },
