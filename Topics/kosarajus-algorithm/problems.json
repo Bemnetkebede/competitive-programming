@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "kosarajus-algorithm",
+    "name": "Kosaraju's Algorithm",
+    "tagId": "79138"
+  },
+  "updatedAt": "2026-11-05T07:37:00.730Z",
+  "problems": [
+    {
+      "frontendId": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "problemName": "0802-find-eventual-safe-states",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "folderPath": "0802-find-eventual-safe-states/",
+      "readmePath": "0802-find-eventual-safe-states/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0802-find-eventual-safe-states.py",
+          "path": "0802-find-eventual-safe-states/0802-find-eventual-safe-states.py",
+          "sha": "1fec80e04294710253dc4211218128f6f9e1c879",
+          "lastSyncedAt": "2026-11-05T07:37:00.730Z"
+        }
+      ]
+    }
+  ]
+}
