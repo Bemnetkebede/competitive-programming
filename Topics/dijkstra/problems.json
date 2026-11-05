@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dijkstra",
+    "name": "Dijkstra's Algorithm",
+    "tagId": "71093"
+  },
+  "updatedAt": "2026-11-05T07:27:44.984Z",
+  "problems": [
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "0743-network-delay-time/",
+      "readmePath": "0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0743-network-delay-time.py",
+          "path": "0743-network-delay-time/0743-network-delay-time.py",
+          "sha": "95088b35e75f21b648142b49a8cc5283898a0e60",
+          "lastSyncedAt": "2026-11-05T07:27:44.984Z"
+        }
+      ]
+    }
+  ]
+}
