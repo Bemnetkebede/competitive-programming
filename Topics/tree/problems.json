@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-05T07:39:30.555Z",
+  "updatedAt": "2026-11-05T07:39:40.693Z",
   "problems": [
     {
       "frontendId": "100",
@@ -244,6 +244,26 @@
           "path": "1373-maximum-sum-bst-in-binary-tree/1373-maximum-sum-bst-in-binary-tree.py",
           "sha": "05d8359a13d71cb27ed4b4d4ebfced552885987d",
           "lastSyncedAt": "2026-11-05T07:31:53.287Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1376",
+      "title": "Time Needed to Inform All Employees",
+      "slug": "time-needed-to-inform-all-employees",
+      "problemName": "1376-time-needed-to-inform-all-employees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-inform-all-employees/",
+      "folderPath": "1376-time-needed-to-inform-all-employees/",
+      "readmePath": "1376-time-needed-to-inform-all-employees/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1376-time-needed-to-inform-all-employees.py",
+          "path": "1376-time-needed-to-inform-all-employees/1376-time-needed-to-inform-all-employees.py",
+          "sha": "51d09bf09b8522729cd3a03ed34b4039e0c822ad",
+          "lastSyncedAt": "2026-11-05T07:39:40.693Z"
         }
       ]
     }
