@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T07:41:35.964Z",
+  "updatedAt": "2026-11-05T07:41:45.956Z",
   "problems": [
     {
       "frontendId": "74",
@@ -184,6 +184,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
           "sha": "4907bb8218297bbc0750f79dc3a8e7a5fa7cadfc",
           "lastSyncedAt": "2026-11-05T07:22:36.921Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2226",
+      "title": "Maximum Candies Allocated to K Children",
+      "slug": "maximum-candies-allocated-to-k-children",
+      "problemName": "2226-maximum-candies-allocated-to-k-children",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+      "folderPath": "2226-maximum-candies-allocated-to-k-children/",
+      "readmePath": "2226-maximum-candies-allocated-to-k-children/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2226-maximum-candies-allocated-to-k-children.py",
+          "path": "2226-maximum-candies-allocated-to-k-children/2226-maximum-candies-allocated-to-k-children.py",
+          "sha": "850d7ba44bb7be1a9e30848c4065fa98a5ced3fa",
+          "lastSyncedAt": "2026-11-05T07:41:45.956Z"
         }
       ]
     }
