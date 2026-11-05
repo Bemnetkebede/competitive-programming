@@ -5,7 +5,7 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-11-04T18:32:50.298Z",
+  "updatedAt": "2026-11-05T07:19:14.443Z",
   "problems": [
     {
       "frontendId": "976",
@@ -23,7 +23,7 @@
           "filename": "0976-largest-perimeter-triangle.py",
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
           "sha": "86d0a84b046aad6b110274b1581c35baae191ecf",
-          "lastSyncedAt": "2026-11-04T18:32:50.298Z"
+          "lastSyncedAt": "2026-11-05T07:19:14.443Z"
         }
       ]
     }
