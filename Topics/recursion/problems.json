@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-05T07:23:30.955Z",
+  "updatedAt": "2026-11-05T07:34:10.596Z",
   "problems": [
     {
       "frontendId": "203",
@@ -84,6 +84,26 @@
           "path": "1823-find-the-winner-of-the-circular-game/1823-find-the-winner-of-the-circular-game.py",
           "sha": "7baa1a5da8fec4c08e41daa05166cf64bcf59dd7",
           "lastSyncedAt": "2026-11-05T07:23:30.955Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2487",
+      "title": "Remove Nodes From Linked List",
+      "slug": "remove-nodes-from-linked-list",
+      "problemName": "2487-remove-nodes-from-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+      "folderPath": "2487-remove-nodes-from-linked-list/",
+      "readmePath": "2487-remove-nodes-from-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2487-remove-nodes-from-linked-list.py",
+          "path": "2487-remove-nodes-from-linked-list/2487-remove-nodes-from-linked-list.py",
+          "sha": "43bbb509e5215feecd5c1902df377c2f77a464a9",
+          "lastSyncedAt": "2026-11-05T07:34:10.596Z"
         }
       ]
     }
