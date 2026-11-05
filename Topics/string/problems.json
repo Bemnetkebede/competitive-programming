@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T07:29:14.644Z",
+  "updatedAt": "2026-11-05T07:29:36.910Z",
   "problems": [
     {
       "frontendId": "3",
@@ -204,6 +204,26 @@
           "path": "0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "f2e3e1e31536814bd930e94703c075da9f7fa29d",
           "lastSyncedAt": "2026-11-05T07:20:23.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "648",
+      "title": "Replace Words",
+      "slug": "replace-words",
+      "problemName": "0648-replace-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-words/",
+      "folderPath": "0648-replace-words/",
+      "readmePath": "0648-replace-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0648-replace-words.py",
+          "path": "0648-replace-words/0648-replace-words.py",
+          "sha": "9c6db8958342224ab2166fd97b893bf192debc04",
+          "lastSyncedAt": "2026-11-05T07:29:36.910Z"
         }
       ]
     },
