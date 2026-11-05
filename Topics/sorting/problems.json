@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-05T07:34:21.106Z",
+  "updatedAt": "2026-11-05T07:34:59.567Z",
   "problems": [
     {
       "frontendId": "88",
@@ -84,6 +84,26 @@
           "path": "0720-longest-word-in-dictionary/0720-longest-word-in-dictionary.py",
           "sha": "9510fd26aab5baad0511136d3d7a453f8177456e",
           "lastSyncedAt": "2026-11-05T07:29:02.047Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "721",
+      "title": "Accounts Merge",
+      "slug": "accounts-merge",
+      "problemName": "0721-accounts-merge",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+      "folderPath": "0721-accounts-merge/",
+      "readmePath": "0721-accounts-merge/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0721-accounts-merge.py",
+          "path": "0721-accounts-merge/0721-accounts-merge.py",
+          "sha": "a158ff67db28e562d47e12de67eb11673406befa",
+          "lastSyncedAt": "2026-11-05T07:34:59.567Z"
         }
       ]
     },
