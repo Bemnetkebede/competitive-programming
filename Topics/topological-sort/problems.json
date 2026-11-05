@@ -5,8 +5,28 @@
     "name": "Topological Sort",
     "tagId": "26"
   },
-  "updatedAt": "2026-11-05T07:36:31.123Z",
+  "updatedAt": "2026-11-05T07:36:46.712Z",
   "problems": [
+    {
+      "frontendId": "851",
+      "title": "Loud and Rich",
+      "slug": "loud-and-rich",
+      "problemName": "0851-loud-and-rich",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/loud-and-rich/",
+      "folderPath": "0851-loud-and-rich/",
+      "readmePath": "0851-loud-and-rich/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0851-loud-and-rich.py",
+          "path": "0851-loud-and-rich/0851-loud-and-rich.py",
+          "sha": "7e02ed0e6314d9f3425105bc397892c933828f0d",
+          "lastSyncedAt": "2026-11-05T07:36:46.712Z"
+        }
+      ]
+    },
     {
       "frontendId": "1462",
       "title": "Course Schedule IV",
