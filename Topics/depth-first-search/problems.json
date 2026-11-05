@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:31:42.298Z",
+  "updatedAt": "2026-11-05T07:31:53.287Z",
   "problems": [
     {
       "frontendId": "200",
@@ -124,6 +124,26 @@
           "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.py",
           "sha": "ae7f6e7cdad37ca9f60d0b76098aa218e1e12e2d",
           "lastSyncedAt": "2026-11-05T07:28:47.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1373",
+      "title": "Maximum Sum BST in Binary Tree",
+      "slug": "maximum-sum-bst-in-binary-tree",
+      "problemName": "1373-maximum-sum-bst-in-binary-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+      "folderPath": "1373-maximum-sum-bst-in-binary-tree/",
+      "readmePath": "1373-maximum-sum-bst-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1373-maximum-sum-bst-in-binary-tree.py",
+          "path": "1373-maximum-sum-bst-in-binary-tree/1373-maximum-sum-bst-in-binary-tree.py",
+          "sha": "05d8359a13d71cb27ed4b4d4ebfced552885987d",
+          "lastSyncedAt": "2026-11-05T07:31:53.287Z"
         }
       ]
     },
