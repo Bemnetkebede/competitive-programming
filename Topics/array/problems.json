@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:40:36.354Z",
+  "updatedAt": "2026-11-05T07:40:49.340Z",
   "problems": [
     {
       "frontendId": "11",
@@ -744,6 +744,26 @@
           "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.py",
           "sha": "981757f7fb665488bda0398c72087eb66d5d198c",
           "lastSyncedAt": "2026-11-05T07:21:21.813Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0645-set-mismatch.py",
+          "path": "0645-set-mismatch/0645-set-mismatch.py",
+          "sha": "099076b4e4646a96dd9e219038c7e815da0b032c",
+          "lastSyncedAt": "2026-11-05T07:40:49.340Z"
         }
       ]
     },
