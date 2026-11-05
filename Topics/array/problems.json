@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T12:23:24.768Z",
+  "updatedAt": "2026-11-05T12:24:49.803Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1383,7 +1383,7 @@
           "filename": "1475-final-prices-with-a-special-discount-in-a-shop.py",
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.py",
           "sha": "76aa2fb3835c82aac502f2810e2f7e88fb3fb939",
-          "lastSyncedAt": "2026-11-05T07:33:40.072Z"
+          "lastSyncedAt": "2026-11-05T12:24:49.803Z"
         }
       ]
     },
