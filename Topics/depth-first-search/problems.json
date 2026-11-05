@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:37:17.698Z",
+  "updatedAt": "2026-11-05T07:37:27.730Z",
   "problems": [
     {
       "frontendId": "100",
@@ -24,6 +24,26 @@
           "path": "0100-same-tree/0100-same-tree.py",
           "sha": "781e570cd6af57139b9b742131499bce1390e776",
           "lastSyncedAt": "2026-11-05T07:33:00.827Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "0130-surrounded-regions/",
+      "readmePath": "0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0130-surrounded-regions.py",
+          "path": "0130-surrounded-regions/0130-surrounded-regions.py",
+          "sha": "60f45df74b66816919533c28c6e9168bc9a65d1e",
+          "lastSyncedAt": "2026-11-05T07:37:27.730Z"
         }
       ]
     },
