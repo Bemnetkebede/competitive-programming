@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
+  },
+  "updatedAt": "2026-11-05T07:23:44.752Z",
+  "problems": [
+    {
+      "frontendId": "1962",
+      "title": "Remove Stones to Minimize the Total",
+      "slug": "remove-stones-to-minimize-the-total",
+      "problemName": "1962-remove-stones-to-minimize-the-total",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
+      "folderPath": "1962-remove-stones-to-minimize-the-total/",
+      "readmePath": "1962-remove-stones-to-minimize-the-total/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1962-remove-stones-to-minimize-the-total.py",
+          "path": "1962-remove-stones-to-minimize-the-total/1962-remove-stones-to-minimize-the-total.py",
+          "sha": "1183ac7b62470d77d06d0e7c64de4fcac132bc4b",
+          "lastSyncedAt": "2026-11-05T07:23:44.752Z"
+        }
+      ]
+    }
+  ]
+}
