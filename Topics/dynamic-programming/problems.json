@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T12:18:12.435Z",
+  "updatedAt": "2026-11-05T12:18:20.188Z",
   "problems": [
     {
       "frontendId": "55",
@@ -123,7 +123,7 @@
           "filename": "0120-triangle.py",
           "path": "0120-triangle/0120-triangle.py",
           "sha": "c3a786099b007c73a2f4874340ee4251d5e3add7",
-          "lastSyncedAt": "2026-11-05T07:25:26.295Z"
+          "lastSyncedAt": "2026-11-05T12:18:20.188Z"
         }
       ]
     },
