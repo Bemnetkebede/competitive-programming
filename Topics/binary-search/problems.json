@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T07:22:27.421Z",
+  "updatedAt": "2026-11-05T07:22:36.921Z",
   "problems": [
     {
       "frontendId": "167",
@@ -64,6 +64,26 @@
           "path": "0633-sum-of-square-numbers/0633-sum-of-square-numbers.py",
           "sha": "c740e906c36520b14d6ad85452f822d9cc2e54e2",
           "lastSyncedAt": "2026-11-05T07:21:50.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "2089-find-target-indices-after-sorting-array/",
+      "readmePath": "2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2089-find-target-indices-after-sorting-array.py",
+          "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
+          "sha": "4907bb8218297bbc0750f79dc3a8e7a5fa7cadfc",
+          "lastSyncedAt": "2026-11-05T07:22:36.921Z"
         }
       ]
     }
