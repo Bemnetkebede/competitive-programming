@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-05T07:31:18.677Z",
+  "updatedAt": "2026-11-05T07:31:31.310Z",
   "problems": [
     {
       "frontendId": "200",
@@ -64,6 +64,26 @@
           "path": "0322-coin-change/0322-coin-change.py",
           "sha": "4f03889b700061d1006e41f7fac771ee49ceaffc",
           "lastSyncedAt": "2026-11-05T07:27:13.610Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "problemName": "0463-island-perimeter",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/island-perimeter/",
+      "folderPath": "0463-island-perimeter/",
+      "readmePath": "0463-island-perimeter/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0463-island-perimeter.py",
+          "path": "0463-island-perimeter/0463-island-perimeter.py",
+          "sha": "c1408ebfe00df234412045d6e9808aff8009c3a0",
+          "lastSyncedAt": "2026-11-05T07:31:31.310Z"
         }
       ]
     },
