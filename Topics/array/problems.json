@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:29:02.047Z",
+  "updatedAt": "2026-11-05T07:29:25.941Z",
   "problems": [
     {
       "frontendId": "11",
@@ -964,6 +964,26 @@
           "path": "2418-sort-the-people/2418-sort-the-people.py",
           "sha": "5ed0d5ec3d2c7edf42bb3e0e664ea4f7ce7bf197",
           "lastSyncedAt": "2026-11-05T07:22:58.388Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2447",
+      "title": "Number of Subarrays With GCD Equal to K",
+      "slug": "number-of-subarrays-with-gcd-equal-to-k",
+      "problemName": "2447-number-of-subarrays-with-gcd-equal-to-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/",
+      "folderPath": "2447-number-of-subarrays-with-gcd-equal-to-k/",
+      "readmePath": "2447-number-of-subarrays-with-gcd-equal-to-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2447-number-of-subarrays-with-gcd-equal-to-k.py",
+          "path": "2447-number-of-subarrays-with-gcd-equal-to-k/2447-number-of-subarrays-with-gcd-equal-to-k.py",
+          "sha": "a54540600067da9ff6dde79c0bc6a74e0eace756",
+          "lastSyncedAt": "2026-11-05T07:29:25.941Z"
         }
       ]
     },
