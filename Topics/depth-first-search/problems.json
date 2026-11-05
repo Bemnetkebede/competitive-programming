@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:39:11.533Z",
+  "updatedAt": "2026-11-05T07:39:30.555Z",
   "problems": [
     {
       "frontendId": "100",
@@ -404,6 +404,26 @@
           "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.py",
           "sha": "42fb5063db664944837a59a9022af64f060f81b5",
           "lastSyncedAt": "2026-11-05T07:34:45.736Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "965",
+      "title": "Univalued Binary Tree",
+      "slug": "univalued-binary-tree",
+      "problemName": "0965-univalued-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/univalued-binary-tree/",
+      "folderPath": "0965-univalued-binary-tree/",
+      "readmePath": "0965-univalued-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0965-univalued-binary-tree.py",
+          "path": "0965-univalued-binary-tree/0965-univalued-binary-tree.py",
+          "sha": "ba9fa9dc526c076588636d121813ebee94bcf3d5",
+          "lastSyncedAt": "2026-11-05T07:39:30.555Z"
         }
       ]
     },
