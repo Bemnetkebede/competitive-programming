@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T12:16:15.834Z",
+  "updatedAt": "2026-11-05T12:16:24.171Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1663,7 +1663,7 @@
           "filename": "2418-sort-the-people.py",
           "path": "2418-sort-the-people/2418-sort-the-people.py",
           "sha": "5ed0d5ec3d2c7edf42bb3e0e664ea4f7ce7bf197",
-          "lastSyncedAt": "2026-11-05T07:22:58.388Z"
+          "lastSyncedAt": "2026-11-05T12:16:24.171Z"
         }
       ]
     },
