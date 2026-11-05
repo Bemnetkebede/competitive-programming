@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:24:22.440Z",
+  "updatedAt": "2026-11-05T07:24:29.318Z",
   "problems": [
     {
       "frontendId": "11",
@@ -264,6 +264,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
           "sha": "fd8490ea5ac7129fdf84d2c9c8dd952255d34bb3",
           "lastSyncedAt": "2026-11-05T07:20:50.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "377",
+      "title": "Combination Sum IV",
+      "slug": "combination-sum-iv",
+      "problemName": "0377-combination-sum-iv",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iv/",
+      "folderPath": "0377-combination-sum-iv/",
+      "readmePath": "0377-combination-sum-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0377-combination-sum-iv.py",
+          "path": "0377-combination-sum-iv/0377-combination-sum-iv.py",
+          "sha": "e95fc2f5a977b9a26937c03d86e1d58b0889fcc3",
+          "lastSyncedAt": "2026-11-05T07:24:29.318Z"
         }
       ]
     },
