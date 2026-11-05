@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-05T07:34:21.106Z",
+  "updatedAt": "2026-11-05T07:34:38.195Z",
   "problems": [
     {
       "frontendId": "268",
@@ -24,6 +24,26 @@
           "path": "0268-missing-number/0268-missing-number.py",
           "sha": "db2ac63c9b101bcb1ab707522711347585840134",
           "lastSyncedAt": "2026-11-05T07:34:21.106Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0338-counting-bits.py",
+          "path": "0338-counting-bits/0338-counting-bits.py",
+          "sha": "c2e0caedc4988e81e91ca3bf5204c88c0b38eba0",
+          "lastSyncedAt": "2026-11-05T07:34:38.195Z"
         }
       ]
     }
