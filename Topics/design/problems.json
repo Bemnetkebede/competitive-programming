@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-05T07:20:50.916Z",
+  "updatedAt": "2026-11-05T07:29:14.644Z",
   "problems": [
     {
       "frontendId": "146",
@@ -24,6 +24,26 @@
           "path": "0146-lru-cache/0146-lru-cache.py",
           "sha": "0dd68fee0fd84d2dc49c0ef46d53c71f87a7073e",
           "lastSyncedAt": "2026-11-05T07:19:26.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "211",
+      "title": "Design Add and Search Words Data Structure",
+      "slug": "design-add-and-search-words-data-structure",
+      "problemName": "0211-design-add-and-search-words-data-structure",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+      "folderPath": "0211-design-add-and-search-words-data-structure/",
+      "readmePath": "0211-design-add-and-search-words-data-structure/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0211-design-add-and-search-words-data-structure.py",
+          "path": "0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.py",
+          "sha": "8447d1bb546bbb737670e5ac6420da255ef535dd",
+          "lastSyncedAt": "2026-11-05T07:29:14.644Z"
         }
       ]
     },
