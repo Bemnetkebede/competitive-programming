@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-05T07:41:10.259Z",
+  "updatedAt": "2026-11-05T07:42:04.853Z",
   "problems": [
     {
       "frontendId": "88",
@@ -244,6 +244,26 @@
           "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.py",
           "sha": "60301654ab5d921e8ca2cdb217374ace7ca4af1e",
           "lastSyncedAt": "2026-11-05T07:22:45.316Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1552",
+      "title": "Magnetic Force Between Two Balls",
+      "slug": "magnetic-force-between-two-balls",
+      "problemName": "1552-magnetic-force-between-two-balls",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+      "folderPath": "1552-magnetic-force-between-two-balls/",
+      "readmePath": "1552-magnetic-force-between-two-balls/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1552-magnetic-force-between-two-balls.py",
+          "path": "1552-magnetic-force-between-two-balls/1552-magnetic-force-between-two-balls.py",
+          "sha": "0d6c68b3ac98f8f2e29e7c7b77681d1a1118f157",
+          "lastSyncedAt": "2026-11-05T07:42:04.853Z"
         }
       ]
     },
