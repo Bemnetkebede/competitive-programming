@@ -5,7 +5,7 @@
     "name": "Knapsack Problem",
     "tagId": "74909"
   },
-  "updatedAt": "2026-11-05T07:27:13.610Z",
+  "updatedAt": "2026-11-05T07:30:37.194Z",
   "problems": [
     {
       "frontendId": "279",
@@ -84,6 +84,26 @@
           "path": "0494-target-sum/0494-target-sum.py",
           "sha": "64ee647130bc72ab18734d2762a3bb74ddb30754",
           "lastSyncedAt": "2026-11-05T07:26:30.058Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "problemName": "0518-coin-change-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+      "folderPath": "0518-coin-change-ii/",
+      "readmePath": "0518-coin-change-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0518-coin-change-ii.py",
+          "path": "0518-coin-change-ii/0518-coin-change-ii.py",
+          "sha": "56d569bc513baac27362dcbfe76fa758e92e9408",
+          "lastSyncedAt": "2026-11-05T07:30:37.194Z"
         }
       ]
     }
