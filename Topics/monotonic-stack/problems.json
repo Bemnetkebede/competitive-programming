@@ -5,8 +5,28 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-05T07:17:23.886Z",
+  "updatedAt": "2026-11-05T07:24:04.342Z",
   "problems": [
+    {
+      "frontendId": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "problemName": "0316-remove-duplicate-letters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+      "folderPath": "0316-remove-duplicate-letters/",
+      "readmePath": "0316-remove-duplicate-letters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0316-remove-duplicate-letters.py",
+          "path": "0316-remove-duplicate-letters/0316-remove-duplicate-letters.py",
+          "sha": "d9af5980e67c272fda28654d2531f623c4520c2e",
+          "lastSyncedAt": "2026-11-05T07:24:04.342Z"
+        }
+      ]
+    },
     {
       "frontendId": "496",
       "title": "Next Greater Element I",
