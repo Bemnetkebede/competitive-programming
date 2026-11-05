@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T07:29:36.910Z",
+  "updatedAt": "2026-11-05T07:29:47.420Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "0139-word-break/0139-word-break.py",
           "sha": "16c7a4b4fd21f841db3351900a8310cc4f296c9a",
           "lastSyncedAt": "2026-11-05T07:25:51.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "problemName": "0208-implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "folderPath": "0208-implement-trie-prefix-tree/",
+      "readmePath": "0208-implement-trie-prefix-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0208-implement-trie-prefix-tree.py",
+          "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.py",
+          "sha": "031779104f031472f9013834bbd640da4d1d0c58",
+          "lastSyncedAt": "2026-11-05T07:29:47.420Z"
         }
       ]
     },
