@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bipartite-graph",
+    "name": "Bipartite Graph",
+    "tagId": "99758"
+  },
+  "updatedAt": "2026-11-05T07:30:57.432Z",
+  "problems": [
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "0785-is-graph-bipartite/",
+      "readmePath": "0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0785-is-graph-bipartite.py",
+          "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.py",
+          "sha": "593e85cb99494159c9c5db757ad0ec3d5d82b8bc",
+          "lastSyncedAt": "2026-11-05T07:30:57.432Z"
+        }
+      ]
+    }
+  ]
+}
