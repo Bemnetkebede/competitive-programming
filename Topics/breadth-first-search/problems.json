@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-05T07:36:31.123Z",
+  "updatedAt": "2026-11-05T07:37:00.730Z",
   "problems": [
     {
       "frontendId": "100",
@@ -244,6 +244,26 @@
           "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.py",
           "sha": "ae7f6e7cdad37ca9f60d0b76098aa218e1e12e2d",
           "lastSyncedAt": "2026-11-05T07:28:47.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "problemName": "0802-find-eventual-safe-states",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "folderPath": "0802-find-eventual-safe-states/",
+      "readmePath": "0802-find-eventual-safe-states/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0802-find-eventual-safe-states.py",
+          "path": "0802-find-eventual-safe-states/0802-find-eventual-safe-states.py",
+          "sha": "1fec80e04294710253dc4211218128f6f9e1c879",
+          "lastSyncedAt": "2026-11-05T07:37:00.730Z"
         }
       ]
     },
