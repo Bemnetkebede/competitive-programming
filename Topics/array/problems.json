@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T12:21:01.287Z",
+  "updatedAt": "2026-11-05T12:21:37.699Z",
   "problems": [
     {
       "frontendId": "11",
@@ -943,7 +943,7 @@
           "filename": "0720-longest-word-in-dictionary.py",
           "path": "0720-longest-word-in-dictionary/0720-longest-word-in-dictionary.py",
           "sha": "9510fd26aab5baad0511136d3d7a453f8177456e",
-          "lastSyncedAt": "2026-11-05T07:29:02.047Z"
+          "lastSyncedAt": "2026-11-05T12:21:37.699Z"
         }
       ]
     },
