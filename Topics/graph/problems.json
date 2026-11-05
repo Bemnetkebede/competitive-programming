@@ -5,8 +5,28 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-05T07:34:45.736Z",
+  "updatedAt": "2026-11-05T07:35:16.315Z",
   "problems": [
+    {
+      "frontendId": "684",
+      "title": "Redundant Connection",
+      "slug": "redundant-connection",
+      "problemName": "0684-redundant-connection",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/redundant-connection/",
+      "folderPath": "0684-redundant-connection/",
+      "readmePath": "0684-redundant-connection/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0684-redundant-connection.py",
+          "path": "0684-redundant-connection/0684-redundant-connection.py",
+          "sha": "b3204969e3f6730e4ad90b4528f3a252fdc806e5",
+          "lastSyncedAt": "2026-11-05T07:35:16.315Z"
+        }
+      ]
+    },
     {
       "frontendId": "743",
       "title": "Network Delay Time",
