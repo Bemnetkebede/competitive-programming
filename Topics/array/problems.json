@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:40:49.340Z",
+  "updatedAt": "2026-11-05T07:41:01.307Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "0064-minimum-path-sum/0064-minimum-path-sum.py",
           "sha": "9d26f4c330e2a377f86bf38d917e48902fd97af4",
           "lastSyncedAt": "2026-11-05T07:27:27.022Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0074-search-a-2d-matrix.py",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.py",
+          "sha": "9e359716739614a0b7823ba8f540e163b9e24493",
+          "lastSyncedAt": "2026-11-05T07:41:01.307Z"
         }
       ]
     },
