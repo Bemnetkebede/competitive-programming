@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T12:17:49.232Z",
+  "updatedAt": "2026-11-05T12:18:01.858Z",
   "problems": [
     {
       "frontendId": "55",
@@ -563,7 +563,7 @@
           "filename": "1218-longest-arithmetic-subsequence-of-given-difference.py",
           "path": "1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.py",
           "sha": "a0a61396a4a31b38e3aecf301b6655673d145e78",
-          "lastSyncedAt": "2026-11-05T07:24:56.539Z"
+          "lastSyncedAt": "2026-11-05T12:18:01.858Z"
         }
       ]
     },
