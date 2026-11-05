@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:26:46.539Z",
+  "updatedAt": "2026-11-05T07:26:53.656Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "0377-combination-sum-iv/0377-combination-sum-iv.py",
           "sha": "e95fc2f5a977b9a26937c03d86e1d58b0889fcc3",
           "lastSyncedAt": "2026-11-05T07:24:29.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "0416-partition-equal-subset-sum/",
+      "readmePath": "0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0416-partition-equal-subset-sum.py",
+          "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.py",
+          "sha": "aa43084fda25315e6e6c5a6ef0226c7de4560d11",
+          "lastSyncedAt": "2026-11-05T07:26:53.656Z"
         }
       ]
     },
