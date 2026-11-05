@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:29:36.910Z",
+  "updatedAt": "2026-11-05T07:30:09.427Z",
   "problems": [
     {
       "frontendId": "11",
@@ -304,6 +304,26 @@
           "path": "0283-move-zeroes/0283-move-zeroes.py",
           "sha": "0f3d778963e9c15e3bbffd03e73e1a9c23058184",
           "lastSyncedAt": "2026-11-05T07:22:20.780Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "0300-longest-increasing-subsequence/",
+      "readmePath": "0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0300-longest-increasing-subsequence.py",
+          "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.py",
+          "sha": "15f0cfcbf3612eb059fd51a9780694df43337910",
+          "lastSyncedAt": "2026-11-05T07:30:09.427Z"
         }
       ]
     },
