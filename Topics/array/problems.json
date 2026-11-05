@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:27:04.395Z",
+  "updatedAt": "2026-11-05T07:27:13.610Z",
   "problems": [
     {
       "frontendId": "11",
@@ -324,6 +324,26 @@
           "path": "0309-best-time-to-buy-and-sell-stock-with-cooldown/0309-best-time-to-buy-and-sell-stock-with-cooldown.py",
           "sha": "8d45f5ae3de0236c02659eb7f23ce6995c12178e",
           "lastSyncedAt": "2026-11-05T07:26:46.539Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0322-coin-change.py",
+          "path": "0322-coin-change/0322-coin-change.py",
+          "sha": "4f03889b700061d1006e41f7fac771ee49ceaffc",
+          "lastSyncedAt": "2026-11-05T07:27:13.610Z"
         }
       ]
     },
