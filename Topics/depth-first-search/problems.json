@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:37:27.730Z",
+  "updatedAt": "2026-11-05T07:37:41.330Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.py",
           "sha": "64d2dbdc7cb559ebceac7537ca68bada8461a6f8",
           "lastSyncedAt": "2026-11-05T07:32:43.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "problemName": "0399-evaluate-division",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+      "folderPath": "0399-evaluate-division/",
+      "readmePath": "0399-evaluate-division/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0399-evaluate-division.py",
+          "path": "0399-evaluate-division/0399-evaluate-division.py",
+          "sha": "580c7115cfede29c981ac806bbeb03d5cfa5a056",
+          "lastSyncedAt": "2026-11-05T07:37:41.330Z"
         }
       ]
     },
