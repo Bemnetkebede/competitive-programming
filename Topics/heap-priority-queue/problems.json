@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-05T07:28:47.600Z",
+  "updatedAt": "2026-11-05T07:35:37.165Z",
   "problems": [
     {
       "frontendId": "743",
@@ -64,6 +64,26 @@
           "path": "1514-path-with-maximum-probability/1514-path-with-maximum-probability.py",
           "sha": "6b49d5eafa89425a1c3690ce56b8c6fee4223a6f",
           "lastSyncedAt": "2026-11-05T07:28:18.234Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1834",
+      "title": "Single-Threaded CPU",
+      "slug": "single-threaded-cpu",
+      "problemName": "1834-single-threaded-cpu",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-threaded-cpu/",
+      "folderPath": "1834-single-threaded-cpu/",
+      "readmePath": "1834-single-threaded-cpu/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1834-single-threaded-cpu.py",
+          "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.py",
+          "sha": "155d0db508254fad8b71fefbce663b3930111bbf",
+          "lastSyncedAt": "2026-11-05T07:35:37.165Z"
         }
       ]
     },
