@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-05T07:25:05.763Z",
+  "updatedAt": "2026-11-05T07:33:49.795Z",
   "problems": [
     {
       "frontendId": "498",
@@ -124,6 +124,26 @@
           "path": "2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py",
           "sha": "986ffcf03442b6de1cedb4d50fe98ab034463d12",
           "lastSyncedAt": "2026-11-05T07:23:21.942Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3174",
+      "title": "Clear Digits",
+      "slug": "clear-digits",
+      "problemName": "3174-clear-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/clear-digits/",
+      "folderPath": "3174-clear-digits/",
+      "readmePath": "3174-clear-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3174-clear-digits.py",
+          "path": "3174-clear-digits/3174-clear-digits.py",
+          "sha": "d869be9b314776ec0f4d7af6bddf90db6a83b790",
+          "lastSyncedAt": "2026-11-05T07:33:49.795Z"
         }
       ]
     }
