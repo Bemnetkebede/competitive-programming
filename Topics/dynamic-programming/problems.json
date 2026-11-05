@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:24:36.341Z",
+  "updatedAt": "2026-11-05T07:24:56.539Z",
   "problems": [
     {
       "frontendId": "55",
@@ -104,6 +104,26 @@
           "path": "0877-stone-game/0877-stone-game.py",
           "sha": "1dc0148c83997c368f3b03da95698728b3cec421",
           "lastSyncedAt": "2026-11-05T07:24:36.341Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1218",
+      "title": "Longest Arithmetic Subsequence of Given Difference",
+      "slug": "longest-arithmetic-subsequence-of-given-difference",
+      "problemName": "1218-longest-arithmetic-subsequence-of-given-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/",
+      "folderPath": "1218-longest-arithmetic-subsequence-of-given-difference/",
+      "readmePath": "1218-longest-arithmetic-subsequence-of-given-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1218-longest-arithmetic-subsequence-of-given-difference.py",
+          "path": "1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.py",
+          "sha": "a0a61396a4a31b38e3aecf301b6655673d145e78",
+          "lastSyncedAt": "2026-11-05T07:24:56.539Z"
         }
       ]
     },
