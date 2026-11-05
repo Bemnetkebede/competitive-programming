@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:27:13.610Z",
+  "updatedAt": "2026-11-05T07:27:27.022Z",
   "problems": [
     {
       "frontendId": "55",
@@ -24,6 +24,26 @@
           "path": "0055-jump-game/0055-jump-game.py",
           "sha": "1c0a75031872ea8b04d5ba68bebad95a4983ab6c",
           "lastSyncedAt": "2026-11-05T07:19:07.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "64",
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "problemName": "0064-minimum-path-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+      "folderPath": "0064-minimum-path-sum/",
+      "readmePath": "0064-minimum-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0064-minimum-path-sum.py",
+          "path": "0064-minimum-path-sum/0064-minimum-path-sum.py",
+          "sha": "9d26f4c330e2a377f86bf38d917e48902fd97af4",
+          "lastSyncedAt": "2026-11-05T07:27:27.022Z"
         }
       ]
     },
