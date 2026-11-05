@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T12:19:11.307Z",
+  "updatedAt": "2026-11-05T12:19:16.087Z",
   "problems": [
     {
       "frontendId": "11",
@@ -603,7 +603,7 @@
           "filename": "0416-partition-equal-subset-sum.py",
           "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.py",
           "sha": "aa43084fda25315e6e6c5a6ef0226c7de4560d11",
-          "lastSyncedAt": "2026-11-05T07:26:53.656Z"
+          "lastSyncedAt": "2026-11-05T12:19:16.087Z"
         }
       ]
     },
