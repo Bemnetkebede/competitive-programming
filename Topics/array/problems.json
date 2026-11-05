@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:33:59.466Z",
+  "updatedAt": "2026-11-05T07:34:21.106Z",
   "problems": [
     {
       "frontendId": "11",
@@ -324,6 +324,26 @@
           "path": "0213-house-robber-ii/0213-house-robber-ii.py",
           "sha": "29f14da7c6142bda72c8bce1b4fb14e3d5a9fa8e",
           "lastSyncedAt": "2026-11-05T07:24:15.425Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0268-missing-number.py",
+          "path": "0268-missing-number/0268-missing-number.py",
+          "sha": "db2ac63c9b101bcb1ab707522711347585840134",
+          "lastSyncedAt": "2026-11-05T07:34:21.106Z"
         }
       ]
     },
