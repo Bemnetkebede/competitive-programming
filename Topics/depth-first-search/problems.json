@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:28:47.600Z",
+  "updatedAt": "2026-11-05T07:29:14.644Z",
   "problems": [
+    {
+      "frontendId": "211",
+      "title": "Design Add and Search Words Data Structure",
+      "slug": "design-add-and-search-words-data-structure",
+      "problemName": "0211-design-add-and-search-words-data-structure",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+      "folderPath": "0211-design-add-and-search-words-data-structure/",
+      "readmePath": "0211-design-add-and-search-words-data-structure/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0211-design-add-and-search-words-data-structure.py",
+          "path": "0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.py",
+          "sha": "8447d1bb546bbb737670e5ac6420da255ef535dd",
+          "lastSyncedAt": "2026-11-05T07:29:14.644Z"
+        }
+      ]
+    },
     {
       "frontendId": "743",
       "title": "Network Delay Time",
