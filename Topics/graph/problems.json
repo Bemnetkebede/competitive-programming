@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-05T07:40:07.977Z",
+  "updatedAt": "2026-11-05T07:40:19.324Z",
   "problems": [
     {
       "frontendId": "210",
@@ -244,6 +244,26 @@
           "path": "0990-satisfiability-of-equality-equations/0990-satisfiability-of-equality-equations.py",
           "sha": "bc69ca744a72bb46d0f1ff911b84c01a5b124938",
           "lastSyncedAt": "2026-11-05T07:35:26.661Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "problemName": "0997-find-the-town-judge",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
+      "folderPath": "0997-find-the-town-judge/",
+      "readmePath": "0997-find-the-town-judge/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0997-find-the-town-judge.py",
+          "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
+          "sha": "f58988d54f3cfa9424daf2bbb3d53f44434e6803",
+          "lastSyncedAt": "2026-11-05T07:40:19.324Z"
         }
       ]
     },
