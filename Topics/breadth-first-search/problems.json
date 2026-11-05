@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-05T07:27:13.610Z",
+  "updatedAt": "2026-11-05T07:27:44.984Z",
   "problems": [
     {
       "frontendId": "279",
@@ -44,6 +44,26 @@
           "path": "0322-coin-change/0322-coin-change.py",
           "sha": "4f03889b700061d1006e41f7fac771ee49ceaffc",
           "lastSyncedAt": "2026-11-05T07:27:13.610Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "0743-network-delay-time/",
+      "readmePath": "0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0743-network-delay-time.py",
+          "path": "0743-network-delay-time/0743-network-delay-time.py",
+          "sha": "95088b35e75f21b648142b49a8cc5283898a0e60",
+          "lastSyncedAt": "2026-11-05T07:27:44.984Z"
         }
       ]
     }
