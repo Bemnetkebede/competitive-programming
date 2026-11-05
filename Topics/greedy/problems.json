@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-05T12:10:40.370Z",
+  "updatedAt": "2026-11-05T12:10:48.671Z",
   "problems": [
     {
       "frontendId": "11",
@@ -283,7 +283,7 @@
           "filename": "2139-minimum-moves-to-reach-target-score.py",
           "path": "2139-minimum-moves-to-reach-target-score/2139-minimum-moves-to-reach-target-score.py",
           "sha": "14feab16baba06d616b14b09f079412df8fdf804",
-          "lastSyncedAt": "2026-11-05T07:18:38.575Z"
+          "lastSyncedAt": "2026-11-05T12:10:48.671Z"
         }
       ]
     },
