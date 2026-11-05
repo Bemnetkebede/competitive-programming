@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-05T07:22:58.388Z",
+  "updatedAt": "2026-11-05T07:29:02.047Z",
   "problems": [
     {
       "frontendId": "88",
@@ -44,6 +44,26 @@
           "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.py",
           "sha": "597f33648213ade413eb960f6e944e2b3f4d9bdb",
           "lastSyncedAt": "2026-11-05T07:18:42.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "720",
+      "title": "Longest Word in Dictionary",
+      "slug": "longest-word-in-dictionary",
+      "problemName": "0720-longest-word-in-dictionary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+      "folderPath": "0720-longest-word-in-dictionary/",
+      "readmePath": "0720-longest-word-in-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0720-longest-word-in-dictionary.py",
+          "path": "0720-longest-word-in-dictionary/0720-longest-word-in-dictionary.py",
+          "sha": "9510fd26aab5baad0511136d3d7a453f8177456e",
+          "lastSyncedAt": "2026-11-05T07:29:02.047Z"
         }
       ]
     },
