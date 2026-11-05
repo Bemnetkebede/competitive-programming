@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-05T07:22:58.388Z",
+  "updatedAt": "2026-11-05T07:24:56.539Z",
   "problems": [
     {
       "frontendId": "3",
@@ -184,6 +184,26 @@
           "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.py",
           "sha": "bd1fb39b885049fce11ad1012ea17461d3fd4409",
           "lastSyncedAt": "2026-11-05T07:20:16.514Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1218",
+      "title": "Longest Arithmetic Subsequence of Given Difference",
+      "slug": "longest-arithmetic-subsequence-of-given-difference",
+      "problemName": "1218-longest-arithmetic-subsequence-of-given-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/",
+      "folderPath": "1218-longest-arithmetic-subsequence-of-given-difference/",
+      "readmePath": "1218-longest-arithmetic-subsequence-of-given-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1218-longest-arithmetic-subsequence-of-given-difference.py",
+          "path": "1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.py",
+          "sha": "a0a61396a4a31b38e3aecf301b6655673d145e78",
+          "lastSyncedAt": "2026-11-05T07:24:56.539Z"
         }
       ]
     },
