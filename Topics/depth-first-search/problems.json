@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:39:40.693Z",
+  "updatedAt": "2026-11-05T07:39:49.255Z",
   "problems": [
     {
       "frontendId": "100",
@@ -224,6 +224,26 @@
           "path": "0684-redundant-connection/0684-redundant-connection.py",
           "sha": "b3204969e3f6730e4ad90b4528f3a252fdc806e5",
           "lastSyncedAt": "2026-11-05T07:35:16.315Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "690",
+      "title": "Employee Importance",
+      "slug": "employee-importance",
+      "problemName": "0690-employee-importance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-importance/",
+      "folderPath": "0690-employee-importance/",
+      "readmePath": "0690-employee-importance/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0690-employee-importance.py",
+          "path": "0690-employee-importance/0690-employee-importance.py",
+          "sha": "516509ec5cc3cbd59aaa01888b17c21006c44999",
+          "lastSyncedAt": "2026-11-05T07:39:49.255Z"
         }
       ]
     },
