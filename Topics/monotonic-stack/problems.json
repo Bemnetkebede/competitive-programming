@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-05T07:57:51.933Z",
+  "updatedAt": "2026-11-05T12:05:43.139Z",
   "problems": [
     {
       "frontendId": "316",
@@ -84,6 +84,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.py",
           "sha": "3690277db6cc3d701a6a6c436eee2a5c0bdddb85",
           "lastSyncedAt": "2026-11-05T07:52:01.599Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0901-online-stock-span.py",
+          "path": "0901-online-stock-span/0901-online-stock-span.py",
+          "sha": "75af34e2071c49463e64a58e0b944bea731d2360",
+          "lastSyncedAt": "2026-11-05T12:05:43.139Z"
         }
       ]
     },
