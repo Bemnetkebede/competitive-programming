@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-05T07:52:14.761Z",
+  "updatedAt": "2026-11-05T07:57:51.933Z",
   "problems": [
     {
       "frontendId": "20",
@@ -144,6 +144,26 @@
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.py",
           "sha": "47aee9589c205d3e9c072e42e7758b7829cc7039",
           "lastSyncedAt": "2026-11-05T07:51:52.899Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "0503-next-greater-element-ii/",
+      "readmePath": "0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0503-next-greater-element-ii.py",
+          "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.py",
+          "sha": "82aea5b9592bf409ee544a408903563a9380baa6",
+          "lastSyncedAt": "2026-11-05T07:57:51.933Z"
         }
       ]
     },
