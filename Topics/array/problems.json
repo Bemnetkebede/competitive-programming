@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:26:30.058Z",
+  "updatedAt": "2026-11-05T07:26:46.539Z",
   "problems": [
     {
       "frontendId": "11",
@@ -304,6 +304,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
           "sha": "fd8490ea5ac7129fdf84d2c9c8dd952255d34bb3",
           "lastSyncedAt": "2026-11-05T07:20:50.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "309",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "problemName": "0309-best-time-to-buy-and-sell-stock-with-cooldown",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "folderPath": "0309-best-time-to-buy-and-sell-stock-with-cooldown/",
+      "readmePath": "0309-best-time-to-buy-and-sell-stock-with-cooldown/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0309-best-time-to-buy-and-sell-stock-with-cooldown.py",
+          "path": "0309-best-time-to-buy-and-sell-stock-with-cooldown/0309-best-time-to-buy-and-sell-stock-with-cooldown.py",
+          "sha": "8d45f5ae3de0236c02659eb7f23ce6995c12178e",
+          "lastSyncedAt": "2026-11-05T07:26:46.539Z"
         }
       ]
     },
