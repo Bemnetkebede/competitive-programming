@@ -5,8 +5,28 @@
     "name": "Bellman–Ford Algorithm",
     "tagId": "81533"
   },
-  "updatedAt": "2026-11-05T07:28:30.101Z",
+  "updatedAt": "2026-11-05T07:37:41.330Z",
   "problems": [
+    {
+      "frontendId": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "problemName": "0399-evaluate-division",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+      "folderPath": "0399-evaluate-division/",
+      "readmePath": "0399-evaluate-division/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0399-evaluate-division.py",
+          "path": "0399-evaluate-division/0399-evaluate-division.py",
+          "sha": "580c7115cfede29c981ac806bbeb03d5cfa5a056",
+          "lastSyncedAt": "2026-11-05T07:37:41.330Z"
+        }
+      ]
+    },
     {
       "frontendId": "1334",
       "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
