@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:23:08.991Z",
+  "updatedAt": "2026-11-05T07:23:21.942Z",
   "problems": [
     {
       "frontendId": "11",
@@ -604,6 +604,26 @@
           "path": "2418-sort-the-people/2418-sort-the-people.py",
           "sha": "5ed0d5ec3d2c7edf42bb3e0e664ea4f7ce7bf197",
           "lastSyncedAt": "2026-11-05T07:22:58.388Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2460",
+      "title": "Apply Operations to an Array",
+      "slug": "apply-operations-to-an-array",
+      "problemName": "2460-apply-operations-to-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-to-an-array/",
+      "folderPath": "2460-apply-operations-to-an-array/",
+      "readmePath": "2460-apply-operations-to-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2460-apply-operations-to-an-array.py",
+          "path": "2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py",
+          "sha": "986ffcf03442b6de1cedb4d50fe98ab034463d12",
+          "lastSyncedAt": "2026-11-05T07:23:21.942Z"
         }
       ]
     },
