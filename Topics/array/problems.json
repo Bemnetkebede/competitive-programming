@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:25:51.001Z",
+  "updatedAt": "2026-11-05T07:26:30.058Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.py",
           "sha": "597f33648213ade413eb960f6e944e2b3f4d9bdb",
           "lastSyncedAt": "2026-11-05T07:18:42.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "problemName": "0494-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+      "folderPath": "0494-target-sum/",
+      "readmePath": "0494-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0494-target-sum.py",
+          "path": "0494-target-sum/0494-target-sum.py",
+          "sha": "64ee647130bc72ab18734d2762a3bb74ddb30754",
+          "lastSyncedAt": "2026-11-05T07:26:30.058Z"
         }
       ]
     },
