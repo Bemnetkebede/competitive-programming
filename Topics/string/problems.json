@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T07:25:51.001Z",
+  "updatedAt": "2026-11-05T07:26:12.523Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0071-simplify-path/0071-simplify-path.py",
           "sha": "8f5aac35fca648b1844b05b4faba418284dd2256",
           "lastSyncedAt": "2026-11-05T07:18:13.124Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "problemName": "0091-decode-ways",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+      "folderPath": "0091-decode-ways/",
+      "readmePath": "0091-decode-ways/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0091-decode-ways.py",
+          "path": "0091-decode-ways/0091-decode-ways.py",
+          "sha": "16383b61606530f47f2d1f499eadb358ac29d9cf",
+          "lastSyncedAt": "2026-11-05T07:26:12.523Z"
         }
       ]
     },
