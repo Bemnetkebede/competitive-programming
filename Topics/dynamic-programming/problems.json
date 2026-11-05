@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:30:09.427Z",
+  "updatedAt": "2026-11-05T07:30:21.515Z",
   "problems": [
     {
       "frontendId": "55",
@@ -344,6 +344,26 @@
           "path": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.py",
           "sha": "45b9171dc6286eb0be7ee086a15d16404e22ba5d",
           "lastSyncedAt": "2026-11-05T07:27:04.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "0746-min-cost-climbing-stairs/",
+      "readmePath": "0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0746-min-cost-climbing-stairs.py",
+          "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.py",
+          "sha": "3925a623b899299f3984105266ca84cc257f93d0",
+          "lastSyncedAt": "2026-11-05T07:30:21.515Z"
         }
       ]
     },
