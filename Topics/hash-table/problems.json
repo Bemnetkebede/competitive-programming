@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-05T07:39:49.255Z",
+  "updatedAt": "2026-11-05T07:40:19.324Z",
   "problems": [
     {
       "frontendId": "3",
@@ -344,6 +344,26 @@
           "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.py",
           "sha": "42fb5063db664944837a59a9022af64f060f81b5",
           "lastSyncedAt": "2026-11-05T07:34:45.736Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "problemName": "0997-find-the-town-judge",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
+      "folderPath": "0997-find-the-town-judge/",
+      "readmePath": "0997-find-the-town-judge/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0997-find-the-town-judge.py",
+          "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
+          "sha": "f58988d54f3cfa9424daf2bbb3d53f44434e6803",
+          "lastSyncedAt": "2026-11-05T07:40:19.324Z"
         }
       ]
     },
