@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:25:26.295Z",
+  "updatedAt": "2026-11-05T07:25:51.001Z",
   "problems": [
     {
       "frontendId": "11",
@@ -144,6 +144,26 @@
           "path": "0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.py",
           "sha": "677af3e9de90b4148fcdc3b639626d653a8693bb",
           "lastSyncedAt": "2026-11-05T07:23:55.347Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0139-word-break.py",
+          "path": "0139-word-break/0139-word-break.py",
+          "sha": "16c7a4b4fd21f841db3351900a8310cc4f296c9a",
+          "lastSyncedAt": "2026-11-05T07:25:51.001Z"
         }
       ]
     },
