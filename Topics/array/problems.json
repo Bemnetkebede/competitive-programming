@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:41:35.964Z",
+  "updatedAt": "2026-11-05T07:41:45.956Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1564,6 +1564,26 @@
           "path": "2176-count-equal-and-divisible-pairs-in-an-array/2176-count-equal-and-divisible-pairs-in-an-array.py",
           "sha": "58fd7ee75a3b9ce7fa99865a3fc935cb5cfb5937",
           "lastSyncedAt": "2026-11-05T07:23:08.991Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2226",
+      "title": "Maximum Candies Allocated to K Children",
+      "slug": "maximum-candies-allocated-to-k-children",
+      "problemName": "2226-maximum-candies-allocated-to-k-children",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+      "folderPath": "2226-maximum-candies-allocated-to-k-children/",
+      "readmePath": "2226-maximum-candies-allocated-to-k-children/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2226-maximum-candies-allocated-to-k-children.py",
+          "path": "2226-maximum-candies-allocated-to-k-children/2226-maximum-candies-allocated-to-k-children.py",
+          "sha": "850d7ba44bb7be1a9e30848c4065fa98a5ced3fa",
+          "lastSyncedAt": "2026-11-05T07:41:45.956Z"
         }
       ]
     },
