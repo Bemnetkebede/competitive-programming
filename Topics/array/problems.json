@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:22:58.388Z",
+  "updatedAt": "2026-11-05T07:23:08.991Z",
   "problems": [
     {
       "frontendId": "11",
@@ -564,6 +564,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
           "sha": "4907bb8218297bbc0750f79dc3a8e7a5fa7cadfc",
           "lastSyncedAt": "2026-11-05T07:22:36.921Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2176",
+      "title": "Count Equal and Divisible Pairs in an Array",
+      "slug": "count-equal-and-divisible-pairs-in-an-array",
+      "problemName": "2176-count-equal-and-divisible-pairs-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/",
+      "folderPath": "2176-count-equal-and-divisible-pairs-in-an-array/",
+      "readmePath": "2176-count-equal-and-divisible-pairs-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2176-count-equal-and-divisible-pairs-in-an-array.py",
+          "path": "2176-count-equal-and-divisible-pairs-in-an-array/2176-count-equal-and-divisible-pairs-in-an-array.py",
+          "sha": "58fd7ee75a3b9ce7fa99865a3fc935cb5cfb5937",
+          "lastSyncedAt": "2026-11-05T07:23:08.991Z"
         }
       ]
     },
