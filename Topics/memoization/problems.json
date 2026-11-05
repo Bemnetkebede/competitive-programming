@@ -5,7 +5,7 @@
     "name": "Memoization",
     "tagId": "33"
   },
-  "updatedAt": "2026-11-05T07:26:19.405Z",
+  "updatedAt": "2026-11-05T07:30:48.782Z",
   "problems": [
     {
       "frontendId": "70",
@@ -44,6 +44,26 @@
           "path": "0139-word-break/0139-word-break.py",
           "sha": "16c7a4b4fd21f841db3351900a8310cc4f296c9a",
           "lastSyncedAt": "2026-11-05T07:25:51.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1137",
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "problemName": "1137-n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+      "folderPath": "1137-n-th-tribonacci-number/",
+      "readmePath": "1137-n-th-tribonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1137-n-th-tribonacci-number.py",
+          "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py",
+          "sha": "ef1146410c38f889229de8d617c608795fca1d0c",
+          "lastSyncedAt": "2026-11-05T07:30:48.782Z"
         }
       ]
     }
