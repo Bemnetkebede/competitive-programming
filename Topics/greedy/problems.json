@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-05T12:15:39.518Z",
+  "updatedAt": "2026-11-05T12:17:08.034Z",
   "problems": [
     {
       "frontendId": "11",
@@ -263,7 +263,7 @@
           "filename": "1962-remove-stones-to-minimize-the-total.py",
           "path": "1962-remove-stones-to-minimize-the-total/1962-remove-stones-to-minimize-the-total.py",
           "sha": "1183ac7b62470d77d06d0e7c64de4fcac132bc4b",
-          "lastSyncedAt": "2026-11-05T07:23:44.752Z"
+          "lastSyncedAt": "2026-11-05T12:17:08.034Z"
         }
       ]
     },
