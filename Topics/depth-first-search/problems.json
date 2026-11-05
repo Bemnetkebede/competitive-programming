@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:27:44.984Z",
+  "updatedAt": "2026-11-05T07:28:47.600Z",
   "problems": [
     {
       "frontendId": "743",
@@ -24,6 +24,26 @@
           "path": "0743-network-delay-time/0743-network-delay-time.py",
           "sha": "95088b35e75f21b648142b49a8cc5283898a0e60",
           "lastSyncedAt": "2026-11-05T07:27:44.984Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "problemName": "0787-cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "folderPath": "0787-cheapest-flights-within-k-stops/",
+      "readmePath": "0787-cheapest-flights-within-k-stops/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0787-cheapest-flights-within-k-stops.py",
+          "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.py",
+          "sha": "ae7f6e7cdad37ca9f60d0b76098aa218e1e12e2d",
+          "lastSyncedAt": "2026-11-05T07:28:47.600Z"
         }
       ]
     }
