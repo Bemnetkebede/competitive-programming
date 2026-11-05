@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:38:44.585Z",
+  "updatedAt": "2026-11-05T07:38:53.452Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1284,6 +1284,26 @@
           "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.py",
           "sha": "155d0db508254fad8b71fefbce663b3930111bbf",
           "lastSyncedAt": "2026-11-05T07:35:37.165Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1926",
+      "title": "Nearest Exit from Entrance in Maze",
+      "slug": "nearest-exit-from-entrance-in-maze",
+      "problemName": "1926-nearest-exit-from-entrance-in-maze",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/",
+      "folderPath": "1926-nearest-exit-from-entrance-in-maze/",
+      "readmePath": "1926-nearest-exit-from-entrance-in-maze/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1926-nearest-exit-from-entrance-in-maze.py",
+          "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.py",
+          "sha": "2c63fad0c09eb4ec7773f4f8b3d9a5a9949a90b6",
+          "lastSyncedAt": "2026-11-05T07:38:53.452Z"
         }
       ]
     },
