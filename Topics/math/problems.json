@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-05T07:24:36.341Z",
+  "updatedAt": "2026-11-05T07:25:05.763Z",
   "problems": [
     {
       "frontendId": "48",
@@ -184,6 +184,26 @@
           "path": "2139-minimum-moves-to-reach-target-score/2139-minimum-moves-to-reach-target-score.py",
           "sha": "14feab16baba06d616b14b09f079412df8fdf804",
           "lastSyncedAt": "2026-11-05T07:18:38.575Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2169",
+      "title": "Count Operations to Obtain Zero",
+      "slug": "count-operations-to-obtain-zero",
+      "problemName": "2169-count-operations-to-obtain-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
+      "folderPath": "2169-count-operations-to-obtain-zero/",
+      "readmePath": "2169-count-operations-to-obtain-zero/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2169-count-operations-to-obtain-zero.py",
+          "path": "2169-count-operations-to-obtain-zero/2169-count-operations-to-obtain-zero.py",
+          "sha": "cdcc857329b511d9de404e93fa854f79e51d563c",
+          "lastSyncedAt": "2026-11-05T07:25:05.763Z"
         }
       ]
     }
