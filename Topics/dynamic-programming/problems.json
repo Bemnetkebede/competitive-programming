@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:28:47.600Z",
+  "updatedAt": "2026-11-05T07:29:57.768Z",
   "problems": [
     {
       "frontendId": "55",
@@ -364,6 +364,26 @@
           "path": "0877-stone-game/0877-stone-game.py",
           "sha": "1dc0148c83997c368f3b03da95698728b3cec421",
           "lastSyncedAt": "2026-11-05T07:24:36.341Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "1143-longest-common-subsequence/",
+      "readmePath": "1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1143-longest-common-subsequence.py",
+          "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.py",
+          "sha": "ce82620a34153e9d2413f6d1663d91acbd351e59",
+          "lastSyncedAt": "2026-11-05T07:29:57.768Z"
         }
       ]
     },
