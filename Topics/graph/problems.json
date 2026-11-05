@@ -5,8 +5,28 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-05T07:37:00.730Z",
+  "updatedAt": "2026-11-05T07:37:17.698Z",
   "problems": [
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0210-course-schedule-ii.py",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.py",
+          "sha": "d2fa77354d53bfaa9de452efe025ff103bde7d8f",
+          "lastSyncedAt": "2026-11-05T07:37:17.698Z"
+        }
+      ]
+    },
     {
       "frontendId": "684",
       "title": "Redundant Connection",
