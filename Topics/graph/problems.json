@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-05T07:36:31.123Z",
+  "updatedAt": "2026-11-05T07:36:46.712Z",
   "problems": [
     {
       "frontendId": "684",
@@ -84,6 +84,26 @@
           "path": "0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.py",
           "sha": "ae7f6e7cdad37ca9f60d0b76098aa218e1e12e2d",
           "lastSyncedAt": "2026-11-05T07:28:47.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "851",
+      "title": "Loud and Rich",
+      "slug": "loud-and-rich",
+      "problemName": "0851-loud-and-rich",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/loud-and-rich/",
+      "folderPath": "0851-loud-and-rich/",
+      "readmePath": "0851-loud-and-rich/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0851-loud-and-rich.py",
+          "path": "0851-loud-and-rich/0851-loud-and-rich.py",
+          "sha": "7e02ed0e6314d9f3425105bc397892c933828f0d",
+          "lastSyncedAt": "2026-11-05T07:36:46.712Z"
         }
       ]
     },
