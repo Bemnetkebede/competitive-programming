@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-05T07:32:43.611Z",
+  "updatedAt": "2026-11-05T07:33:00.827Z",
   "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0100-same-tree.py",
+          "path": "0100-same-tree/0100-same-tree.py",
+          "sha": "781e570cd6af57139b9b742131499bce1390e776",
+          "lastSyncedAt": "2026-11-05T07:33:00.827Z"
+        }
+      ]
+    },
     {
       "frontendId": "103",
       "title": "Binary Tree Zigzag Level Order Traversal",
