@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-05T07:40:36.354Z",
+  "updatedAt": "2026-11-05T07:42:14.944Z",
   "problems": [
     {
       "frontendId": "11",
@@ -404,6 +404,26 @@
           "path": "2491-divide-players-into-teams-of-equal-skill/2491-divide-players-into-teams-of-equal-skill.py",
           "sha": "572494950927dc7bf735a96e5df6b979bf77ded9",
           "lastSyncedAt": "2026-11-05T07:22:10.929Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3356",
+      "title": "Zero Array Transformation II",
+      "slug": "zero-array-transformation-ii",
+      "problemName": "3356-zero-array-transformation-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zero-array-transformation-ii/",
+      "folderPath": "3356-zero-array-transformation-ii/",
+      "readmePath": "3356-zero-array-transformation-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3356-zero-array-transformation-ii.py",
+          "path": "3356-zero-array-transformation-ii/3356-zero-array-transformation-ii.py",
+          "sha": "d9b20eeeafec1a7847f745385bf2010c400a4ab6",
+          "lastSyncedAt": "2026-11-05T07:42:14.944Z"
         }
       ]
     }
