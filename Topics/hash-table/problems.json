@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-05T07:22:10.929Z",
+  "updatedAt": "2026-11-05T07:22:45.316Z",
   "problems": [
     {
       "frontendId": "3",
@@ -184,6 +184,26 @@
           "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.py",
           "sha": "bd1fb39b885049fce11ad1012ea17461d3fd4409",
           "lastSyncedAt": "2026-11-05T07:20:16.514Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "problemName": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "folderPath": "1365-how-many-numbers-are-smaller-than-the-current-number/",
+      "readmePath": "1365-how-many-numbers-are-smaller-than-the-current-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.py",
+          "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.py",
+          "sha": "60301654ab5d921e8ca2cdb217374ace7ca4af1e",
+          "lastSyncedAt": "2026-11-05T07:22:45.316Z"
         }
       ]
     },
