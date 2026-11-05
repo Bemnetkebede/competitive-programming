@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:41:01.307Z",
+  "updatedAt": "2026-11-05T07:41:10.259Z",
   "problems": [
     {
       "frontendId": "11",
@@ -484,6 +484,26 @@
           "path": "0322-coin-change/0322-coin-change.py",
           "sha": "4f03889b700061d1006e41f7fac771ee49ceaffc",
           "lastSyncedAt": "2026-11-05T07:27:13.610Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
+          "sha": "181de41288534b031488a292543a69393bf220e5",
+          "lastSyncedAt": "2026-11-05T07:41:10.259Z"
         }
       ]
     },
