@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-05T07:23:14.686Z",
+  "updatedAt": "2026-11-05T07:23:21.942Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "0881-boats-to-save-people/0881-boats-to-save-people.py",
           "sha": "562d49564251fe51f91a81f1cdf536e715989c18",
           "lastSyncedAt": "2026-11-05T07:22:01.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2460",
+      "title": "Apply Operations to an Array",
+      "slug": "apply-operations-to-an-array",
+      "problemName": "2460-apply-operations-to-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-to-an-array/",
+      "folderPath": "2460-apply-operations-to-an-array/",
+      "readmePath": "2460-apply-operations-to-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2460-apply-operations-to-an-array.py",
+          "path": "2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py",
+          "sha": "986ffcf03442b6de1cedb4d50fe98ab034463d12",
+          "lastSyncedAt": "2026-11-05T07:23:21.942Z"
         }
       ]
     },
