@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-05T07:38:35.231Z",
+  "updatedAt": "2026-11-05T07:38:44.585Z",
   "problems": [
     {
       "frontendId": "100",
@@ -364,6 +364,26 @@
           "path": "0802-find-eventual-safe-states/0802-find-eventual-safe-states.py",
           "sha": "1fec80e04294710253dc4211218128f6f9e1c879",
           "lastSyncedAt": "2026-11-05T07:37:00.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0994-rotting-oranges.py",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.py",
+          "sha": "2f57b0486cc862c5b8965eb5641230f09621c82c",
+          "lastSyncedAt": "2026-11-05T07:38:44.585Z"
         }
       ]
     },
