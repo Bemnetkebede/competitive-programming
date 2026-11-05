@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:33:00.827Z",
+  "updatedAt": "2026-11-05T07:33:19.805Z",
   "problems": [
     {
       "frontendId": "100",
@@ -124,6 +124,26 @@
           "path": "0463-island-perimeter/0463-island-perimeter.py",
           "sha": "c1408ebfe00df234412045d6e9808aff8009c3a0",
           "lastSyncedAt": "2026-11-05T07:31:31.310Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "617",
+      "title": "Merge Two Binary Trees",
+      "slug": "merge-two-binary-trees",
+      "problemName": "0617-merge-two-binary-trees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
+      "folderPath": "0617-merge-two-binary-trees/",
+      "readmePath": "0617-merge-two-binary-trees/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0617-merge-two-binary-trees.py",
+          "path": "0617-merge-two-binary-trees/0617-merge-two-binary-trees.py",
+          "sha": "750c600629670b7a6d0080f9599fb3c1ae9743bb",
+          "lastSyncedAt": "2026-11-05T07:33:19.805Z"
         }
       ]
     },
