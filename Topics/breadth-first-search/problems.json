@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-05T07:37:17.698Z",
+  "updatedAt": "2026-11-05T07:37:27.730Z",
   "problems": [
     {
       "frontendId": "100",
@@ -44,6 +44,26 @@
           "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.py",
           "sha": "819b4d4ff11a66269f33ace17090eed9310a6a38",
           "lastSyncedAt": "2026-11-05T07:32:35.282Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "0130-surrounded-regions/",
+      "readmePath": "0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0130-surrounded-regions.py",
+          "path": "0130-surrounded-regions/0130-surrounded-regions.py",
+          "sha": "60f45df74b66816919533c28c6e9168bc9a65d1e",
+          "lastSyncedAt": "2026-11-05T07:37:27.730Z"
         }
       ]
     },
