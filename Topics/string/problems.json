@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T07:23:14.686Z",
+  "updatedAt": "2026-11-05T07:24:04.342Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0071-simplify-path/0071-simplify-path.py",
           "sha": "8f5aac35fca648b1844b05b4faba418284dd2256",
           "lastSyncedAt": "2026-11-05T07:18:13.124Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "problemName": "0316-remove-duplicate-letters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+      "folderPath": "0316-remove-duplicate-letters/",
+      "readmePath": "0316-remove-duplicate-letters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0316-remove-duplicate-letters.py",
+          "path": "0316-remove-duplicate-letters/0316-remove-duplicate-letters.py",
+          "sha": "d9af5980e67c272fda28654d2531f623c4520c2e",
+          "lastSyncedAt": "2026-11-05T07:24:04.342Z"
         }
       ]
     },
