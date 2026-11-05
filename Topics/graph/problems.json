@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-05T12:21:01.287Z",
+  "updatedAt": "2026-11-05T12:21:12.287Z",
   "problems": [
     {
       "frontendId": "210",
@@ -283,7 +283,7 @@
           "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py",
           "path": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py",
           "sha": "aafcbb4fb6b393b5daa99cc14773a77654992040",
-          "lastSyncedAt": "2026-11-05T07:28:30.101Z"
+          "lastSyncedAt": "2026-11-05T12:21:12.287Z"
         }
       ]
     },
