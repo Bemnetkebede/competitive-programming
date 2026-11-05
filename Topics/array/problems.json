@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:38:24.570Z",
+  "updatedAt": "2026-11-05T07:38:35.231Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1204,6 +1204,26 @@
           "path": "1598-crawler-log-folder/1598-crawler-log-folder.py",
           "sha": "c1fb94a6b737c468946c27c6233fef4a9fb265ec",
           "lastSyncedAt": "2026-11-05T07:17:48.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1765",
+      "title": "Map of Highest Peak",
+      "slug": "map-of-highest-peak",
+      "problemName": "1765-map-of-highest-peak",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/map-of-highest-peak/",
+      "folderPath": "1765-map-of-highest-peak/",
+      "readmePath": "1765-map-of-highest-peak/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1765-map-of-highest-peak.py",
+          "path": "1765-map-of-highest-peak/1765-map-of-highest-peak.py",
+          "sha": "68dfa466ed8ddb6effac884802393c2735550aff",
+          "lastSyncedAt": "2026-11-05T07:38:35.231Z"
         }
       ]
     },
