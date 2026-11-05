@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-05T07:39:20.552Z",
+  "updatedAt": "2026-11-05T07:39:30.555Z",
   "problems": [
     {
       "frontendId": "100",
@@ -184,6 +184,26 @@
           "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.py",
           "sha": "9074ddc71c514b7464219d60e0866f2787837beb",
           "lastSyncedAt": "2026-11-05T07:36:16.302Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "965",
+      "title": "Univalued Binary Tree",
+      "slug": "univalued-binary-tree",
+      "problemName": "0965-univalued-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/univalued-binary-tree/",
+      "folderPath": "0965-univalued-binary-tree/",
+      "readmePath": "0965-univalued-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0965-univalued-binary-tree.py",
+          "path": "0965-univalued-binary-tree/0965-univalued-binary-tree.py",
+          "sha": "ba9fa9dc526c076588636d121813ebee94bcf3d5",
+          "lastSyncedAt": "2026-11-05T07:39:30.555Z"
         }
       ]
     },
