@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-05T07:25:51.001Z",
+  "updatedAt": "2026-11-05T07:29:02.047Z",
   "problems": [
     {
       "frontendId": "3",
@@ -144,6 +144,26 @@
           "path": "0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "f2e3e1e31536814bd930e94703c075da9f7fa29d",
           "lastSyncedAt": "2026-11-05T07:20:23.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "720",
+      "title": "Longest Word in Dictionary",
+      "slug": "longest-word-in-dictionary",
+      "problemName": "0720-longest-word-in-dictionary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+      "folderPath": "0720-longest-word-in-dictionary/",
+      "readmePath": "0720-longest-word-in-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0720-longest-word-in-dictionary.py",
+          "path": "0720-longest-word-in-dictionary/0720-longest-word-in-dictionary.py",
+          "sha": "9510fd26aab5baad0511136d3d7a453f8177456e",
+          "lastSyncedAt": "2026-11-05T07:29:02.047Z"
         }
       ]
     },
