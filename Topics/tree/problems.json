@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-05T07:33:11.625Z",
+  "updatedAt": "2026-11-05T07:33:19.805Z",
   "problems": [
     {
       "frontendId": "100",
@@ -84,6 +84,26 @@
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.py",
           "sha": "64d2dbdc7cb559ebceac7537ca68bada8461a6f8",
           "lastSyncedAt": "2026-11-05T07:32:43.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "617",
+      "title": "Merge Two Binary Trees",
+      "slug": "merge-two-binary-trees",
+      "problemName": "0617-merge-two-binary-trees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
+      "folderPath": "0617-merge-two-binary-trees/",
+      "readmePath": "0617-merge-two-binary-trees/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0617-merge-two-binary-trees.py",
+          "path": "0617-merge-two-binary-trees/0617-merge-two-binary-trees.py",
+          "sha": "750c600629670b7a6d0080f9599fb3c1ae9743bb",
+          "lastSyncedAt": "2026-11-05T07:33:19.805Z"
         }
       ]
     },
