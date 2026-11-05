@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:35:16.315Z",
+  "updatedAt": "2026-11-05T07:36:31.123Z",
   "problems": [
     {
       "frontendId": "100",
@@ -304,6 +304,26 @@
           "path": "1373-maximum-sum-bst-in-binary-tree/1373-maximum-sum-bst-in-binary-tree.py",
           "sha": "05d8359a13d71cb27ed4b4d4ebfced552885987d",
           "lastSyncedAt": "2026-11-05T07:31:53.287Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1462",
+      "title": "Course Schedule IV",
+      "slug": "course-schedule-iv",
+      "problemName": "1462-course-schedule-iv",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-iv/",
+      "folderPath": "1462-course-schedule-iv/",
+      "readmePath": "1462-course-schedule-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1462-course-schedule-iv.py",
+          "path": "1462-course-schedule-iv/1462-course-schedule-iv.py",
+          "sha": "574680648d32a768e588d9ac43c631eefbea0a58",
+          "lastSyncedAt": "2026-11-05T07:36:31.123Z"
         }
       ]
     },
