@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:29:57.768Z",
+  "updatedAt": "2026-11-05T07:30:09.427Z",
   "problems": [
     {
       "frontendId": "55",
@@ -204,6 +204,26 @@
           "path": "0279-perfect-squares/0279-perfect-squares.py",
           "sha": "56e2361d277096fcacb129f6e70fb99e62b32eff",
           "lastSyncedAt": "2026-11-05T07:25:33.268Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "0300-longest-increasing-subsequence/",
+      "readmePath": "0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0300-longest-increasing-subsequence.py",
+          "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.py",
+          "sha": "15f0cfcbf3612eb059fd51a9780694df43337910",
+          "lastSyncedAt": "2026-11-05T07:30:09.427Z"
         }
       ]
     },
