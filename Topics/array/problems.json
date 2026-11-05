@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:23:21.942Z",
+  "updatedAt": "2026-11-05T07:23:30.955Z",
   "problems": [
     {
       "frontendId": "11",
@@ -544,6 +544,26 @@
           "path": "1598-crawler-log-folder/1598-crawler-log-folder.py",
           "sha": "c1fb94a6b737c468946c27c6233fef4a9fb265ec",
           "lastSyncedAt": "2026-11-05T07:17:48.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1823",
+      "title": "Find the Winner of the Circular Game",
+      "slug": "find-the-winner-of-the-circular-game",
+      "problemName": "1823-find-the-winner-of-the-circular-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+      "folderPath": "1823-find-the-winner-of-the-circular-game/",
+      "readmePath": "1823-find-the-winner-of-the-circular-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1823-find-the-winner-of-the-circular-game.py",
+          "path": "1823-find-the-winner-of-the-circular-game/1823-find-the-winner-of-the-circular-game.py",
+          "sha": "7baa1a5da8fec4c08e41daa05166cf64bcf59dd7",
+          "lastSyncedAt": "2026-11-05T07:23:30.955Z"
         }
       ]
     },
