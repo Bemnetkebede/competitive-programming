@@ -5,7 +5,7 @@
     "name": "Knapsack Problem",
     "tagId": "74909"
   },
-  "updatedAt": "2026-11-05T07:26:30.058Z",
+  "updatedAt": "2026-11-05T07:26:53.656Z",
   "problems": [
     {
       "frontendId": "279",
@@ -24,6 +24,26 @@
           "path": "0279-perfect-squares/0279-perfect-squares.py",
           "sha": "56e2361d277096fcacb129f6e70fb99e62b32eff",
           "lastSyncedAt": "2026-11-05T07:25:33.268Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "0416-partition-equal-subset-sum/",
+      "readmePath": "0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0416-partition-equal-subset-sum.py",
+          "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.py",
+          "sha": "aa43084fda25315e6e6c5a6ef0226c7de4560d11",
+          "lastSyncedAt": "2026-11-05T07:26:53.656Z"
         }
       ]
     },
