@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-05T07:34:45.736Z",
+  "updatedAt": "2026-11-05T07:34:59.567Z",
   "problems": [
     {
       "frontendId": "200",
@@ -24,6 +24,26 @@
           "path": "0200-number-of-islands/0200-number-of-islands.py",
           "sha": "33673047e19e81d26c6ae654c83ce954277d9e7c",
           "lastSyncedAt": "2026-11-05T07:31:18.677Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "721",
+      "title": "Accounts Merge",
+      "slug": "accounts-merge",
+      "problemName": "0721-accounts-merge",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/accounts-merge/",
+      "folderPath": "0721-accounts-merge/",
+      "readmePath": "0721-accounts-merge/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0721-accounts-merge.py",
+          "path": "0721-accounts-merge/0721-accounts-merge.py",
+          "sha": "a158ff67db28e562d47e12de67eb11673406befa",
+          "lastSyncedAt": "2026-11-05T07:34:59.567Z"
         }
       ]
     },
