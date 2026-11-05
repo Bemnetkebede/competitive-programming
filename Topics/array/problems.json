@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:41:56.501Z",
+  "updatedAt": "2026-11-05T07:42:04.853Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1404,6 +1404,26 @@
           "path": "1514-path-with-maximum-probability/1514-path-with-maximum-probability.py",
           "sha": "6b49d5eafa89425a1c3690ce56b8c6fee4223a6f",
           "lastSyncedAt": "2026-11-05T07:28:18.234Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1552",
+      "title": "Magnetic Force Between Two Balls",
+      "slug": "magnetic-force-between-two-balls",
+      "problemName": "1552-magnetic-force-between-two-balls",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+      "folderPath": "1552-magnetic-force-between-two-balls/",
+      "readmePath": "1552-magnetic-force-between-two-balls/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1552-magnetic-force-between-two-balls.py",
+          "path": "1552-magnetic-force-between-two-balls/1552-magnetic-force-between-two-balls.py",
+          "sha": "0d6c68b3ac98f8f2e29e7c7b77681d1a1118f157",
+          "lastSyncedAt": "2026-11-05T07:42:04.853Z"
         }
       ]
     },
