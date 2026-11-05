@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-05T07:35:37.165Z",
+  "updatedAt": "2026-11-05T07:35:54.337Z",
   "problems": [
     {
       "frontendId": "88",
@@ -264,6 +264,26 @@
           "path": "2491-divide-players-into-teams-of-equal-skill/2491-divide-players-into-teams-of-equal-skill.py",
           "sha": "572494950927dc7bf735a96e5df6b979bf77ded9",
           "lastSyncedAt": "2026-11-05T07:22:10.929Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3462",
+      "title": "Maximum Sum With at Most K Elements",
+      "slug": "maximum-sum-with-at-most-k-elements",
+      "problemName": "3462-maximum-sum-with-at-most-k-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/",
+      "folderPath": "3462-maximum-sum-with-at-most-k-elements/",
+      "readmePath": "3462-maximum-sum-with-at-most-k-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3462-maximum-sum-with-at-most-k-elements.py",
+          "path": "3462-maximum-sum-with-at-most-k-elements/3462-maximum-sum-with-at-most-k-elements.py",
+          "sha": "aec342323f195c82b671d8ffc97631a2b5043d72",
+          "lastSyncedAt": "2026-11-05T07:35:54.337Z"
         }
       ]
     }
