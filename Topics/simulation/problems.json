@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-05T07:33:49.795Z",
+  "updatedAt": "2026-11-05T07:36:06.801Z",
   "problems": [
     {
       "frontendId": "498",
@@ -124,6 +124,26 @@
           "path": "2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py",
           "sha": "986ffcf03442b6de1cedb4d50fe98ab034463d12",
           "lastSyncedAt": "2026-11-05T07:23:21.942Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3066",
+      "title": "Minimum Operations to Exceed Threshold Value II",
+      "slug": "minimum-operations-to-exceed-threshold-value-ii",
+      "problemName": "3066-minimum-operations-to-exceed-threshold-value-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/",
+      "folderPath": "3066-minimum-operations-to-exceed-threshold-value-ii/",
+      "readmePath": "3066-minimum-operations-to-exceed-threshold-value-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3066-minimum-operations-to-exceed-threshold-value-ii.py",
+          "path": "3066-minimum-operations-to-exceed-threshold-value-ii/3066-minimum-operations-to-exceed-threshold-value-ii.py",
+          "sha": "eb54c97b14cc86302bc7c7e804bdcc2ac63648a0",
+          "lastSyncedAt": "2026-11-05T07:36:06.801Z"
         }
       ]
     },
