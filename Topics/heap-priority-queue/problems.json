@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-05T07:27:44.984Z",
+  "updatedAt": "2026-11-05T07:28:18.234Z",
   "problems": [
     {
       "frontendId": "743",
@@ -24,6 +24,26 @@
           "path": "0743-network-delay-time/0743-network-delay-time.py",
           "sha": "95088b35e75f21b648142b49a8cc5283898a0e60",
           "lastSyncedAt": "2026-11-05T07:27:44.984Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1514",
+      "title": "Path with Maximum Probability",
+      "slug": "path-with-maximum-probability",
+      "problemName": "1514-path-with-maximum-probability",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-probability/",
+      "folderPath": "1514-path-with-maximum-probability/",
+      "readmePath": "1514-path-with-maximum-probability/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1514-path-with-maximum-probability.py",
+          "path": "1514-path-with-maximum-probability/1514-path-with-maximum-probability.py",
+          "sha": "6b49d5eafa89425a1c3690ce56b8c6fee4223a6f",
+          "lastSyncedAt": "2026-11-05T07:28:18.234Z"
         }
       ]
     },
