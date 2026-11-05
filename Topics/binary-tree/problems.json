@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-05T12:24:11.404Z",
+  "updatedAt": "2026-11-05T12:24:23.409Z",
   "problems": [
     {
       "frontendId": "100",
@@ -23,7 +23,7 @@
           "filename": "0100-same-tree.py",
           "path": "0100-same-tree/0100-same-tree.py",
           "sha": "781e570cd6af57139b9b742131499bce1390e776",
-          "lastSyncedAt": "2026-11-05T07:33:00.827Z"
+          "lastSyncedAt": "2026-11-05T12:24:23.409Z"
         }
       ]
     },
