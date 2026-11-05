@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-05T07:32:26.818Z",
+  "updatedAt": "2026-11-05T07:32:35.282Z",
   "problems": [
+    {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "problemName": "0103-binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "folderPath": "0103-binary-tree-zigzag-level-order-traversal/",
+      "readmePath": "0103-binary-tree-zigzag-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0103-binary-tree-zigzag-level-order-traversal.py",
+          "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.py",
+          "sha": "819b4d4ff11a66269f33ace17090eed9310a6a38",
+          "lastSyncedAt": "2026-11-05T07:32:35.282Z"
+        }
+      ]
+    },
     {
       "frontendId": "230",
       "title": "Kth Smallest Element in a BST",
