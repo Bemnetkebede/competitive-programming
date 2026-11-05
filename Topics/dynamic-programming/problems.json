@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T07:31:53.287Z",
+  "updatedAt": "2026-11-05T07:34:38.195Z",
   "problems": [
     {
       "frontendId": "55",
@@ -284,6 +284,26 @@
           "path": "0322-coin-change/0322-coin-change.py",
           "sha": "4f03889b700061d1006e41f7fac771ee49ceaffc",
           "lastSyncedAt": "2026-11-05T07:27:13.610Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0338-counting-bits.py",
+          "path": "0338-counting-bits/0338-counting-bits.py",
+          "sha": "c2e0caedc4988e81e91ca3bf5204c88c0b38eba0",
+          "lastSyncedAt": "2026-11-05T07:34:38.195Z"
         }
       ]
     },
