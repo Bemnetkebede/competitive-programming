@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T07:24:56.539Z",
+  "updatedAt": "2026-11-05T07:25:26.295Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "47e8908d92d91bafbaccb9ec0ae64299e129dfcc",
           "lastSyncedAt": "2026-11-05T07:21:44.484Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "120",
+      "title": "Triangle",
+      "slug": "triangle",
+      "problemName": "0120-triangle",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+      "folderPath": "0120-triangle/",
+      "readmePath": "0120-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0120-triangle.py",
+          "path": "0120-triangle/0120-triangle.py",
+          "sha": "c3a786099b007c73a2f4874340ee4251d5e3add7",
+          "lastSyncedAt": "2026-11-05T07:25:26.295Z"
         }
       ]
     },
