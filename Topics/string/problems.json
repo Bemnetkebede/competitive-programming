@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T07:26:12.523Z",
+  "updatedAt": "2026-11-05T07:28:06.155Z",
   "problems": [
     {
       "frontendId": "3",
@@ -304,6 +304,26 @@
           "path": "2418-sort-the-people/2418-sort-the-people.py",
           "sha": "5ed0d5ec3d2c7edf42bb3e0e664ea4f7ce7bf197",
           "lastSyncedAt": "2026-11-05T07:22:58.388Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2976",
+      "title": "Minimum Cost to Convert String I",
+      "slug": "minimum-cost-to-convert-string-i",
+      "problemName": "2976-minimum-cost-to-convert-string-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+      "folderPath": "2976-minimum-cost-to-convert-string-i/",
+      "readmePath": "2976-minimum-cost-to-convert-string-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2976-minimum-cost-to-convert-string-i.py",
+          "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.py",
+          "sha": "9110bc52685eecf2f8e661860abddd915dd0fe98",
+          "lastSyncedAt": "2026-11-05T07:28:06.155Z"
         }
       ]
     }
