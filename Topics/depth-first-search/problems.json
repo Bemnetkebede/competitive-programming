@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-05T07:30:57.432Z",
+  "updatedAt": "2026-11-05T07:31:18.677Z",
   "problems": [
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0200-number-of-islands.py",
+          "path": "0200-number-of-islands/0200-number-of-islands.py",
+          "sha": "33673047e19e81d26c6ae654c83ce954277d9e7c",
+          "lastSyncedAt": "2026-11-05T07:31:18.677Z"
+        }
+      ]
+    },
     {
       "frontendId": "211",
       "title": "Design Add and Search Words Data Structure",
