@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 152 | 44 | 107 | 1 |
+| 153 | 44 | 108 | 1 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-22 | 2 |
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
-| 2026-11-05 | 1 |
+| 2026-11-05 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 89 | 59% |
+| Array | 89 | 58% |
 | Dynamic Programming | 32 | 21% |
 | Breadth-First Search | 31 | 20% |
 | Depth-First Search | 28 | 18% |
 | Hash Table | 25 | 16% |
 | String | 24 | 16% |
 | Two Pointers | 20 | 13% |
-| Graph Theory | 19 | 13% |
+| Graph Theory | 19 | 12% |
 | Sorting | 18 | 12% |
 | Math | 17 | 11% |
 
@@ -67,9 +67,9 @@ Contains topicwise list of solved problems.
 | [Complete Knapsack](Topics/complete-knapsack/) | 3 |
 | [Counting](Topics/counting/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
-| [Data Stream](Topics/data-stream/) | 3 |
+| [Data Stream](Topics/data-stream/) | 4 |
 | [Depth-First Search](Topics/depth-first-search/) | 28 |
-| [Design](Topics/design/) | 10 |
+| [Design](Topics/design/) | 11 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 3 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
@@ -95,7 +95,7 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 16 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 7 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 8 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Polygons](Topics/polygons/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
@@ -107,7 +107,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 18 |
-| [Stack](Topics/stack/) | 16 |
+| [Stack](Topics/stack/) | 17 |
 | [String](Topics/string/) | 25 |
 | [Successive Shortest Path Algorithm](Topics/successive-shortest-path-algorithm/) | 1 |
 | [Tarjan's SCC Algorithm](Topics/tarjans-scc-algorithm/) | 1 |
