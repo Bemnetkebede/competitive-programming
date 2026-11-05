@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-05T07:32:15.263Z",
+  "updatedAt": "2026-11-05T07:32:26.818Z",
   "problems": [
     {
       "frontendId": "230",
@@ -24,6 +24,26 @@
           "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.py",
           "sha": "e89a4caea9702217c9cfec86d18b7a4fe96eb9a4",
           "lastSyncedAt": "2026-11-05T07:32:15.263Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1026",
+      "title": "Maximum Difference Between Node and Ancestor",
+      "slug": "maximum-difference-between-node-and-ancestor",
+      "problemName": "1026-maximum-difference-between-node-and-ancestor",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/",
+      "folderPath": "1026-maximum-difference-between-node-and-ancestor/",
+      "readmePath": "1026-maximum-difference-between-node-and-ancestor/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1026-maximum-difference-between-node-and-ancestor.py",
+          "path": "1026-maximum-difference-between-node-and-ancestor/1026-maximum-difference-between-node-and-ancestor.py",
+          "sha": "ab8300dcedecd0baefb3ca73e1f2256d64bc042b",
+          "lastSyncedAt": "2026-11-05T07:32:26.818Z"
         }
       ]
     },
