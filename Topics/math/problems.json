@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-05T07:23:30.955Z",
+  "updatedAt": "2026-11-05T07:24:36.341Z",
   "problems": [
     {
       "frontendId": "48",
@@ -104,6 +104,26 @@
           "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.py",
           "sha": "d0a7d59f384aad191bc9c6c02bc60625d0526c7e",
           "lastSyncedAt": "2026-11-05T07:18:30.196Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0877-stone-game.py",
+          "path": "0877-stone-game/0877-stone-game.py",
+          "sha": "1dc0148c83997c368f3b03da95698728b3cec421",
+          "lastSyncedAt": "2026-11-05T07:24:36.341Z"
         }
       ]
     },
