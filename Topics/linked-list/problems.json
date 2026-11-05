@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-05T07:20:12.670Z",
+  "updatedAt": "2026-11-05T07:33:59.466Z",
   "problems": [
     {
       "frontendId": "19",
@@ -224,6 +224,26 @@
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.py",
           "sha": "542eca99e4714b55a7bc989888fb5d267e656bf9",
           "lastSyncedAt": "2026-11-05T07:20:04.907Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1019",
+      "title": "Next Greater Node In Linked List",
+      "slug": "next-greater-node-in-linked-list",
+      "problemName": "1019-next-greater-node-in-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+      "folderPath": "1019-next-greater-node-in-linked-list/",
+      "readmePath": "1019-next-greater-node-in-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1019-next-greater-node-in-linked-list.py",
+          "path": "1019-next-greater-node-in-linked-list/1019-next-greater-node-in-linked-list.py",
+          "sha": "7c3705be8fbd913ef1e20e1dc4da33cda7097849",
+          "lastSyncedAt": "2026-11-05T07:33:59.466Z"
         }
       ]
     }
