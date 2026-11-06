@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-06T07:48:55.077Z",
+  "updatedAt": "2026-11-06T07:49:04.986Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.py",
           "sha": "64d2dbdc7cb559ebceac7537ca68bada8461a6f8",
           "lastSyncedAt": "2026-11-06T07:40:37.506Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "0257-binary-tree-paths/",
+      "readmePath": "0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0257-binary-tree-paths.py",
+          "path": "0257-binary-tree-paths/0257-binary-tree-paths.py",
+          "sha": "533e817b34c61d41fc2c165240e06b6f03886441",
+          "lastSyncedAt": "2026-11-06T07:49:04.986Z"
         }
       ]
     },
