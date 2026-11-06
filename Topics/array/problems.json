@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:57:28.701Z",
+  "updatedAt": "2026-11-06T07:57:48.643Z",
   "problems": [
     {
       "frontendId": "11",
@@ -124,6 +124,26 @@
           "path": "0048-rotate-image/0048-rotate-image.py",
           "sha": "c64929fe854e5681d2532b9b4aaa4b5cb10b25ac",
           "lastSyncedAt": "2026-11-06T07:32:37.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "b2054f5154c8bdad1889f3ac22ee94b8fa5e9829",
+          "lastSyncedAt": "2026-11-06T07:57:48.643Z"
         }
       ]
     },
