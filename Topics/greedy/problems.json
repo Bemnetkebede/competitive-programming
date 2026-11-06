@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-06T08:05:35.381Z",
+  "updatedAt": "2026-11-06T08:05:53.387Z",
   "problems": [
     {
       "frontendId": "11",
@@ -484,6 +484,26 @@
           "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
           "sha": "03a157922cba6d7d4b3edf9d88b0936de465e466",
           "lastSyncedAt": "2026-11-06T08:04:07.432Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2486",
+      "title": "Append Characters to String to Make Subsequence",
+      "slug": "append-characters-to-string-to-make-subsequence",
+      "problemName": "2486-append-characters-to-string-to-make-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/",
+      "folderPath": "2486-append-characters-to-string-to-make-subsequence/",
+      "readmePath": "2486-append-characters-to-string-to-make-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2486-append-characters-to-string-to-make-subsequence.py",
+          "path": "2486-append-characters-to-string-to-make-subsequence/2486-append-characters-to-string-to-make-subsequence.py",
+          "sha": "eb5c03cc607eba28a6d1bfd336a8dedd941a33c2",
+          "lastSyncedAt": "2026-11-06T08:05:53.387Z"
         }
       ]
     },
