@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T07:52:37.388Z",
+  "updatedAt": "2026-11-06T07:53:23.325Z",
   "problems": [
     {
       "frontendId": "11",
@@ -464,6 +464,26 @@
           "path": "2491-divide-players-into-teams-of-equal-skill/2491-divide-players-into-teams-of-equal-skill.py",
           "sha": "572494950927dc7bf735a96e5df6b979bf77ded9",
           "lastSyncedAt": "2026-11-06T07:34:10.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2938",
+      "title": "Separate Black and White Balls",
+      "slug": "separate-black-and-white-balls",
+      "problemName": "2938-separate-black-and-white-balls",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-black-and-white-balls/",
+      "folderPath": "2938-separate-black-and-white-balls/",
+      "readmePath": "2938-separate-black-and-white-balls/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2938-separate-black-and-white-balls.py",
+          "path": "2938-separate-black-and-white-balls/2938-separate-black-and-white-balls.py",
+          "sha": "fa9d9b8ea567bd5d27c39d12aa285e6559ceaee5",
+          "lastSyncedAt": "2026-11-06T07:53:23.325Z"
         }
       ]
     },
