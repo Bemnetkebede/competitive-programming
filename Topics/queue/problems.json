@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-11-06T07:50:21.208Z",
+  "updatedAt": "2026-11-06T07:50:37.733Z",
   "problems": [
     {
       "frontendId": "225",
@@ -84,6 +84,26 @@
           "path": "0933-number-of-recent-calls/0933-number-of-recent-calls.py",
           "sha": "ca0da5b410ebcf2d077ceb6c5427efd0fc23ca45",
           "lastSyncedAt": "2026-11-06T07:30:07.541Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "950",
+      "title": "Reveal Cards In Increasing Order",
+      "slug": "reveal-cards-in-increasing-order",
+      "problemName": "0950-reveal-cards-in-increasing-order",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reveal-cards-in-increasing-order/",
+      "folderPath": "0950-reveal-cards-in-increasing-order/",
+      "readmePath": "0950-reveal-cards-in-increasing-order/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0950-reveal-cards-in-increasing-order.py",
+          "path": "0950-reveal-cards-in-increasing-order/0950-reveal-cards-in-increasing-order.py",
+          "sha": "9cb41e587670216556f03f3db99bf4d754bdcd9f",
+          "lastSyncedAt": "2026-11-06T07:50:37.733Z"
         }
       ]
     },
