@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T07:54:52.784Z",
+  "updatedAt": "2026-11-06T07:57:42.197Z",
   "problems": [
     {
       "frontendId": "2",
@@ -484,6 +484,26 @@
           "path": "2447-number-of-subarrays-with-gcd-equal-to-k/2447-number-of-subarrays-with-gcd-equal-to-k.py",
           "sha": "a54540600067da9ff6dde79c0bc6a74e0eace756",
           "lastSyncedAt": "2026-11-06T07:38:40.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2582",
+      "title": "Pass the Pillow",
+      "slug": "pass-the-pillow",
+      "problemName": "2582-pass-the-pillow",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pass-the-pillow/",
+      "folderPath": "2582-pass-the-pillow/",
+      "readmePath": "2582-pass-the-pillow/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2582-pass-the-pillow.py",
+          "path": "2582-pass-the-pillow/2582-pass-the-pillow.py",
+          "sha": "e33c5c72d617c8d8220a72ed20ab4fe26e93d417",
+          "lastSyncedAt": "2026-11-06T07:57:42.197Z"
         }
       ]
     },
