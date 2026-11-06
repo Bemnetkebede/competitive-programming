@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:51:59.754Z",
+  "updatedAt": "2026-11-06T07:52:15.973Z",
   "problems": [
     {
       "frontendId": "11",
@@ -24,6 +24,26 @@
           "path": "0011-container-with-most-water/0011-container-with-most-water.py",
           "sha": "fc83f0b24444dfc3b1aa7768f2758131f1a8ee2e",
           "lastSyncedAt": "2026-11-06T07:33:56.600Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "0016-3sum-closest/",
+      "readmePath": "0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0016-3sum-closest.py",
+          "path": "0016-3sum-closest/0016-3sum-closest.py",
+          "sha": "6cfb210b28c02dd1afc9a6bf00c75be612065f9f",
+          "lastSyncedAt": "2026-11-06T07:52:15.973Z"
         }
       ]
     },
