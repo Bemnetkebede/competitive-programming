@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:59:14.523Z",
+  "updatedAt": "2026-11-06T07:59:32.765Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2724,6 +2724,26 @@
           "path": "3066-minimum-operations-to-exceed-threshold-value-ii/3066-minimum-operations-to-exceed-threshold-value-ii.py",
           "sha": "eb54c97b14cc86302bc7c7e804bdcc2ac63648a0",
           "lastSyncedAt": "2026-11-06T07:42:52.614Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.py",
+          "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
+          "sha": "998fb3af9b9f51ef5fcb22f77e8d62e8aaf53328",
+          "lastSyncedAt": "2026-11-06T07:59:32.765Z"
         }
       ]
     },
