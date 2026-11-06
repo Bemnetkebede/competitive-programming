@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T07:59:24.772Z",
+  "updatedAt": "2026-11-06T07:59:32.765Z",
   "problems": [
     {
       "frontendId": "3",
@@ -924,6 +924,26 @@
           "path": "2526-find-consecutive-integers-from-a-data-stream/2526-find-consecutive-integers-from-a-data-stream.py",
           "sha": "b764be36059f101c83be4d9ea504cea7925d94ad",
           "lastSyncedAt": "2026-11-06T07:29:55.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.py",
+          "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
+          "sha": "998fb3af9b9f51ef5fcb22f77e8d62e8aaf53328",
+          "lastSyncedAt": "2026-11-06T07:59:32.765Z"
         }
       ]
     }
