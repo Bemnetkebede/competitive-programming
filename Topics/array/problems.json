@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:02:21.676Z",
+  "updatedAt": "2026-11-06T08:02:29.737Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2784,6 +2784,26 @@
           "path": "2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py",
           "sha": "986ffcf03442b6de1cedb4d50fe98ab034463d12",
           "lastSyncedAt": "2026-11-06T07:34:55.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2465",
+      "title": "Number of Distinct Averages",
+      "slug": "number-of-distinct-averages",
+      "problemName": "2465-number-of-distinct-averages",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-averages/",
+      "folderPath": "2465-number-of-distinct-averages/",
+      "readmePath": "2465-number-of-distinct-averages/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2465-number-of-distinct-averages.py",
+          "path": "2465-number-of-distinct-averages/2465-number-of-distinct-averages.py",
+          "sha": "8c8a9f18d249f3af6c5f74cd0095aec412fa5edb",
+          "lastSyncedAt": "2026-11-06T08:02:29.737Z"
         }
       ]
     },
