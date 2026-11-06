@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T07:53:13.437Z",
+  "updatedAt": "2026-11-06T07:53:53.224Z",
   "problems": [
     {
       "frontendId": "209",
@@ -144,6 +144,26 @@
           "path": "0974-subarray-sums-divisible-by-k/0974-subarray-sums-divisible-by-k.py",
           "sha": "3d8c5e131c66c3118da5cc0fbf6712b386f690a6",
           "lastSyncedAt": "2026-11-06T07:52:47.078Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1004-max-consecutive-ones-iii.py",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
+          "sha": "7eb68dc7ea470628440aa967bcc0538243b672da",
+          "lastSyncedAt": "2026-11-06T07:53:53.224Z"
         }
       ]
     },
