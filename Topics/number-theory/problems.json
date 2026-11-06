@@ -5,8 +5,28 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-06T07:38:40.759Z",
+  "updatedAt": "2026-11-06T08:00:16.136Z",
   "problems": [
+    {
+      "frontendId": "2413",
+      "title": "Smallest Even Multiple",
+      "slug": "smallest-even-multiple",
+      "problemName": "2413-smallest-even-multiple",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+      "folderPath": "2413-smallest-even-multiple/",
+      "readmePath": "2413-smallest-even-multiple/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2413-smallest-even-multiple.py",
+          "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.py",
+          "sha": "f76b50c3155ab386f353fcdd7369bad6d36067e5",
+          "lastSyncedAt": "2026-11-06T08:00:16.136Z"
+        }
+      ]
+    },
     {
       "frontendId": "2447",
       "title": "Number of Subarrays With GCD Equal to K",
