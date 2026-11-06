@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:52:47.078Z",
+  "updatedAt": "2026-11-06T07:52:54.781Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1344,6 +1344,26 @@
           "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.py",
           "sha": "bd1fb39b885049fce11ad1012ea17461d3fd4409",
           "lastSyncedAt": "2026-11-06T07:32:24.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "930",
+      "title": "Binary Subarrays With Sum",
+      "slug": "binary-subarrays-with-sum",
+      "problemName": "0930-binary-subarrays-with-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "folderPath": "0930-binary-subarrays-with-sum/",
+      "readmePath": "0930-binary-subarrays-with-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0930-binary-subarrays-with-sum.py",
+          "path": "0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.py",
+          "sha": "1bd1e994752e90151e482b5bcf6f7d4642540856",
+          "lastSyncedAt": "2026-11-06T07:52:54.781Z"
         }
       ]
     },
