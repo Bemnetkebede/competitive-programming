@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:04:07.432Z",
+  "updatedAt": "2026-11-06T08:04:19.012Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2604,6 +2604,26 @@
           "path": "1962-remove-stones-to-minimize-the-total/1962-remove-stones-to-minimize-the-total.py",
           "sha": "1183ac7b62470d77d06d0e7c64de4fcac132bc4b",
           "lastSyncedAt": "2026-11-06T07:35:11.285Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1991",
+      "title": "Find the Middle Index in Array",
+      "slug": "find-the-middle-index-in-array",
+      "problemName": "1991-find-the-middle-index-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+      "folderPath": "1991-find-the-middle-index-in-array/",
+      "readmePath": "1991-find-the-middle-index-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1991-find-the-middle-index-in-array.py",
+          "path": "1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.py",
+          "sha": "85df7068b3e0b030a727b1fcaff647d8ae461011",
+          "lastSyncedAt": "2026-11-06T08:04:19.012Z"
         }
       ]
     },
