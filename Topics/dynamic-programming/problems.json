@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-06T07:50:08.976Z",
+  "updatedAt": "2026-11-06T07:51:04.065Z",
   "problems": [
     {
       "frontendId": "55",
@@ -624,6 +624,26 @@
           "path": "1373-maximum-sum-bst-in-binary-tree/1373-maximum-sum-bst-in-binary-tree.py",
           "sha": "05d8359a13d71cb27ed4b4d4ebfced552885987d",
           "lastSyncedAt": "2026-11-06T07:40:08.801Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1749",
+      "title": "Maximum Absolute Sum of Any Subarray",
+      "slug": "maximum-absolute-sum-of-any-subarray",
+      "problemName": "1749-maximum-absolute-sum-of-any-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/",
+      "folderPath": "1749-maximum-absolute-sum-of-any-subarray/",
+      "readmePath": "1749-maximum-absolute-sum-of-any-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1749-maximum-absolute-sum-of-any-subarray.py",
+          "path": "1749-maximum-absolute-sum-of-any-subarray/1749-maximum-absolute-sum-of-any-subarray.py",
+          "sha": "615e7eb56ae5777bcc8e361e89834c41ac84874e",
+          "lastSyncedAt": "2026-11-06T07:51:04.065Z"
         }
       ]
     },
