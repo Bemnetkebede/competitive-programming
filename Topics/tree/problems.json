@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-06T07:40:08.801Z",
+  "updatedAt": "2026-11-06T07:40:20.875Z",
   "problems": [
     {
       "frontendId": "100",
@@ -83,7 +83,7 @@
           "filename": "0230-kth-smallest-element-in-a-bst.py",
           "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.py",
           "sha": "e89a4caea9702217c9cfec86d18b7a4fe96eb9a4",
-          "lastSyncedAt": "2026-11-05T12:23:52.836Z"
+          "lastSyncedAt": "2026-11-06T07:40:20.875Z"
         }
       ]
     },
