@@ -5,7 +5,7 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-11-05T12:20:20.413Z",
+  "updatedAt": "2026-11-06T07:36:04.774Z",
   "problems": [
     {
       "frontendId": "62",
@@ -43,7 +43,7 @@
           "filename": "2063-vowels-of-all-substrings.py",
           "path": "2063-vowels-of-all-substrings/2063-vowels-of-all-substrings.py",
           "sha": "3a4a97b94d88eb3a9face9d34d98ed69392d8a00",
-          "lastSyncedAt": "2026-11-05T12:18:12.435Z"
+          "lastSyncedAt": "2026-11-06T07:36:04.774Z"
         }
       ]
     }
