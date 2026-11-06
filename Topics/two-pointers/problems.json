@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:05:26.374Z",
+  "updatedAt": "2026-11-06T08:05:35.381Z",
   "problems": [
     {
       "frontendId": "11",
@@ -544,6 +544,26 @@
           "path": "1471-the-k-strongest-values-in-an-array/1471-the-k-strongest-values-in-an-array.py",
           "sha": "b5c32a44b3be6ae67f0b14fb9db06321a9aa8a6c",
           "lastSyncedAt": "2026-11-06T08:05:26.374Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "problemName": "1877-minimize-maximum-pair-sum-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+      "folderPath": "1877-minimize-maximum-pair-sum-in-array/",
+      "readmePath": "1877-minimize-maximum-pair-sum-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1877-minimize-maximum-pair-sum-in-array.py",
+          "path": "1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.py",
+          "sha": "1f8faff0da5e638c4e86f6b033bb87b36b510605",
+          "lastSyncedAt": "2026-11-06T08:05:35.381Z"
         }
       ]
     },
