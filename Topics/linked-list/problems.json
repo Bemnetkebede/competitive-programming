@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-06T12:14:34.613Z",
+  "updatedAt": "2026-11-06T12:14:42.250Z",
   "problems": [
     {
       "frontendId": "2",
@@ -263,7 +263,7 @@
           "filename": "0206-reverse-linked-list.py",
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.py",
           "sha": "f0d7c02bc12310b7103281cfe125196637a0f86b",
-          "lastSyncedAt": "2026-11-06T07:32:09.945Z"
+          "lastSyncedAt": "2026-11-06T12:14:42.250Z"
         }
       ]
     },
