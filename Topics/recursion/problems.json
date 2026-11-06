@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-06T07:49:53.557Z",
+  "updatedAt": "2026-11-06T07:50:02.652Z",
   "problems": [
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0050-powx-n.py",
+          "path": "0050-powx-n/0050-powx-n.py",
+          "sha": "bca0164d9aa333c12ac7b92d9864d173ff8938a2",
+          "lastSyncedAt": "2026-11-06T07:50:02.652Z"
+        }
+      ]
+    },
     {
       "frontendId": "203",
       "title": "Remove Linked List Elements",
