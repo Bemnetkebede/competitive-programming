@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-06T07:50:29.830Z",
+  "updatedAt": "2026-11-06T07:51:28.397Z",
   "problems": [
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "0025-reverse-nodes-in-k-group/",
+      "readmePath": "0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0025-reverse-nodes-in-k-group.py",
+          "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.py",
+          "sha": "b200eeba5a199695892bddcdc9109410e60acb73",
+          "lastSyncedAt": "2026-11-06T07:51:28.397Z"
+        }
+      ]
+    },
     {
       "frontendId": "50",
       "title": "Pow(x, n)",
