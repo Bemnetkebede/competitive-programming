@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:56:26.034Z",
+  "updatedAt": "2026-11-06T07:57:36.840Z",
   "problems": [
     {
       "frontendId": "3",
@@ -684,6 +684,26 @@
           "path": "2063-vowels-of-all-substrings/2063-vowels-of-all-substrings.py",
           "sha": "3a4a97b94d88eb3a9face9d34d98ed69392d8a00",
           "lastSyncedAt": "2026-11-06T07:36:04.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2278",
+      "title": "Percentage of Letter in String",
+      "slug": "percentage-of-letter-in-string",
+      "problemName": "2278-percentage-of-letter-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/percentage-of-letter-in-string/",
+      "folderPath": "2278-percentage-of-letter-in-string/",
+      "readmePath": "2278-percentage-of-letter-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2278-percentage-of-letter-in-string.py",
+          "path": "2278-percentage-of-letter-in-string/2278-percentage-of-letter-in-string.py",
+          "sha": "c264e5c6f96941b0974e5629d92792ffe67f6dee",
+          "lastSyncedAt": "2026-11-06T07:57:36.840Z"
         }
       ]
     },
