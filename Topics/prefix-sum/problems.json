@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T08:03:54.219Z",
+  "updatedAt": "2026-11-06T08:04:00.917Z",
   "problems": [
     {
       "frontendId": "209",
@@ -184,6 +184,26 @@
           "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
           "sha": "7eb68dc7ea470628440aa967bcc0538243b672da",
           "lastSyncedAt": "2026-11-06T07:53:53.224Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1413",
+      "title": "Minimum Value to Get Positive Step by Step Sum",
+      "slug": "minimum-value-to-get-positive-step-by-step-sum",
+      "problemName": "1413-minimum-value-to-get-positive-step-by-step-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/",
+      "folderPath": "1413-minimum-value-to-get-positive-step-by-step-sum/",
+      "readmePath": "1413-minimum-value-to-get-positive-step-by-step-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1413-minimum-value-to-get-positive-step-by-step-sum.py",
+          "path": "1413-minimum-value-to-get-positive-step-by-step-sum/1413-minimum-value-to-get-positive-step-by-step-sum.py",
+          "sha": "d797b3db81f5617c913e4bac1530653ce55560f0",
+          "lastSyncedAt": "2026-11-06T08:04:00.917Z"
         }
       ]
     },
