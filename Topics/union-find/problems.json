@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-06T07:43:54.436Z",
+  "updatedAt": "2026-11-06T07:45:29.731Z",
   "problems": [
     {
       "frontendId": "130",
@@ -83,7 +83,7 @@
           "filename": "0547-number-of-provinces.py",
           "path": "0547-number-of-provinces/0547-number-of-provinces.py",
           "sha": "b4638c50c84cecdc11c589a4e7532159ccf17199",
-          "lastSyncedAt": "2026-11-05T07:40:07.977Z"
+          "lastSyncedAt": "2026-11-06T07:45:29.731Z"
         }
       ]
     },
