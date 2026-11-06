@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:59:24.772Z",
+  "updatedAt": "2026-11-06T07:59:58.997Z",
   "problems": [
     {
       "frontendId": "3",
@@ -584,6 +584,26 @@
           "path": "0811-subdomain-visit-count/0811-subdomain-visit-count.py",
           "sha": "801a4b7b11a7580ea6d939912d9b17048770d1a5",
           "lastSyncedAt": "2026-11-06T07:59:14.523Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "831",
+      "title": "Masking Personal Information",
+      "slug": "masking-personal-information",
+      "problemName": "0831-masking-personal-information",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/masking-personal-information/",
+      "folderPath": "0831-masking-personal-information/",
+      "readmePath": "0831-masking-personal-information/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0831-masking-personal-information.py",
+          "path": "0831-masking-personal-information/0831-masking-personal-information.py",
+          "sha": "6ff0a10d3391f987de796d47447bd9a704afcabd",
+          "lastSyncedAt": "2026-11-06T07:59:58.997Z"
         }
       ]
     },
