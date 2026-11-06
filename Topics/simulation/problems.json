@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T08:01:03.545Z",
+  "updatedAt": "2026-11-06T08:01:12.417Z",
   "problems": [
     {
       "frontendId": "54",
@@ -204,6 +204,26 @@
           "path": "1823-find-the-winner-of-the-circular-game/1823-find-the-winner-of-the-circular-game.py",
           "sha": "7baa1a5da8fec4c08e41daa05166cf64bcf59dd7",
           "lastSyncedAt": "2026-11-06T07:35:02.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1929-concatenation-of-array.py",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.py",
+          "sha": "937b9fbd4c59ce44426a973c9fe5152d74ebf99d",
+          "lastSyncedAt": "2026-11-06T08:01:12.417Z"
         }
       ]
     },
