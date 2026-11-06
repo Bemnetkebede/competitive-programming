@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-06T07:49:04.986Z",
+  "updatedAt": "2026-11-06T12:19:43.480Z",
   "problems": [
     {
       "frontendId": "46",
@@ -103,7 +103,7 @@
           "filename": "0494-target-sum.py",
           "path": "0494-target-sum/0494-target-sum.py",
           "sha": "64ee647130bc72ab18734d2762a3bb74ddb30754",
-          "lastSyncedAt": "2026-11-06T07:36:49.128Z"
+          "lastSyncedAt": "2026-11-06T12:19:43.480Z"
         }
       ]
     }
