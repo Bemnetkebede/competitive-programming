@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:02:41.417Z",
+  "updatedAt": "2026-11-06T08:02:51.480Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2864,6 +2864,26 @@
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.py",
           "sha": "8813d5f329d949937921d5322d963cd67a4a6b40",
           "lastSyncedAt": "2026-11-06T08:00:48.092Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2562",
+      "title": "Find the Array Concatenation Value",
+      "slug": "find-the-array-concatenation-value",
+      "problemName": "2562-find-the-array-concatenation-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-array-concatenation-value/",
+      "folderPath": "2562-find-the-array-concatenation-value/",
+      "readmePath": "2562-find-the-array-concatenation-value/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2562-find-the-array-concatenation-value.py",
+          "path": "2562-find-the-array-concatenation-value/2562-find-the-array-concatenation-value.py",
+          "sha": "c0690110b37591bbcf8556d84fa767ba5b93f0d4",
+          "lastSyncedAt": "2026-11-06T08:02:51.480Z"
         }
       ]
     },
