@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T12:14:00.114Z",
+  "updatedAt": "2026-11-06T12:16:27.883Z",
   "problems": [
     {
       "frontendId": "15",
@@ -143,7 +143,7 @@
           "filename": "0088-merge-sorted-array.py",
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "47e8908d92d91bafbaccb9ec0ae64299e129dfcc",
-          "lastSyncedAt": "2026-11-06T07:33:45.399Z"
+          "lastSyncedAt": "2026-11-06T12:16:27.883Z"
         }
       ]
     },
