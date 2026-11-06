@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-06T07:50:21.208Z",
+  "updatedAt": "2026-11-06T07:51:21.910Z",
   "problems": [
     {
       "frontendId": "146",
@@ -184,6 +184,26 @@
           "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.py",
           "sha": "9074ddc71c514b7464219d60e0866f2787837beb",
           "lastSyncedAt": "2026-11-06T07:42:58.147Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "707",
+      "title": "Design Linked List",
+      "slug": "design-linked-list",
+      "problemName": "0707-design-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-linked-list/",
+      "folderPath": "0707-design-linked-list/",
+      "readmePath": "0707-design-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0707-design-linked-list.py",
+          "path": "0707-design-linked-list/0707-design-linked-list.py",
+          "sha": "a33f2f7515ecd213ed36618d575293d809561afd",
+          "lastSyncedAt": "2026-11-06T07:51:21.910Z"
         }
       ]
     },
