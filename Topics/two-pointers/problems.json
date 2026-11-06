@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T07:54:02.770Z",
+  "updatedAt": "2026-11-06T07:55:34.280Z",
   "problems": [
     {
       "frontendId": "11",
@@ -84,6 +84,26 @@
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "268affb7aab309bfc4830d1fb73dfa2b75779676",
           "lastSyncedAt": "2026-11-06T07:33:41.181Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0075-sort-colors.py",
+          "path": "0075-sort-colors/0075-sort-colors.py",
+          "sha": "5dbe680b5a36db59c6973a410bef9e64d21ab3f0",
+          "lastSyncedAt": "2026-11-06T07:55:34.280Z"
         }
       ]
     },
