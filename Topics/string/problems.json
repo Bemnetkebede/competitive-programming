@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:53:38.295Z",
+  "updatedAt": "2026-11-06T07:53:45.726Z",
   "problems": [
     {
       "frontendId": "3",
@@ -284,6 +284,26 @@
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
           "sha": "d451f15320d3ee03c49ab62831231ad32da89f65",
           "lastSyncedAt": "2026-11-06T07:33:05.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "problemName": "0438-find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+      "folderPath": "0438-find-all-anagrams-in-a-string/",
+      "readmePath": "0438-find-all-anagrams-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0438-find-all-anagrams-in-a-string.py",
+          "path": "0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.py",
+          "sha": "5d93206e400014df7d83d1ece6ed5ddd9426326c",
+          "lastSyncedAt": "2026-11-06T07:53:45.726Z"
         }
       ]
     },
