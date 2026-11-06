@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:03:01.557Z",
+  "updatedAt": "2026-11-06T08:03:11.117Z",
   "problems": [
     {
       "frontendId": "11",
@@ -644,6 +644,26 @@
           "path": "2938-separate-black-and-white-balls/2938-separate-black-and-white-balls.py",
           "sha": "fa9d9b8ea567bd5d27c39d12aa285e6559ceaee5",
           "lastSyncedAt": "2026-11-06T07:53:23.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3194",
+      "title": "Minimum Average of Smallest and Largest Elements",
+      "slug": "minimum-average-of-smallest-and-largest-elements",
+      "problemName": "3194-minimum-average-of-smallest-and-largest-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/",
+      "folderPath": "3194-minimum-average-of-smallest-and-largest-elements/",
+      "readmePath": "3194-minimum-average-of-smallest-and-largest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3194-minimum-average-of-smallest-and-largest-elements.py",
+          "path": "3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.py",
+          "sha": "fb2325f5b5b979c66ff0d9685ed899415413f258",
+          "lastSyncedAt": "2026-11-06T08:03:11.117Z"
         }
       ]
     },
