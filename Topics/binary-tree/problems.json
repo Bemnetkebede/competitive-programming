@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-06T12:23:56.133Z",
+  "updatedAt": "2026-11-06T12:24:04.279Z",
   "problems": [
     {
       "frontendId": "94",
@@ -303,7 +303,7 @@
           "filename": "0700-search-in-a-binary-search-tree.py",
           "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.py",
           "sha": "f0661dd2f2409aed040095e391819ea882adfe49",
-          "lastSyncedAt": "2026-11-06T07:40:55.586Z"
+          "lastSyncedAt": "2026-11-06T12:24:04.279Z"
         }
       ]
     },
