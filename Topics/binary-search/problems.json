@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-06T08:04:07.432Z",
+  "updatedAt": "2026-11-06T08:04:34.878Z",
   "problems": [
     {
       "frontendId": "34",
@@ -244,6 +244,26 @@
           "path": "0704-binary-search/0704-binary-search.py",
           "sha": "f94a0153bdd8497f3e4fdb1a89ca4d94293ca16c",
           "lastSyncedAt": "2026-11-06T07:47:20.694Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "713",
+      "title": "Subarray Product Less Than K",
+      "slug": "subarray-product-less-than-k",
+      "problemName": "0713-subarray-product-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+      "folderPath": "0713-subarray-product-less-than-k/",
+      "readmePath": "0713-subarray-product-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0713-subarray-product-less-than-k.py",
+          "path": "0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py",
+          "sha": "3668195913f48153682016f820d01ccc1be562f0",
+          "lastSyncedAt": "2026-11-06T08:04:34.878Z"
         }
       ]
     },
