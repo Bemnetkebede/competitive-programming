@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T08:01:03.545Z",
+  "updatedAt": "2026-11-06T08:01:18.886Z",
   "problems": [
     {
       "frontendId": "3",
@@ -624,6 +624,26 @@
           "path": "0763-partition-labels/0763-partition-labels.py",
           "sha": "cf6f4236f0a947802fa385eac9f20bc2b3dba29b",
           "lastSyncedAt": "2026-11-06T07:33:27.312Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "796",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "problemName": "0796-rotate-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+      "folderPath": "0796-rotate-string/",
+      "readmePath": "0796-rotate-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0796-rotate-string.py",
+          "path": "0796-rotate-string/0796-rotate-string.py",
+          "sha": "920465020f8b94382c5d692dbdd09b748c7475bb",
+          "lastSyncedAt": "2026-11-06T08:01:18.886Z"
         }
       ]
     },
