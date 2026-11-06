@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:52:37.388Z",
+  "updatedAt": "2026-11-06T07:52:47.078Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1364,6 +1364,26 @@
           "path": "0950-reveal-cards-in-increasing-order/0950-reveal-cards-in-increasing-order.py",
           "sha": "9cb41e587670216556f03f3db99bf4d754bdcd9f",
           "lastSyncedAt": "2026-11-06T07:50:37.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "974",
+      "title": "Subarray Sums Divisible by K",
+      "slug": "subarray-sums-divisible-by-k",
+      "problemName": "0974-subarray-sums-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+      "folderPath": "0974-subarray-sums-divisible-by-k/",
+      "readmePath": "0974-subarray-sums-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0974-subarray-sums-divisible-by-k.py",
+          "path": "0974-subarray-sums-divisible-by-k/0974-subarray-sums-divisible-by-k.py",
+          "sha": "3d8c5e131c66c3118da5cc0fbf6712b386f690a6",
+          "lastSyncedAt": "2026-11-06T07:52:47.078Z"
         }
       ]
     },
