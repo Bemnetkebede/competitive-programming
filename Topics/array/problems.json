@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:04:19.012Z",
+  "updatedAt": "2026-11-06T08:04:26.158Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1384,6 +1384,26 @@
           "path": "0661-image-smoother/0661-image-smoother.py",
           "sha": "3c4c2176f1a236196f6b2f69de3491821d279c66",
           "lastSyncedAt": "2026-11-06T07:54:38.911Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "0682-baseball-game/",
+      "readmePath": "0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0682-baseball-game.py",
+          "path": "0682-baseball-game/0682-baseball-game.py",
+          "sha": "30fff6765dd34a3ddec4fbaf8d6006ae42f65ba1",
+          "lastSyncedAt": "2026-11-06T08:04:26.158Z"
         }
       ]
     },
