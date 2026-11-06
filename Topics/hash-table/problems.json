@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T07:56:35.835Z",
+  "updatedAt": "2026-11-06T07:56:51.362Z",
   "problems": [
     {
       "frontendId": "3",
@@ -664,6 +664,26 @@
           "path": "1726-tuple-with-same-product/1726-tuple-with-same-product.py",
           "sha": "79258d60393960bdf614e92539530e5b062ecdcc",
           "lastSyncedAt": "2026-11-06T07:54:10.686Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1893",
+      "title": "Check if All the Integers in a Range Are Covered",
+      "slug": "check-if-all-the-integers-in-a-range-are-covered",
+      "problemName": "1893-check-if-all-the-integers-in-a-range-are-covered",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/",
+      "folderPath": "1893-check-if-all-the-integers-in-a-range-are-covered/",
+      "readmePath": "1893-check-if-all-the-integers-in-a-range-are-covered/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1893-check-if-all-the-integers-in-a-range-are-covered.py",
+          "path": "1893-check-if-all-the-integers-in-a-range-are-covered/1893-check-if-all-the-integers-in-a-range-are-covered.py",
+          "sha": "fac4c4402f01bc5155d0c2126780ba51d2c10465",
+          "lastSyncedAt": "2026-11-06T07:56:51.362Z"
         }
       ]
     },
