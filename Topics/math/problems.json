@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T08:01:26.817Z",
+  "updatedAt": "2026-11-06T08:01:37.253Z",
   "problems": [
     {
       "frontendId": "2",
@@ -564,6 +564,26 @@
           "path": "2169-count-operations-to-obtain-zero/2169-count-operations-to-obtain-zero.py",
           "sha": "cdcc857329b511d9de404e93fa854f79e51d563c",
           "lastSyncedAt": "2026-11-06T07:36:00.834Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2177",
+      "title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "slug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+      "problemName": "2177-find-three-consecutive-integers-that-sum-to-a-given-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/",
+      "folderPath": "2177-find-three-consecutive-integers-that-sum-to-a-given-number/",
+      "readmePath": "2177-find-three-consecutive-integers-that-sum-to-a-given-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2177-find-three-consecutive-integers-that-sum-to-a-given-number.py",
+          "path": "2177-find-three-consecutive-integers-that-sum-to-a-given-number/2177-find-three-consecutive-integers-that-sum-to-a-given-number.py",
+          "sha": "5aac1356fabbd83bf10faa4e55ba8fc4d42bb7ba",
+          "lastSyncedAt": "2026-11-06T08:01:37.253Z"
         }
       ]
     },
