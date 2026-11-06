@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:58:30.080Z",
+  "updatedAt": "2026-11-06T07:58:37.256Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2064,6 +2064,26 @@
           "path": "1514-path-with-maximum-probability/1514-path-with-maximum-probability.py",
           "sha": "6b49d5eafa89425a1c3690ce56b8c6fee4223a6f",
           "lastSyncedAt": "2026-11-06T07:37:56.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1528",
+      "title": "Shuffle String",
+      "slug": "shuffle-string",
+      "problemName": "1528-shuffle-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-string/",
+      "folderPath": "1528-shuffle-string/",
+      "readmePath": "1528-shuffle-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1528-shuffle-string.py",
+          "path": "1528-shuffle-string/1528-shuffle-string.py",
+          "sha": "8c3702861b446783c1f915e8f562b8fa0fab4799",
+          "lastSyncedAt": "2026-11-06T07:58:37.256Z"
         }
       ]
     },
