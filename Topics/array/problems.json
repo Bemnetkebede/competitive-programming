@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:58:21.766Z",
+  "updatedAt": "2026-11-06T07:58:30.080Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1704,6 +1704,26 @@
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
           "sha": "86d0a84b046aad6b110274b1581c35baae191ecf",
           "lastSyncedAt": "2026-11-06T07:31:26.173Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "985",
+      "title": "Sum of Even Numbers After Queries",
+      "slug": "sum-of-even-numbers-after-queries",
+      "problemName": "0985-sum-of-even-numbers-after-queries",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-even-numbers-after-queries/",
+      "folderPath": "0985-sum-of-even-numbers-after-queries/",
+      "readmePath": "0985-sum-of-even-numbers-after-queries/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0985-sum-of-even-numbers-after-queries.py",
+          "path": "0985-sum-of-even-numbers-after-queries/0985-sum-of-even-numbers-after-queries.py",
+          "sha": "d3308b01fa31361c4b58f766fbfb5a1fb4a37f13",
+          "lastSyncedAt": "2026-11-06T07:58:30.080Z"
         }
       ]
     },
