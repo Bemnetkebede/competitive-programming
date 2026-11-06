@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:55:48.371Z",
+  "updatedAt": "2026-11-06T07:56:01.122Z",
   "problems": [
     {
       "frontendId": "3",
@@ -584,6 +584,26 @@
           "path": "1221-split-a-string-in-balanced-strings/1221-split-a-string-in-balanced-strings.py",
           "sha": "5fc5bace8b0f7c86891199ce207d0260d6ad9787",
           "lastSyncedAt": "2026-11-06T07:50:55.498Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1324",
+      "title": "Print Words Vertically",
+      "slug": "print-words-vertically",
+      "problemName": "1324-print-words-vertically",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/print-words-vertically/",
+      "folderPath": "1324-print-words-vertically/",
+      "readmePath": "1324-print-words-vertically/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1324-print-words-vertically.py",
+          "path": "1324-print-words-vertically/1324-print-words-vertically.py",
+          "sha": "6ad850dc873e8ad59a466e949886c1cd757ff083",
+          "lastSyncedAt": "2026-11-06T07:56:01.122Z"
         }
       ]
     },
