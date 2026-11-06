@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T08:03:45.664Z",
+  "updatedAt": "2026-11-06T08:03:54.219Z",
   "problems": [
     {
       "frontendId": "209",
@@ -324,6 +324,26 @@
           "path": "2485-find-the-pivot-integer/2485-find-the-pivot-integer.py",
           "sha": "8416821941793b1822937ebc097661a750ba2420",
           "lastSyncedAt": "2026-11-06T08:03:19.801Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2574-left-and-right-sum-differences.py",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.py",
+          "sha": "c1931972c1857716f638cf89717d982dcad04ff6",
+          "lastSyncedAt": "2026-11-06T08:03:54.219Z"
         }
       ]
     },
