@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-06T07:55:14.428Z",
+  "updatedAt": "2026-11-06T07:55:48.371Z",
   "problems": [
     {
       "frontendId": "347",
@@ -24,6 +24,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
           "sha": "181de41288534b031488a292543a69393bf220e5",
           "lastSyncedAt": "2026-11-06T07:46:12.535Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "1ee6a7991328ae894933b7eac56e54819f07874d",
+          "lastSyncedAt": "2026-11-06T07:55:48.371Z"
         }
       ]
     },
