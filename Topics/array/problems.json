@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:54:52.784Z",
+  "updatedAt": "2026-11-06T07:55:04.179Z",
   "problems": [
     {
       "frontendId": "11",
@@ -404,6 +404,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "6c3fda3f93122db10a73691759b35d9d146b7e70",
           "lastSyncedAt": "2026-11-06T07:34:21.724Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "0179-largest-number/",
+      "readmePath": "0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0179-largest-number.py",
+          "path": "0179-largest-number/0179-largest-number.py",
+          "sha": "65f5b6ca811aa4a98e4083ce1a25cdfce1cb6a93",
+          "lastSyncedAt": "2026-11-06T07:55:04.179Z"
         }
       ]
     },
