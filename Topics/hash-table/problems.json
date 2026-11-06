@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T07:55:48.371Z",
+  "updatedAt": "2026-11-06T07:56:35.835Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.py",
           "sha": "031779104f031472f9013834bbd640da4d1d0c58",
           "lastSyncedAt": "2026-11-06T07:38:54.586Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0229-majority-element-ii.py",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.py",
+          "sha": "de0c326e9f6f83e922477511b6092a9fac9aca13",
+          "lastSyncedAt": "2026-11-06T07:56:35.835Z"
         }
       ]
     },
