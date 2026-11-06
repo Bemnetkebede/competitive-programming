@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:51:04.065Z",
+  "updatedAt": "2026-11-06T07:51:50.912Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1844,6 +1844,26 @@
           "path": "2226-maximum-candies-allocated-to-k-children/2226-maximum-candies-allocated-to-k-children.py",
           "sha": "850d7ba44bb7be1a9e30848c4065fa98a5ced3fa",
           "lastSyncedAt": "2026-11-06T07:46:33.038Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2381",
+      "title": "Shifting Letters II",
+      "slug": "shifting-letters-ii",
+      "problemName": "2381-shifting-letters-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shifting-letters-ii/",
+      "folderPath": "2381-shifting-letters-ii/",
+      "readmePath": "2381-shifting-letters-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2381-shifting-letters-ii.py",
+          "path": "2381-shifting-letters-ii/2381-shifting-letters-ii.py",
+          "sha": "a18f1e70b3185b246f4a38a017fbe160538ff1d0",
+          "lastSyncedAt": "2026-11-06T07:51:50.912Z"
         }
       ]
     },
