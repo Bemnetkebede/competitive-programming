@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:59:58.997Z",
+  "updatedAt": "2026-11-06T08:00:05.093Z",
   "problems": [
     {
       "frontendId": "3",
@@ -204,6 +204,26 @@
           "path": "0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.py",
           "sha": "8447d1bb546bbb737670e5ac6420da255ef535dd",
           "lastSyncedAt": "2026-11-06T07:38:34.043Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0242-valid-anagram.py",
+          "path": "0242-valid-anagram/0242-valid-anagram.py",
+          "sha": "cb71f7b41989d7beca5b1f51c0d3ea0a4825494a",
+          "lastSyncedAt": "2026-11-06T08:00:05.093Z"
         }
       ]
     },
