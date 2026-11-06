@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:54:10.686Z",
+  "updatedAt": "2026-11-06T07:54:19.776Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1924,6 +1924,26 @@
           "path": "1823-find-the-winner-of-the-circular-game/1823-find-the-winner-of-the-circular-game.py",
           "sha": "7baa1a5da8fec4c08e41daa05166cf64bcf59dd7",
           "lastSyncedAt": "2026-11-06T07:35:02.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "1833-maximum-ice-cream-bars/",
+      "readmePath": "1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1833-maximum-ice-cream-bars.py",
+          "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
+          "sha": "20370b0df813916ac374baf3b379e77dc3acfd3c",
+          "lastSyncedAt": "2026-11-06T07:54:19.776Z"
         }
       ]
     },
