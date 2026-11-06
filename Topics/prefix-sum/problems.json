@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T08:04:34.878Z",
+  "updatedAt": "2026-11-06T12:15:32.033Z",
   "problems": [
     {
       "frontendId": "209",
@@ -63,7 +63,7 @@
           "filename": "0303-range-sum-query-immutable.py",
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
           "sha": "fd8490ea5ac7129fdf84d2c9c8dd952255d34bb3",
-          "lastSyncedAt": "2026-11-06T07:32:55.596Z"
+          "lastSyncedAt": "2026-11-06T12:15:32.033Z"
         }
       ]
     },
