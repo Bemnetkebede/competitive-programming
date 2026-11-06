@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:52:15.973Z",
+  "updatedAt": "2026-11-06T07:52:30.908Z",
   "problems": [
     {
       "frontendId": "11",
@@ -504,6 +504,26 @@
           "path": "0213-house-robber-ii/0213-house-robber-ii.py",
           "sha": "29f14da7c6142bda72c8bce1b4fb14e3d5a9fa8e",
           "lastSyncedAt": "2026-11-06T07:35:30.547Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0238-product-of-array-except-self.py",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.py",
+          "sha": "94bec620f5c375b9a4066436829c65a778726796",
+          "lastSyncedAt": "2026-11-06T07:52:30.908Z"
         }
       ]
     },
