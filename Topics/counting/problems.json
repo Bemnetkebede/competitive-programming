@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-06T07:58:12.814Z",
+  "updatedAt": "2026-11-06T07:59:14.523Z",
   "problems": [
     {
       "frontendId": "169",
@@ -84,6 +84,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "1ee6a7991328ae894933b7eac56e54819f07874d",
           "lastSyncedAt": "2026-11-06T07:55:48.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "811",
+      "title": "Subdomain Visit Count",
+      "slug": "subdomain-visit-count",
+      "problemName": "0811-subdomain-visit-count",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subdomain-visit-count/",
+      "folderPath": "0811-subdomain-visit-count/",
+      "readmePath": "0811-subdomain-visit-count/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0811-subdomain-visit-count.py",
+          "path": "0811-subdomain-visit-count/0811-subdomain-visit-count.py",
+          "sha": "801a4b7b11a7580ea6d939912d9b17048770d1a5",
+          "lastSyncedAt": "2026-11-06T07:59:14.523Z"
         }
       ]
     },
