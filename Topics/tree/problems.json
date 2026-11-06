@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-06T07:49:16.751Z",
+  "updatedAt": "2026-11-06T07:49:25.626Z",
   "problems": [
     {
       "frontendId": "100",
@@ -104,6 +104,26 @@
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.py",
           "sha": "09deefa136e00f90872e05c4b1d90c94c4503ffd",
           "lastSyncedAt": "2026-11-06T07:47:37.659Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "problemName": "0145-binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "folderPath": "0145-binary-tree-postorder-traversal/",
+      "readmePath": "0145-binary-tree-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0145-binary-tree-postorder-traversal.py",
+          "path": "0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.py",
+          "sha": "939ddfcb1f4cf398ab71677acdac6c7397aa12c4",
+          "lastSyncedAt": "2026-11-06T07:49:25.626Z"
         }
       ]
     },
