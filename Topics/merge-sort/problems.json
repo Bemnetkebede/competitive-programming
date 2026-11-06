@@ -5,8 +5,28 @@
     "name": "Merge Sort",
     "tagId": "61051"
   },
-  "updatedAt": "2026-11-06T08:07:25.930Z",
+  "updatedAt": "2026-11-06T08:08:52.045Z",
   "problems": [
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0148-sort-list.py",
+          "path": "0148-sort-list/0148-sort-list.py",
+          "sha": "e4e8c0619a8d4819e6bda43a45c09e154a94df2b",
+          "lastSyncedAt": "2026-11-06T08:08:52.045Z"
+        }
+      ]
+    },
     {
       "frontendId": "493",
       "title": "Reverse Pairs",
