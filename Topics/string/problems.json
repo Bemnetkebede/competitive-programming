@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:53:32.080Z",
+  "updatedAt": "2026-11-06T07:53:38.295Z",
   "problems": [
     {
       "frontendId": "3",
@@ -284,6 +284,26 @@
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
           "sha": "d451f15320d3ee03c49ab62831231ad32da89f65",
           "lastSyncedAt": "2026-11-06T07:33:05.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "problemName": "0500-keyboard-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+      "folderPath": "0500-keyboard-row/",
+      "readmePath": "0500-keyboard-row/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0500-keyboard-row.py",
+          "path": "0500-keyboard-row/0500-keyboard-row.py",
+          "sha": "7ed7dc22b3058ef41035e188b9539260d2ef9bb7",
+          "lastSyncedAt": "2026-11-06T07:53:38.295Z"
         }
       ]
     },
