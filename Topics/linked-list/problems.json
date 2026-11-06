@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-06T07:31:38.332Z",
+  "updatedAt": "2026-11-06T07:31:46.167Z",
   "problems": [
     {
       "frontendId": "19",
@@ -183,7 +183,7 @@
           "filename": "0237-delete-node-in-a-linked-list.py",
           "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.py",
           "sha": "e182da227176fe19a68be3e5c10feb21a3ce3ae7",
-          "lastSyncedAt": "2026-11-05T12:12:18.049Z"
+          "lastSyncedAt": "2026-11-06T07:31:46.167Z"
         }
       ]
     },
