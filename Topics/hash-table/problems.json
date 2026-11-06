@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T07:58:44.968Z",
+  "updatedAt": "2026-11-06T07:59:05.629Z",
   "problems": [
     {
       "frontendId": "3",
@@ -444,6 +444,26 @@
           "path": "0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "f74dd42169f4ce7665cc83452fef95bfd1a2110c",
           "lastSyncedAt": "2026-11-06T07:58:44.968Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "609",
+      "title": "Find Duplicate File in System",
+      "slug": "find-duplicate-file-in-system",
+      "problemName": "0609-find-duplicate-file-in-system",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-duplicate-file-in-system/",
+      "folderPath": "0609-find-duplicate-file-in-system/",
+      "readmePath": "0609-find-duplicate-file-in-system/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0609-find-duplicate-file-in-system.py",
+          "path": "0609-find-duplicate-file-in-system/0609-find-duplicate-file-in-system.py",
+          "sha": "6a3f1d3dc94a9dd431d636be97ef27925142f107",
+          "lastSyncedAt": "2026-11-06T07:59:05.629Z"
         }
       ]
     },
