@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:51:50.912Z",
+  "updatedAt": "2026-11-06T07:52:09.607Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "0139-word-break/0139-word-break.py",
           "sha": "16c7a4b4fd21f841db3351900a8310cc4f296c9a",
           "lastSyncedAt": "2026-11-06T07:36:26.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "168",
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "problemName": "0168-excel-sheet-column-title",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+      "folderPath": "0168-excel-sheet-column-title/",
+      "readmePath": "0168-excel-sheet-column-title/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0168-excel-sheet-column-title.py",
+          "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.py",
+          "sha": "66fc3136b6777cf93abd45361d1fcd91afd2928c",
+          "lastSyncedAt": "2026-11-06T07:52:09.607Z"
         }
       ]
     },
