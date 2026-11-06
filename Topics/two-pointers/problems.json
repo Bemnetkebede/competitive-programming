@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:06:24.371Z",
+  "updatedAt": "2026-11-06T08:06:34.150Z",
   "problems": [
     {
       "frontendId": "11",
@@ -804,6 +804,26 @@
           "path": "2570-merge-two-2d-arrays-by-summing-values/2570-merge-two-2d-arrays-by-summing-values.py",
           "sha": "00fea39d9f27280c6d75a1c70a72e010833d4ce8",
           "lastSyncedAt": "2026-11-06T08:03:01.557Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "problemName": "2824-count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+      "folderPath": "2824-count-pairs-whose-sum-is-less-than-target/",
+      "readmePath": "2824-count-pairs-whose-sum-is-less-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2824-count-pairs-whose-sum-is-less-than-target.py",
+          "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.py",
+          "sha": "d215106a75dbd3c73883afe422bd6ec1fb38a998",
+          "lastSyncedAt": "2026-11-06T08:06:34.150Z"
         }
       ]
     },
