@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:50:37.733Z",
+  "updatedAt": "2026-11-06T07:51:04.065Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1644,6 +1644,26 @@
           "path": "1598-crawler-log-folder/1598-crawler-log-folder.py",
           "sha": "c1fb94a6b737c468946c27c6233fef4a9fb265ec",
           "lastSyncedAt": "2026-11-06T07:30:13.336Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1749",
+      "title": "Maximum Absolute Sum of Any Subarray",
+      "slug": "maximum-absolute-sum-of-any-subarray",
+      "problemName": "1749-maximum-absolute-sum-of-any-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/",
+      "folderPath": "1749-maximum-absolute-sum-of-any-subarray/",
+      "readmePath": "1749-maximum-absolute-sum-of-any-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1749-maximum-absolute-sum-of-any-subarray.py",
+          "path": "1749-maximum-absolute-sum-of-any-subarray/1749-maximum-absolute-sum-of-any-subarray.py",
+          "sha": "615e7eb56ae5777bcc8e361e89834c41ac84874e",
+          "lastSyncedAt": "2026-11-06T07:51:04.065Z"
         }
       ]
     },
