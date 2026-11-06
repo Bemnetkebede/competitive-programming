@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-06T07:46:12.535Z",
+  "updatedAt": "2026-11-06T07:47:37.659Z",
   "problems": [
+    {
+      "frontendId": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "problemName": "0108-convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+      "folderPath": "0108-convert-sorted-array-to-binary-search-tree/",
+      "readmePath": "0108-convert-sorted-array-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0108-convert-sorted-array-to-binary-search-tree.py",
+          "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.py",
+          "sha": "09deefa136e00f90872e05c4b1d90c94c4503ffd",
+          "lastSyncedAt": "2026-11-06T07:47:37.659Z"
+        }
+      ]
+    },
     {
       "frontendId": "347",
       "title": "Top K Frequent Elements",
