@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-06T07:57:02.604Z",
+  "updatedAt": "2026-11-06T08:07:25.930Z",
   "problems": [
     {
       "frontendId": "108",
@@ -64,6 +64,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
           "sha": "181de41288534b031488a292543a69393bf220e5",
           "lastSyncedAt": "2026-11-06T07:46:12.535Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "problemName": "0493-reverse-pairs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
+      "folderPath": "0493-reverse-pairs/",
+      "readmePath": "0493-reverse-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0493-reverse-pairs.py",
+          "path": "0493-reverse-pairs/0493-reverse-pairs.py",
+          "sha": "bac2d6114ccab116befddd6513b49c235fdcf401",
+          "lastSyncedAt": "2026-11-06T08:07:25.930Z"
         }
       ]
     },
