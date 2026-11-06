@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T07:53:53.224Z",
+  "updatedAt": "2026-11-06T07:56:51.362Z",
   "problems": [
     {
       "frontendId": "209",
@@ -204,6 +204,26 @@
           "path": "1589-maximum-sum-obtained-of-any-permutation/1589-maximum-sum-obtained-of-any-permutation.py",
           "sha": "48950775ea28452f66243bd8b56ff9f3473f3c80",
           "lastSyncedAt": "2026-11-06T07:51:59.754Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1893",
+      "title": "Check if All the Integers in a Range Are Covered",
+      "slug": "check-if-all-the-integers-in-a-range-are-covered",
+      "problemName": "1893-check-if-all-the-integers-in-a-range-are-covered",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/",
+      "folderPath": "1893-check-if-all-the-integers-in-a-range-are-covered/",
+      "readmePath": "1893-check-if-all-the-integers-in-a-range-are-covered/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1893-check-if-all-the-integers-in-a-range-are-covered.py",
+          "path": "1893-check-if-all-the-integers-in-a-range-are-covered/1893-check-if-all-the-integers-in-a-range-are-covered.py",
+          "sha": "fac4c4402f01bc5155d0c2126780ba51d2c10465",
+          "lastSyncedAt": "2026-11-06T07:56:51.362Z"
         }
       ]
     },
