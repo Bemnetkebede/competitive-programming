@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:59:41.693Z",
+  "updatedAt": "2026-11-06T07:59:48.871Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2544,6 +2544,26 @@
           "path": "2176-count-equal-and-divisible-pairs-in-an-array/2176-count-equal-and-divisible-pairs-in-an-array.py",
           "sha": "58fd7ee75a3b9ce7fa99865a3fc935cb5cfb5937",
           "lastSyncedAt": "2026-11-06T07:34:49.405Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2225",
+      "title": "Find Players With Zero or One Losses",
+      "slug": "find-players-with-zero-or-one-losses",
+      "problemName": "2225-find-players-with-zero-or-one-losses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-players-with-zero-or-one-losses/",
+      "folderPath": "2225-find-players-with-zero-or-one-losses/",
+      "readmePath": "2225-find-players-with-zero-or-one-losses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2225-find-players-with-zero-or-one-losses.py",
+          "path": "2225-find-players-with-zero-or-one-losses/2225-find-players-with-zero-or-one-losses.py",
+          "sha": "a87b91581af3594122525f66a1cd34c02b23a3cc",
+          "lastSyncedAt": "2026-11-06T07:59:48.871Z"
         }
       ]
     },
