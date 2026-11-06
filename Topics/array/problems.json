@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T12:18:37.021Z",
+  "updatedAt": "2026-11-06T12:18:48.332Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2303,7 +2303,7 @@
           "filename": "1218-longest-arithmetic-subsequence-of-given-difference.py",
           "path": "1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.py",
           "sha": "a0a61396a4a31b38e3aecf301b6655673d145e78",
-          "lastSyncedAt": "2026-11-06T07:35:54.957Z"
+          "lastSyncedAt": "2026-11-06T12:18:48.332Z"
         }
       ]
     },
