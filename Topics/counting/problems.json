@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-06T07:50:55.498Z",
+  "updatedAt": "2026-11-06T07:54:10.686Z",
   "problems": [
     {
       "frontendId": "347",
@@ -44,6 +44,26 @@
           "path": "1221-split-a-string-in-balanced-strings/1221-split-a-string-in-balanced-strings.py",
           "sha": "5fc5bace8b0f7c86891199ce207d0260d6ad9787",
           "lastSyncedAt": "2026-11-06T07:50:55.498Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1726",
+      "title": "Tuple with Same Product",
+      "slug": "tuple-with-same-product",
+      "problemName": "1726-tuple-with-same-product",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/tuple-with-same-product/",
+      "folderPath": "1726-tuple-with-same-product/",
+      "readmePath": "1726-tuple-with-same-product/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1726-tuple-with-same-product.py",
+          "path": "1726-tuple-with-same-product/1726-tuple-with-same-product.py",
+          "sha": "79258d60393960bdf614e92539530e5b062ecdcc",
+          "lastSyncedAt": "2026-11-06T07:54:10.686Z"
         }
       ]
     },
