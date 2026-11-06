@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T08:04:44.753Z",
+  "updatedAt": "2026-11-06T08:05:44.979Z",
   "problems": [
     {
       "frontendId": "54",
@@ -284,6 +284,26 @@
           "path": "2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.py",
           "sha": "292deeee99bab84041058c024663b8478b4ec88b",
           "lastSyncedAt": "2026-11-06T08:00:54.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2149-rearrange-array-elements-by-sign.py",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.py",
+          "sha": "83c65e4637faeac127c0a360f7a32f916d2f3ca3",
+          "lastSyncedAt": "2026-11-06T08:05:44.979Z"
         }
       ]
     },
