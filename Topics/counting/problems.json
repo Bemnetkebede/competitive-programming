@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-06T07:59:48.871Z",
+  "updatedAt": "2026-11-06T08:02:01.988Z",
   "problems": [
     {
       "frontendId": "169",
@@ -144,6 +144,26 @@
           "path": "1221-split-a-string-in-balanced-strings/1221-split-a-string-in-balanced-strings.py",
           "sha": "5fc5bace8b0f7c86891199ce207d0260d6ad9787",
           "lastSyncedAt": "2026-11-06T07:50:55.498Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "df5e2cef828dd611d5fab15c3446a52aa7800df3",
+          "lastSyncedAt": "2026-11-06T08:02:01.988Z"
         }
       ]
     },
