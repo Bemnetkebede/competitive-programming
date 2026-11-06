@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-06T08:00:16.136Z",
+  "updatedAt": "2026-11-06T12:21:42.668Z",
   "problems": [
     {
       "frontendId": "2413",
@@ -43,7 +43,7 @@
           "filename": "2447-number-of-subarrays-with-gcd-equal-to-k.py",
           "path": "2447-number-of-subarrays-with-gcd-equal-to-k/2447-number-of-subarrays-with-gcd-equal-to-k.py",
           "sha": "a54540600067da9ff6dde79c0bc6a74e0eace756",
-          "lastSyncedAt": "2026-11-06T07:38:40.759Z"
+          "lastSyncedAt": "2026-11-06T12:21:42.668Z"
         }
       ]
     }
