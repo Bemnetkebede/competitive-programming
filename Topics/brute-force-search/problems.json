@@ -5,7 +5,7 @@
     "name": "Brute-Force Search",
     "tagId": "88159"
   },
-  "updatedAt": "2026-11-05T12:18:36.377Z",
+  "updatedAt": "2026-11-06T07:36:26.797Z",
   "problems": [
     {
       "frontendId": "139",
@@ -23,7 +23,7 @@
           "filename": "0139-word-break.py",
           "path": "0139-word-break/0139-word-break.py",
           "sha": "16c7a4b4fd21f841db3351900a8310cc4f296c9a",
-          "lastSyncedAt": "2026-11-05T12:18:36.377Z"
+          "lastSyncedAt": "2026-11-06T07:36:26.797Z"
         }
       ]
     }
