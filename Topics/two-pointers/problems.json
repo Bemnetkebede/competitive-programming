@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:05:44.979Z",
+  "updatedAt": "2026-11-06T08:05:53.387Z",
   "problems": [
     {
       "frontendId": "11",
@@ -624,6 +624,26 @@
           "path": "2465-number-of-distinct-averages/2465-number-of-distinct-averages.py",
           "sha": "8c8a9f18d249f3af6c5f74cd0095aec412fa5edb",
           "lastSyncedAt": "2026-11-06T08:02:29.737Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2486",
+      "title": "Append Characters to String to Make Subsequence",
+      "slug": "append-characters-to-string-to-make-subsequence",
+      "problemName": "2486-append-characters-to-string-to-make-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/",
+      "folderPath": "2486-append-characters-to-string-to-make-subsequence/",
+      "readmePath": "2486-append-characters-to-string-to-make-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2486-append-characters-to-string-to-make-subsequence.py",
+          "path": "2486-append-characters-to-string-to-make-subsequence/2486-append-characters-to-string-to-make-subsequence.py",
+          "sha": "eb5c03cc607eba28a6d1bfd336a8dedd941a33c2",
+          "lastSyncedAt": "2026-11-06T08:05:53.387Z"
         }
       ]
     },
