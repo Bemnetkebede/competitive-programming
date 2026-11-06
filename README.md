@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 305 | 127 | 175 | 3 |
+| 306 | 127 | 176 | 3 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-05 | 2 |
-| 2026-11-06 | 1 |
+| 2026-11-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 176 | 58% |
+| Array | 177 | 58% |
 | String | 71 | 23% |
 | Hash Table | 60 | 20% |
 | Two Pointers | 52 | 17% |
-| Sorting | 48 | 16% |
+| Sorting | 49 | 16% |
 | Math | 41 | 13% |
 | Depth-First Search | 36 | 12% |
 | Dynamic Programming | 36 | 12% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 2 |
-| [Array](Topics/array/) | 177 |
+| [Array](Topics/array/) | 178 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -101,7 +101,7 @@ Contains topicwise list of solved problems.
 | [Merge Sort](Topics/merge-sort/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 8 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 9 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
 | [Polygons](Topics/polygons/) | 1 |
@@ -116,8 +116,8 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 6 |
 | [Simulation](Topics/simulation/) | 25 |
 | [Sliding Window](Topics/sliding-window/) | 15 |
-| [Sorting](Topics/sorting/) | 48 |
-| [Stack](Topics/stack/) | 28 |
+| [Sorting](Topics/sorting/) | 49 |
+| [Stack](Topics/stack/) | 29 |
 | [String](Topics/string/) | 72 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Successive Shortest Path Algorithm](Topics/successive-shortest-path-algorithm/) | 1 |
