@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-06T07:48:23.139Z",
+  "updatedAt": "2026-11-06T07:48:44.184Z",
   "problems": [
     {
       "frontendId": "100",
@@ -304,6 +304,26 @@
           "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.py",
           "sha": "78b44dbd5acf99733c634231b486d9edb074ab91",
           "lastSyncedAt": "2026-11-06T07:48:01.878Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2415",
+      "title": "Reverse Odd Levels of Binary Tree",
+      "slug": "reverse-odd-levels-of-binary-tree",
+      "problemName": "2415-reverse-odd-levels-of-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/",
+      "folderPath": "2415-reverse-odd-levels-of-binary-tree/",
+      "readmePath": "2415-reverse-odd-levels-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2415-reverse-odd-levels-of-binary-tree.py",
+          "path": "2415-reverse-odd-levels-of-binary-tree/2415-reverse-odd-levels-of-binary-tree.py",
+          "sha": "5268f73ff586373202c1da8bd215a718f2b74997",
+          "lastSyncedAt": "2026-11-06T07:48:44.184Z"
         }
       ]
     }
