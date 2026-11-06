@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-11-06T07:50:37.733Z",
+  "updatedAt": "2026-11-06T09:36:54.664Z",
   "problems": [
     {
       "frontendId": "225",
@@ -104,6 +104,26 @@
           "path": "0950-reveal-cards-in-increasing-order/0950-reveal-cards-in-increasing-order.py",
           "sha": "9cb41e587670216556f03f3db99bf4d754bdcd9f",
           "lastSyncedAt": "2026-11-06T07:50:37.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1438",
+      "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+      "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "problemName": "1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
+      "folderPath": "1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
+      "readmePath": "1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py",
+          "path": "1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py",
+          "sha": "210558f00d59b9107e50f715e2fee43a1515cf5e",
+          "lastSyncedAt": "2026-11-06T09:36:54.664Z"
         }
       ]
     },
