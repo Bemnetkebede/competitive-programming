@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T07:50:02.652Z",
+  "updatedAt": "2026-11-06T07:50:16.237Z",
   "problems": [
     {
       "frontendId": "48",
@@ -104,6 +104,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
           "sha": "96cf7c2cfd6e5117ac8fe140c3ec2ad4ce5eeeea",
           "lastSyncedAt": "2026-11-06T07:30:34.482Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "172",
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "problemName": "0172-factorial-trailing-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "folderPath": "0172-factorial-trailing-zeroes/",
+      "readmePath": "0172-factorial-trailing-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0172-factorial-trailing-zeroes.py",
+          "path": "0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.py",
+          "sha": "26639436cc0a2beee5d6672ac7f2b6cb4f96193a",
+          "lastSyncedAt": "2026-11-06T07:50:16.237Z"
         }
       ]
     },
