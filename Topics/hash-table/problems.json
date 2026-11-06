@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T08:02:29.737Z",
+  "updatedAt": "2026-11-06T08:02:41.417Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1044,6 +1044,26 @@
           "path": "2526-find-consecutive-integers-from-a-data-stream/2526-find-consecutive-integers-from-a-data-stream.py",
           "sha": "b764be36059f101c83be4d9ea504cea7925d94ad",
           "lastSyncedAt": "2026-11-06T07:29:55.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2540-minimum-common-value.py",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.py",
+          "sha": "f7dacf3a516292b72f167016d5631ae69012c8fd",
+          "lastSyncedAt": "2026-11-06T08:02:41.417Z"
         }
       ]
     },
