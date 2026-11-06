@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-06T07:48:44.184Z",
+  "updatedAt": "2026-11-06T07:48:55.077Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.py",
           "sha": "0e2a86eab6d23f67ebbd7187b0c2e6bf21106c3c",
           "lastSyncedAt": "2026-11-06T07:48:23.139Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "515",
+      "title": "Find Largest Value in Each Tree Row",
+      "slug": "find-largest-value-in-each-tree-row",
+      "problemName": "0515-find-largest-value-in-each-tree-row",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/",
+      "folderPath": "0515-find-largest-value-in-each-tree-row/",
+      "readmePath": "0515-find-largest-value-in-each-tree-row/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0515-find-largest-value-in-each-tree-row.py",
+          "path": "0515-find-largest-value-in-each-tree-row/0515-find-largest-value-in-each-tree-row.py",
+          "sha": "e1bf5ca6a5fcb82800899aff964cd0c8bba8f1ee",
+          "lastSyncedAt": "2026-11-06T07:48:55.077Z"
         }
       ]
     },
