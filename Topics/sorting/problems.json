@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T07:54:19.776Z",
+  "updatedAt": "2026-11-06T07:54:29.383Z",
   "problems": [
     {
       "frontendId": "16",
@@ -364,6 +364,26 @@
           "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.py",
           "sha": "155d0db508254fad8b71fefbce663b3930111bbf",
           "lastSyncedAt": "2026-11-06T07:42:33.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2037",
+      "title": "Minimum Number of Moves to Seat Everyone",
+      "slug": "minimum-number-of-moves-to-seat-everyone",
+      "problemName": "2037-minimum-number-of-moves-to-seat-everyone",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/",
+      "folderPath": "2037-minimum-number-of-moves-to-seat-everyone/",
+      "readmePath": "2037-minimum-number-of-moves-to-seat-everyone/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2037-minimum-number-of-moves-to-seat-everyone.py",
+          "path": "2037-minimum-number-of-moves-to-seat-everyone/2037-minimum-number-of-moves-to-seat-everyone.py",
+          "sha": "ea54884fcde3d2d48677b7f19950f385f25b1ae8",
+          "lastSyncedAt": "2026-11-06T07:54:29.383Z"
         }
       ]
     },
