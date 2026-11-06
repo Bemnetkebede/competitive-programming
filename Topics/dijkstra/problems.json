@@ -5,7 +5,7 @@
     "name": "Dijkstra's Algorithm",
     "tagId": "71093"
   },
-  "updatedAt": "2026-11-06T07:38:04.366Z",
+  "updatedAt": "2026-11-06T12:20:36.555Z",
   "problems": [
     {
       "frontendId": "743",
@@ -23,7 +23,7 @@
           "filename": "0743-network-delay-time.py",
           "path": "0743-network-delay-time/0743-network-delay-time.py",
           "sha": "95088b35e75f21b648142b49a8cc5283898a0e60",
-          "lastSyncedAt": "2026-11-06T07:37:35.782Z"
+          "lastSyncedAt": "2026-11-06T12:20:36.555Z"
         }
       ]
     },
