@@ -5,7 +5,7 @@
     "name": "Knapsack Problem",
     "tagId": "74909"
   },
-  "updatedAt": "2026-11-06T12:19:57.836Z",
+  "updatedAt": "2026-11-06T12:20:13.407Z",
   "problems": [
     {
       "frontendId": "279",
@@ -43,7 +43,7 @@
           "filename": "0322-coin-change.py",
           "path": "0322-coin-change/0322-coin-change.py",
           "sha": "4f03889b700061d1006e41f7fac771ee49ceaffc",
-          "lastSyncedAt": "2026-11-06T07:37:15.367Z"
+          "lastSyncedAt": "2026-11-06T12:20:13.407Z"
         }
       ]
     },
