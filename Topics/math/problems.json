@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T08:01:03.545Z",
+  "updatedAt": "2026-11-06T08:01:26.817Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.py",
           "sha": "22e08de1a101eb6241fe734954405904a25e409b",
           "lastSyncedAt": "2026-11-06T07:51:40.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0009-palindrome-number.py",
+          "path": "0009-palindrome-number/0009-palindrome-number.py",
+          "sha": "ec66f108ca8c190566bf7ab4d54dc0f512ed0d48",
+          "lastSyncedAt": "2026-11-06T08:01:26.817Z"
         }
       ]
     },
