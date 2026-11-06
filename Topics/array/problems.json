@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:00:23.482Z",
+  "updatedAt": "2026-11-06T08:00:40.304Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2824,6 +2824,26 @@
           "path": "3356-zero-array-transformation-ii/3356-zero-array-transformation-ii.py",
           "sha": "d9b20eeeafec1a7847f745385bf2010c400a4ab6",
           "lastSyncedAt": "2026-11-06T07:46:46.752Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3379",
+      "title": "Transformed Array",
+      "slug": "transformed-array",
+      "problemName": "3379-transformed-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transformed-array/",
+      "folderPath": "3379-transformed-array/",
+      "readmePath": "3379-transformed-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3379-transformed-array.py",
+          "path": "3379-transformed-array/3379-transformed-array.py",
+          "sha": "b353161885cc59597169036ec25c7d8625a51e33",
+          "lastSyncedAt": "2026-11-06T08:00:40.304Z"
         }
       ]
     },
