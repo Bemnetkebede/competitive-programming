@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T07:51:50.912Z",
+  "updatedAt": "2026-11-06T07:51:59.754Z",
   "problems": [
     {
       "frontendId": "209",
@@ -64,6 +64,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.py",
           "sha": "72d81aa80ee894607e7d26af1422835fb28ccb64",
           "lastSyncedAt": "2026-11-06T07:33:01.684Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1589",
+      "title": "Maximum Sum Obtained of Any Permutation",
+      "slug": "maximum-sum-obtained-of-any-permutation",
+      "problemName": "1589-maximum-sum-obtained-of-any-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/",
+      "folderPath": "1589-maximum-sum-obtained-of-any-permutation/",
+      "readmePath": "1589-maximum-sum-obtained-of-any-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1589-maximum-sum-obtained-of-any-permutation.py",
+          "path": "1589-maximum-sum-obtained-of-any-permutation/1589-maximum-sum-obtained-of-any-permutation.py",
+          "sha": "48950775ea28452f66243bd8b56ff9f3473f3c80",
+          "lastSyncedAt": "2026-11-06T07:51:59.754Z"
         }
       ]
     },
