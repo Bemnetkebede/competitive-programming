@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T07:53:45.726Z",
+  "updatedAt": "2026-11-06T07:54:10.686Z",
   "problems": [
     {
       "frontendId": "3",
@@ -604,6 +604,26 @@
           "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.py",
           "sha": "60301654ab5d921e8ca2cdb217374ace7ca4af1e",
           "lastSyncedAt": "2026-11-06T07:34:33.216Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1726",
+      "title": "Tuple with Same Product",
+      "slug": "tuple-with-same-product",
+      "problemName": "1726-tuple-with-same-product",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/tuple-with-same-product/",
+      "folderPath": "1726-tuple-with-same-product/",
+      "readmePath": "1726-tuple-with-same-product/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1726-tuple-with-same-product.py",
+          "path": "1726-tuple-with-same-product/1726-tuple-with-same-product.py",
+          "sha": "79258d60393960bdf614e92539530e5b062ecdcc",
+          "lastSyncedAt": "2026-11-06T07:54:10.686Z"
         }
       ]
     },
