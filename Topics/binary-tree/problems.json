@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-06T07:41:00.761Z",
+  "updatedAt": "2026-11-06T07:41:07.827Z",
   "problems": [
     {
       "frontendId": "100",
@@ -163,7 +163,7 @@
           "filename": "0701-insert-into-a-binary-search-tree.py",
           "path": "0701-insert-into-a-binary-search-tree/0701-insert-into-a-binary-search-tree.py",
           "sha": "64a83094dc40db9b3a37e3f478807f0ffe78c8a7",
-          "lastSyncedAt": "2026-11-05T12:24:44.265Z"
+          "lastSyncedAt": "2026-11-06T07:41:07.827Z"
         }
       ]
     },
