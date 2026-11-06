@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:56:51.362Z",
+  "updatedAt": "2026-11-06T07:57:02.604Z",
   "problems": [
     {
       "frontendId": "11",
@@ -424,6 +424,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "6c3fda3f93122db10a73691759b35d9d146b7e70",
           "lastSyncedAt": "2026-11-06T07:34:21.724Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "0169-majority-element/0169-majority-element.py",
+          "sha": "c1aeba367d73cfe3c5050a829a8865596bfe126d",
+          "lastSyncedAt": "2026-11-06T07:57:02.604Z"
         }
       ]
     },
