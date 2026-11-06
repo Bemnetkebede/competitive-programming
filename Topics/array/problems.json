@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:07:49.199Z",
+  "updatedAt": "2026-11-06T08:07:57.859Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0001-two-sum.py",
+          "path": "0001-two-sum/0001-two-sum.py",
+          "sha": "2e581c141c86c8534a3d62a446ed18bd715d2279",
+          "lastSyncedAt": "2026-11-06T08:07:57.859Z"
+        }
+      ]
+    },
     {
       "frontendId": "11",
       "title": "Container With Most Water",
