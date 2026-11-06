@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:50:55.498Z",
+  "updatedAt": "2026-11-06T07:51:50.912Z",
   "problems": [
     {
       "frontendId": "3",
@@ -504,6 +504,26 @@
           "path": "2063-vowels-of-all-substrings/2063-vowels-of-all-substrings.py",
           "sha": "3a4a97b94d88eb3a9face9d34d98ed69392d8a00",
           "lastSyncedAt": "2026-11-06T07:36:04.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2381",
+      "title": "Shifting Letters II",
+      "slug": "shifting-letters-ii",
+      "problemName": "2381-shifting-letters-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shifting-letters-ii/",
+      "folderPath": "2381-shifting-letters-ii/",
+      "readmePath": "2381-shifting-letters-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2381-shifting-letters-ii.py",
+          "path": "2381-shifting-letters-ii/2381-shifting-letters-ii.py",
+          "sha": "a18f1e70b3185b246f4a38a017fbe160538ff1d0",
+          "lastSyncedAt": "2026-11-06T07:51:50.912Z"
         }
       ]
     },
