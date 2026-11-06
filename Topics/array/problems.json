@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:04:53.289Z",
+  "updatedAt": "2026-11-06T08:05:17.697Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2264,6 +2264,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.py",
           "sha": "72d81aa80ee894607e7d26af1422835fb28ccb64",
           "lastSyncedAt": "2026-11-06T07:33:01.684Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1493",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "slug": "longest-subarray-of-1s-after-deleting-one-element",
+      "problemName": "1493-longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+      "folderPath": "1493-longest-subarray-of-1s-after-deleting-one-element/",
+      "readmePath": "1493-longest-subarray-of-1s-after-deleting-one-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1493-longest-subarray-of-1s-after-deleting-one-element.py",
+          "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.py",
+          "sha": "c64931dc63dbedb83352ccae4e93d8321164286a",
+          "lastSyncedAt": "2026-11-06T08:05:17.697Z"
         }
       ]
     },
