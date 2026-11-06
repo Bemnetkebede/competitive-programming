@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-06T07:46:46.752Z",
+  "updatedAt": "2026-11-06T07:46:57.225Z",
   "problems": [
     {
       "frontendId": "74",
@@ -244,6 +244,26 @@
           "path": "2226-maximum-candies-allocated-to-k-children/2226-maximum-candies-allocated-to-k-children.py",
           "sha": "850d7ba44bb7be1a9e30848c4065fa98a5ced3fa",
           "lastSyncedAt": "2026-11-06T07:46:33.038Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2594",
+      "title": "Minimum Time to Repair Cars",
+      "slug": "minimum-time-to-repair-cars",
+      "problemName": "2594-minimum-time-to-repair-cars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-repair-cars/",
+      "folderPath": "2594-minimum-time-to-repair-cars/",
+      "readmePath": "2594-minimum-time-to-repair-cars/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2594-minimum-time-to-repair-cars.py",
+          "path": "2594-minimum-time-to-repair-cars/2594-minimum-time-to-repair-cars.py",
+          "sha": "af7dd0049985ac8ac5abe25b11eae14fade046c8",
+          "lastSyncedAt": "2026-11-06T07:46:57.225Z"
         }
       ]
     },
