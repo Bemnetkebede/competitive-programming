@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-06T07:45:06.430Z",
+  "updatedAt": "2026-11-06T07:45:13.144Z",
   "problems": [
     {
       "frontendId": "100",
@@ -543,7 +543,7 @@
           "filename": "1376-time-needed-to-inform-all-employees.py",
           "path": "1376-time-needed-to-inform-all-employees/1376-time-needed-to-inform-all-employees.py",
           "sha": "51d09bf09b8522729cd3a03ed34b4039e0c822ad",
-          "lastSyncedAt": "2026-11-05T07:39:40.693Z"
+          "lastSyncedAt": "2026-11-06T07:45:13.144Z"
         }
       ]
     },
