@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-06T07:59:14.523Z",
+  "updatedAt": "2026-11-06T07:59:24.772Z",
   "problems": [
     {
       "frontendId": "169",
@@ -164,6 +164,26 @@
           "path": "1726-tuple-with-same-product/1726-tuple-with-same-product.py",
           "sha": "79258d60393960bdf614e92539530e5b062ecdcc",
           "lastSyncedAt": "2026-11-06T07:54:10.686Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1941",
+      "title": "Check if All Characters Have Equal Number of Occurrences",
+      "slug": "check-if-all-characters-have-equal-number-of-occurrences",
+      "problemName": "1941-check-if-all-characters-have-equal-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/",
+      "folderPath": "1941-check-if-all-characters-have-equal-number-of-occurrences/",
+      "readmePath": "1941-check-if-all-characters-have-equal-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1941-check-if-all-characters-have-equal-number-of-occurrences.py",
+          "path": "1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.py",
+          "sha": "44123247ba131d2d5e736f9dd3374e7cb2f32898",
+          "lastSyncedAt": "2026-11-06T07:59:24.772Z"
         }
       ]
     },
