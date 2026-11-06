@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-06T07:57:18.025Z",
+  "updatedAt": "2026-11-06T07:57:28.701Z",
   "problems": [
     {
       "frontendId": "48",
@@ -344,6 +344,26 @@
           "path": "1765-map-of-highest-peak/1765-map-of-highest-peak.py",
           "sha": "68dfa466ed8ddb6effac884802393c2735550aff",
           "lastSyncedAt": "2026-11-06T07:44:32.651Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1886",
+      "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+      "slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+      "problemName": "1886-determine-whether-matrix-can-be-obtained-by-rotation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+      "folderPath": "1886-determine-whether-matrix-can-be-obtained-by-rotation/",
+      "readmePath": "1886-determine-whether-matrix-can-be-obtained-by-rotation/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1886-determine-whether-matrix-can-be-obtained-by-rotation.py",
+          "path": "1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.py",
+          "sha": "3aa4140a50eabf018178df5dc09e4c84784c8f8a",
+          "lastSyncedAt": "2026-11-06T07:57:28.701Z"
         }
       ]
     },
