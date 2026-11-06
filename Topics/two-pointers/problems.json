@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T07:52:15.973Z",
+  "updatedAt": "2026-11-06T07:52:37.388Z",
   "problems": [
     {
       "frontendId": "11",
@@ -404,6 +404,26 @@
           "path": "0881-boats-to-save-people/0881-boats-to-save-people.py",
           "sha": "562d49564251fe51f91a81f1cdf536e715989c18",
           "lastSyncedAt": "2026-11-06T07:34:01.824Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "986",
+      "title": "Interval List Intersections",
+      "slug": "interval-list-intersections",
+      "problemName": "0986-interval-list-intersections",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections/",
+      "folderPath": "0986-interval-list-intersections/",
+      "readmePath": "0986-interval-list-intersections/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0986-interval-list-intersections.py",
+          "path": "0986-interval-list-intersections/0986-interval-list-intersections.py",
+          "sha": "446f684ecab1f5e409f890daa14dbc809f3c0c4c",
+          "lastSyncedAt": "2026-11-06T07:52:37.388Z"
         }
       ]
     },
