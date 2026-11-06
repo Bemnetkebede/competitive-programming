@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:07:57.859Z",
+  "updatedAt": "2026-11-06T08:08:36.094Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "0055-jump-game/0055-jump-game.py",
           "sha": "1c0a75031872ea8b04d5ba68bebad95a4983ab6c",
           "lastSyncedAt": "2026-11-06T07:31:19.866Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "0056-merge-intervals/",
+      "readmePath": "0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0056-merge-intervals.py",
+          "path": "0056-merge-intervals/0056-merge-intervals.py",
+          "sha": "beea891683cc0bfbb816db9d706a41cd84774159",
+          "lastSyncedAt": "2026-11-06T08:08:36.094Z"
         }
       ]
     },
