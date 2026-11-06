@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-06T07:43:26.503Z",
+  "updatedAt": "2026-11-06T07:43:39.073Z",
   "problems": [
     {
       "frontendId": "210",
@@ -23,7 +23,7 @@
           "filename": "0210-course-schedule-ii.py",
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.py",
           "sha": "d2fa77354d53bfaa9de452efe025ff103bde7d8f",
-          "lastSyncedAt": "2026-11-05T07:37:17.698Z"
+          "lastSyncedAt": "2026-11-06T07:43:39.073Z"
         }
       ]
     },
