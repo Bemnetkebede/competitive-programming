@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T07:58:02.185Z",
+  "updatedAt": "2026-11-06T07:58:12.814Z",
   "problems": [
     {
       "frontendId": "3",
@@ -744,6 +744,26 @@
           "path": "1893-check-if-all-the-integers-in-a-range-are-covered/1893-check-if-all-the-integers-in-a-range-are-covered.py",
           "sha": "fac4c4402f01bc5155d0c2126780ba51d2c10465",
           "lastSyncedAt": "2026-11-06T07:56:51.362Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2341",
+      "title": "Maximum Number of Pairs in Array",
+      "slug": "maximum-number-of-pairs-in-array",
+      "problemName": "2341-maximum-number-of-pairs-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-pairs-in-array/",
+      "folderPath": "2341-maximum-number-of-pairs-in-array/",
+      "readmePath": "2341-maximum-number-of-pairs-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2341-maximum-number-of-pairs-in-array.py",
+          "path": "2341-maximum-number-of-pairs-in-array/2341-maximum-number-of-pairs-in-array.py",
+          "sha": "ac43e66d386f5494461ffa8caea99104db9ab4aa",
+          "lastSyncedAt": "2026-11-06T07:58:12.814Z"
         }
       ]
     },
