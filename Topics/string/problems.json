@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T08:05:01.319Z",
+  "updatedAt": "2026-11-06T08:05:11.655Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1204,6 +1204,26 @@
           "path": "3174-clear-digits/3174-clear-digits.py",
           "sha": "d869be9b314776ec0f4d7af6bddf90db6a83b790",
           "lastSyncedAt": "2026-11-06T07:41:19.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3258",
+      "title": "Count Substrings That Satisfy K-Constraint I",
+      "slug": "count-substrings-that-satisfy-k-constraint-i",
+      "problemName": "3258-count-substrings-that-satisfy-k-constraint-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/",
+      "folderPath": "3258-count-substrings-that-satisfy-k-constraint-i/",
+      "readmePath": "3258-count-substrings-that-satisfy-k-constraint-i/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3258-count-substrings-that-satisfy-k-constraint-i.py",
+          "path": "3258-count-substrings-that-satisfy-k-constraint-i/3258-count-substrings-that-satisfy-k-constraint-i.py",
+          "sha": "3cd48a8067358737b7f1ca1f0a99bd9915306bfd",
+          "lastSyncedAt": "2026-11-06T08:05:11.655Z"
         }
       ]
     }
