@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T08:03:11.117Z",
+  "updatedAt": "2026-11-06T08:04:07.432Z",
   "problems": [
     {
       "frontendId": "16",
@@ -664,6 +664,26 @@
           "path": "2225-find-players-with-zero-or-one-losses/2225-find-players-with-zero-or-one-losses.py",
           "sha": "a87b91581af3594122525f66a1cd34c02b23a3cc",
           "lastSyncedAt": "2026-11-06T07:59:48.871Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2389",
+      "title": "Longest Subsequence With Limited Sum",
+      "slug": "longest-subsequence-with-limited-sum",
+      "problemName": "2389-longest-subsequence-with-limited-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
+      "folderPath": "2389-longest-subsequence-with-limited-sum/",
+      "readmePath": "2389-longest-subsequence-with-limited-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2389-longest-subsequence-with-limited-sum.py",
+          "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
+          "sha": "03a157922cba6d7d4b3edf9d88b0936de465e466",
+          "lastSyncedAt": "2026-11-06T08:04:07.432Z"
         }
       ]
     },
