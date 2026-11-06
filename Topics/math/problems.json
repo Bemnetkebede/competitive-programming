@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T07:50:29.830Z",
+  "updatedAt": "2026-11-06T07:50:47.314Z",
   "problems": [
     {
       "frontendId": "48",
@@ -424,6 +424,26 @@
           "path": "2447-number-of-subarrays-with-gcd-equal-to-k/2447-number-of-subarrays-with-gcd-equal-to-k.py",
           "sha": "a54540600067da9ff6dde79c0bc6a74e0eace756",
           "lastSyncedAt": "2026-11-06T07:38:40.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2864",
+      "title": "Maximum Odd Binary Number",
+      "slug": "maximum-odd-binary-number",
+      "problemName": "2864-maximum-odd-binary-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-odd-binary-number/",
+      "folderPath": "2864-maximum-odd-binary-number/",
+      "readmePath": "2864-maximum-odd-binary-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2864-maximum-odd-binary-number.py",
+          "path": "2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.py",
+          "sha": "2ab1d83e7329d8726de9298299e2191ad2326e0c",
+          "lastSyncedAt": "2026-11-06T07:50:47.314Z"
         }
       ]
     }
