@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T08:03:26.732Z",
+  "updatedAt": "2026-11-06T08:03:32.767Z",
   "problems": [
     {
       "frontendId": "209",
@@ -224,6 +224,26 @@
           "path": "1589-maximum-sum-obtained-of-any-permutation/1589-maximum-sum-obtained-of-any-permutation.py",
           "sha": "48950775ea28452f66243bd8b56ff9f3473f3c80",
           "lastSyncedAt": "2026-11-06T07:51:59.754Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "problemName": "1732-find-the-highest-altitude",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "folderPath": "1732-find-the-highest-altitude/",
+      "readmePath": "1732-find-the-highest-altitude/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1732-find-the-highest-altitude.py",
+          "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.py",
+          "sha": "6008559edb50b09cbacff6063bd8a2d5dd510144",
+          "lastSyncedAt": "2026-11-06T08:03:32.767Z"
         }
       ]
     },
