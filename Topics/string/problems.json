@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:53:23.325Z",
+  "updatedAt": "2026-11-06T07:53:32.080Z",
   "problems": [
     {
       "frontendId": "3",
@@ -224,6 +224,26 @@
           "path": "0344-reverse-string/0344-reverse-string.py",
           "sha": "7b7454cf4f2bdd451ef20a80065ae59cc80bdc24",
           "lastSyncedAt": "2026-11-06T07:34:51.878Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "problemName": "0345-reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+      "folderPath": "0345-reverse-vowels-of-a-string/",
+      "readmePath": "0345-reverse-vowels-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0345-reverse-vowels-of-a-string.py",
+          "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.py",
+          "sha": "33193e4186583d75dee11e7d7b322b094951ae68",
+          "lastSyncedAt": "2026-11-06T07:53:32.080Z"
         }
       ]
     },
