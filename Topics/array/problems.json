@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T12:11:34.983Z",
+  "updatedAt": "2026-11-06T12:11:41.791Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2383,7 +2383,7 @@
           "filename": "1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py",
           "path": "1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py",
           "sha": "210558f00d59b9107e50f715e2fee43a1515cf5e",
-          "lastSyncedAt": "2026-11-06T09:36:54.664Z"
+          "lastSyncedAt": "2026-11-06T12:11:41.791Z"
         }
       ]
     },
