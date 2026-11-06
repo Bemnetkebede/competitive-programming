@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:58:44.968Z",
+  "updatedAt": "2026-11-06T07:58:56.323Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1204,6 +1204,26 @@
           "path": "0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "f74dd42169f4ce7665cc83452fef95bfd1a2110c",
           "lastSyncedAt": "2026-11-06T07:58:44.968Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "628",
+      "title": "Maximum Product of Three Numbers",
+      "slug": "maximum-product-of-three-numbers",
+      "problemName": "0628-maximum-product-of-three-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+      "folderPath": "0628-maximum-product-of-three-numbers/",
+      "readmePath": "0628-maximum-product-of-three-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0628-maximum-product-of-three-numbers.py",
+          "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.py",
+          "sha": "6a59d78db66303fb8d7b37a19b5799a3cf66959a",
+          "lastSyncedAt": "2026-11-06T07:58:56.323Z"
         }
       ]
     },
