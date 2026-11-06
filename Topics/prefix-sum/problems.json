@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T07:52:47.078Z",
+  "updatedAt": "2026-11-06T07:52:54.781Z",
   "problems": [
     {
       "frontendId": "209",
@@ -64,6 +64,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
           "sha": "fd8490ea5ac7129fdf84d2c9c8dd952255d34bb3",
           "lastSyncedAt": "2026-11-06T07:32:55.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "930",
+      "title": "Binary Subarrays With Sum",
+      "slug": "binary-subarrays-with-sum",
+      "problemName": "0930-binary-subarrays-with-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "folderPath": "0930-binary-subarrays-with-sum/",
+      "readmePath": "0930-binary-subarrays-with-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0930-binary-subarrays-with-sum.py",
+          "path": "0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.py",
+          "sha": "1bd1e994752e90151e482b5bcf6f7d4642540856",
+          "lastSyncedAt": "2026-11-06T07:52:54.781Z"
         }
       ]
     },
