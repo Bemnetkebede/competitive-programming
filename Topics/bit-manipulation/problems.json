@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-06T07:45:55.409Z",
+  "updatedAt": "2026-11-06T07:48:14.649Z",
   "problems": [
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0078-subsets.py",
+          "path": "0078-subsets/0078-subsets.py",
+          "sha": "4280ac6f18b9f9c638cd333fe47d244c50ddf982",
+          "lastSyncedAt": "2026-11-06T07:48:14.649Z"
+        }
+      ]
+    },
     {
       "frontendId": "268",
       "title": "Missing Number",
