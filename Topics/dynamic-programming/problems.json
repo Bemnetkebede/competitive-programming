@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-06T07:36:12.782Z",
+  "updatedAt": "2026-11-06T07:36:16.741Z",
   "problems": [
     {
       "frontendId": "55",
@@ -223,7 +223,7 @@
           "filename": "0279-perfect-squares.py",
           "path": "0279-perfect-squares/0279-perfect-squares.py",
           "sha": "56e2361d277096fcacb129f6e70fb99e62b32eff",
-          "lastSyncedAt": "2026-11-05T12:18:26.131Z"
+          "lastSyncedAt": "2026-11-06T07:36:16.741Z"
         }
       ]
     },
