@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:02:29.737Z",
+  "updatedAt": "2026-11-06T08:02:41.417Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2824,6 +2824,26 @@
           "path": "2491-divide-players-into-teams-of-equal-skill/2491-divide-players-into-teams-of-equal-skill.py",
           "sha": "572494950927dc7bf735a96e5df6b979bf77ded9",
           "lastSyncedAt": "2026-11-06T07:34:10.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2540-minimum-common-value.py",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.py",
+          "sha": "f7dacf3a516292b72f167016d5631ae69012c8fd",
+          "lastSyncedAt": "2026-11-06T08:02:41.417Z"
         }
       ]
     },
