@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T07:48:30.660Z",
+  "updatedAt": "2026-11-06T07:51:10.510Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0139-word-break/0139-word-break.py",
           "sha": "16c7a4b4fd21f841db3351900a8310cc4f296c9a",
           "lastSyncedAt": "2026-11-06T07:36:26.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0141-linked-list-cycle.py",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.py",
+          "sha": "4e7ad26d298c443688f8dc1dcf638fd84b59e8d8",
+          "lastSyncedAt": "2026-11-06T07:51:10.510Z"
         }
       ]
     },
