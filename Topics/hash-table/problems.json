@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T07:59:14.523Z",
+  "updatedAt": "2026-11-06T07:59:24.772Z",
   "problems": [
     {
       "frontendId": "3",
@@ -824,6 +824,26 @@
           "path": "1893-check-if-all-the-integers-in-a-range-are-covered/1893-check-if-all-the-integers-in-a-range-are-covered.py",
           "sha": "fac4c4402f01bc5155d0c2126780ba51d2c10465",
           "lastSyncedAt": "2026-11-06T07:56:51.362Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1941",
+      "title": "Check if All Characters Have Equal Number of Occurrences",
+      "slug": "check-if-all-characters-have-equal-number-of-occurrences",
+      "problemName": "1941-check-if-all-characters-have-equal-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/",
+      "folderPath": "1941-check-if-all-characters-have-equal-number-of-occurrences/",
+      "readmePath": "1941-check-if-all-characters-have-equal-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1941-check-if-all-characters-have-equal-number-of-occurrences.py",
+          "path": "1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.py",
+          "sha": "44123247ba131d2d5e736f9dd3374e7cb2f32898",
+          "lastSyncedAt": "2026-11-06T07:59:24.772Z"
         }
       ]
     },
