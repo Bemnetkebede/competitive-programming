@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T12:13:16.351Z",
+  "updatedAt": "2026-11-06T12:15:04.539Z",
   "problems": [
     {
       "frontendId": "3",
@@ -583,7 +583,7 @@
           "filename": "0567-permutation-in-string.py",
           "path": "0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "f2e3e1e31536814bd930e94703c075da9f7fa29d",
-          "lastSyncedAt": "2026-11-06T07:32:30.948Z"
+          "lastSyncedAt": "2026-11-06T12:15:04.539Z"
         }
       ]
     },
