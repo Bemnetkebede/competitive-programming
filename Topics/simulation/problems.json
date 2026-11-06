@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T07:57:18.025Z",
+  "updatedAt": "2026-11-06T07:57:42.197Z",
   "problems": [
     {
       "frontendId": "54",
@@ -204,6 +204,26 @@
           "path": "2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py",
           "sha": "986ffcf03442b6de1cedb4d50fe98ab034463d12",
           "lastSyncedAt": "2026-11-06T07:34:55.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2582",
+      "title": "Pass the Pillow",
+      "slug": "pass-the-pillow",
+      "problemName": "2582-pass-the-pillow",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pass-the-pillow/",
+      "folderPath": "2582-pass-the-pillow/",
+      "readmePath": "2582-pass-the-pillow/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2582-pass-the-pillow.py",
+          "path": "2582-pass-the-pillow/2582-pass-the-pillow.py",
+          "sha": "e33c5c72d617c8d8220a72ed20ab4fe26e93d417",
+          "lastSyncedAt": "2026-11-06T07:57:42.197Z"
         }
       ]
     },
