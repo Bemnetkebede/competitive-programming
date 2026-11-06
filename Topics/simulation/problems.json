@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T08:00:48.092Z",
+  "updatedAt": "2026-11-06T08:00:54.788Z",
   "problems": [
     {
       "frontendId": "54",
@@ -184,6 +184,26 @@
           "path": "1823-find-the-winner-of-the-circular-game/1823-find-the-winner-of-the-circular-game.py",
           "sha": "7baa1a5da8fec4c08e41daa05166cf64bcf59dd7",
           "lastSyncedAt": "2026-11-06T07:35:02.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2011-final-value-of-variable-after-performing-operations.py",
+          "path": "2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.py",
+          "sha": "292deeee99bab84041058c024663b8478b4ec88b",
+          "lastSyncedAt": "2026-11-06T08:00:54.788Z"
         }
       ]
     },
