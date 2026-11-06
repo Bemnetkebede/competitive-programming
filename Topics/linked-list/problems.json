@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-06T12:14:49.316Z",
+  "updatedAt": "2026-11-06T12:14:52.864Z",
   "problems": [
     {
       "frontendId": "2",
@@ -243,7 +243,7 @@
           "filename": "0203-remove-linked-list-elements.py",
           "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.py",
           "sha": "19ec6251d859cf0f5b75163cb9e6b77840324dc3",
-          "lastSyncedAt": "2026-11-06T07:32:20.463Z"
+          "lastSyncedAt": "2026-11-06T12:14:52.864Z"
         }
       ]
     },
