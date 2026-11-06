@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-06T07:47:20.694Z",
+  "updatedAt": "2026-11-06T07:47:27.920Z",
   "problems": [
     {
       "frontendId": "34",
@@ -144,6 +144,26 @@
           "path": "0275-h-index-ii/0275-h-index-ii.py",
           "sha": "792e28b7a16e397e243f4bbc287075f75cfccecb",
           "lastSyncedAt": "2026-11-06T07:46:28.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "0278-first-bad-version/",
+      "readmePath": "0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0278-first-bad-version.py",
+          "path": "0278-first-bad-version/0278-first-bad-version.py",
+          "sha": "db3c7c629d011828cf49375ad76a6363c2270efe",
+          "lastSyncedAt": "2026-11-06T07:47:27.920Z"
         }
       ]
     },
