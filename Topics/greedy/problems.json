@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-06T07:54:02.770Z",
+  "updatedAt": "2026-11-06T07:54:19.776Z",
   "problems": [
     {
       "frontendId": "11",
@@ -324,6 +324,26 @@
           "path": "1589-maximum-sum-obtained-of-any-permutation/1589-maximum-sum-obtained-of-any-permutation.py",
           "sha": "48950775ea28452f66243bd8b56ff9f3473f3c80",
           "lastSyncedAt": "2026-11-06T07:51:59.754Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "1833-maximum-ice-cream-bars/",
+      "readmePath": "1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1833-maximum-ice-cream-bars.py",
+          "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
+          "sha": "20370b0df813916ac374baf3b379e77dc3acfd3c",
+          "lastSyncedAt": "2026-11-06T07:54:19.776Z"
         }
       ]
     },
