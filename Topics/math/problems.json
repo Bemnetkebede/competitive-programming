@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T12:13:30.371Z",
+  "updatedAt": "2026-11-06T12:14:00.114Z",
   "problems": [
     {
       "frontendId": "2",
@@ -483,7 +483,7 @@
           "filename": "0976-largest-perimeter-triangle.py",
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
           "sha": "86d0a84b046aad6b110274b1581c35baae191ecf",
-          "lastSyncedAt": "2026-11-06T07:31:26.173Z"
+          "lastSyncedAt": "2026-11-06T12:14:00.114Z"
         }
       ]
     },
