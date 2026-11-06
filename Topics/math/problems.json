@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T08:01:37.253Z",
+  "updatedAt": "2026-11-06T08:01:43.528Z",
   "problems": [
     {
       "frontendId": "2",
@@ -464,6 +464,26 @@
           "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py",
           "sha": "ef1146410c38f889229de8d617c608795fca1d0c",
           "lastSyncedAt": "2026-11-06T07:39:29.736Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1518",
+      "title": "Water Bottles",
+      "slug": "water-bottles",
+      "problemName": "1518-water-bottles",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/water-bottles/",
+      "folderPath": "1518-water-bottles/",
+      "readmePath": "1518-water-bottles/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1518-water-bottles.py",
+          "path": "1518-water-bottles/1518-water-bottles.py",
+          "sha": "7bd162d95179811edd5335e81a2db073d7e45b50",
+          "lastSyncedAt": "2026-11-06T08:01:43.528Z"
         }
       ]
     },
