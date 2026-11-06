@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:56:01.122Z",
+  "updatedAt": "2026-11-06T07:56:26.034Z",
   "problems": [
     {
       "frontendId": "3",
@@ -464,6 +464,26 @@
           "path": "0721-accounts-merge/0721-accounts-merge.py",
           "sha": "a158ff67db28e562d47e12de67eb11673406befa",
           "lastSyncedAt": "2026-11-06T07:42:07.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "722",
+      "title": "Remove Comments",
+      "slug": "remove-comments",
+      "problemName": "0722-remove-comments",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-comments/",
+      "folderPath": "0722-remove-comments/",
+      "readmePath": "0722-remove-comments/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0722-remove-comments.py",
+          "path": "0722-remove-comments/0722-remove-comments.py",
+          "sha": "90c5dc8d3ad24323c348fa89685f537b3388d2ee",
+          "lastSyncedAt": "2026-11-06T07:56:26.034Z"
         }
       ]
     },
