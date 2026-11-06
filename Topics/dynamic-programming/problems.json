@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-06T12:19:53.350Z",
+  "updatedAt": "2026-11-06T12:19:57.836Z",
   "problems": [
     {
       "frontendId": "55",
@@ -383,7 +383,7 @@
           "filename": "0416-partition-equal-subset-sum.py",
           "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.py",
           "sha": "aa43084fda25315e6e6c5a6ef0226c7de4560d11",
-          "lastSyncedAt": "2026-11-06T07:37:02.508Z"
+          "lastSyncedAt": "2026-11-06T12:19:57.836Z"
         }
       ]
     },
