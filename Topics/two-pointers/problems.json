@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:06:34.150Z",
+  "updatedAt": "2026-11-06T08:06:44.775Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "0475-heaters/0475-heaters.py",
           "sha": "7ddfb1db165acab18d28bb58ca4aa0e800318b4a",
           "lastSyncedAt": "2026-11-06T07:45:46.890Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "557",
+      "title": "Reverse Words in a String III",
+      "slug": "reverse-words-in-a-string-iii",
+      "problemName": "0557-reverse-words-in-a-string-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string-iii/",
+      "folderPath": "0557-reverse-words-in-a-string-iii/",
+      "readmePath": "0557-reverse-words-in-a-string-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0557-reverse-words-in-a-string-iii.py",
+          "path": "0557-reverse-words-in-a-string-iii/0557-reverse-words-in-a-string-iii.py",
+          "sha": "cc7ab96c3cc7f2b7445141294ab85f6b3c82f077",
+          "lastSyncedAt": "2026-11-06T08:06:44.775Z"
         }
       ]
     },
