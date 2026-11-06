@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:59:05.629Z",
+  "updatedAt": "2026-11-06T07:59:14.523Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1544,6 +1544,26 @@
           "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.py",
           "sha": "d0a7d59f384aad191bc9c6c02bc60625d0526c7e",
           "lastSyncedAt": "2026-11-06T07:30:49.492Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "811",
+      "title": "Subdomain Visit Count",
+      "slug": "subdomain-visit-count",
+      "problemName": "0811-subdomain-visit-count",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subdomain-visit-count/",
+      "folderPath": "0811-subdomain-visit-count/",
+      "readmePath": "0811-subdomain-visit-count/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0811-subdomain-visit-count.py",
+          "path": "0811-subdomain-visit-count/0811-subdomain-visit-count.py",
+          "sha": "801a4b7b11a7580ea6d939912d9b17048770d1a5",
+          "lastSyncedAt": "2026-11-06T07:59:14.523Z"
         }
       ]
     },
