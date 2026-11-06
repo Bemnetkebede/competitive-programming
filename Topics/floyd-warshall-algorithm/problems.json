@@ -5,7 +5,7 @@
     "name": "Floyd–Warshall Algorithm",
     "tagId": "81688"
   },
-  "updatedAt": "2026-11-06T12:21:04.442Z",
+  "updatedAt": "2026-11-06T12:27:04.366Z",
   "problems": [
     {
       "frontendId": "399",
@@ -23,7 +23,7 @@
           "filename": "0399-evaluate-division.py",
           "path": "0399-evaluate-division/0399-evaluate-division.py",
           "sha": "580c7115cfede29c981ac806bbeb03d5cfa5a056",
-          "lastSyncedAt": "2026-11-06T07:43:54.436Z"
+          "lastSyncedAt": "2026-11-06T12:27:04.366Z"
         }
       ]
     },
