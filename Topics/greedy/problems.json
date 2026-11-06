@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-06T07:50:55.498Z",
+  "updatedAt": "2026-11-06T07:51:59.754Z",
   "problems": [
     {
       "frontendId": "11",
@@ -284,6 +284,26 @@
           "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.py",
           "sha": "78b44dbd5acf99733c634231b486d9edb074ab91",
           "lastSyncedAt": "2026-11-06T07:48:01.878Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1589",
+      "title": "Maximum Sum Obtained of Any Permutation",
+      "slug": "maximum-sum-obtained-of-any-permutation",
+      "problemName": "1589-maximum-sum-obtained-of-any-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/",
+      "folderPath": "1589-maximum-sum-obtained-of-any-permutation/",
+      "readmePath": "1589-maximum-sum-obtained-of-any-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1589-maximum-sum-obtained-of-any-permutation.py",
+          "path": "1589-maximum-sum-obtained-of-any-permutation/1589-maximum-sum-obtained-of-any-permutation.py",
+          "sha": "48950775ea28452f66243bd8b56ff9f3473f3c80",
+          "lastSyncedAt": "2026-11-06T07:51:59.754Z"
         }
       ]
     },
