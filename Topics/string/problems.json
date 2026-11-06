@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T08:06:58.425Z",
+  "updatedAt": "2026-11-06T08:08:04.838Z",
   "problems": [
     {
       "frontendId": "3",
@@ -864,6 +864,26 @@
           "path": "0990-satisfiability-of-equality-equations/0990-satisfiability-of-equality-equations.py",
           "sha": "bc69ca744a72bb46d0f1ff911b84c01a5b124938",
           "lastSyncedAt": "2026-11-06T07:42:26.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1021-remove-outermost-parentheses.py",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.py",
+          "sha": "589054c5ee11e0243136119f43a4aba6b35a1cfc",
+          "lastSyncedAt": "2026-11-06T08:08:04.838Z"
         }
       ]
     },
