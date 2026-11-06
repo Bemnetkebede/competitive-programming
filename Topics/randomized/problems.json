@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "randomized",
+    "name": "Randomized",
+    "tagId": "61075"
+  },
+  "updatedAt": "2026-11-06T07:48:30.660Z",
+  "problems": [
+    {
+      "frontendId": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "problemName": "0380-insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+      "folderPath": "0380-insert-delete-getrandom-o1/",
+      "readmePath": "0380-insert-delete-getrandom-o1/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0380-insert-delete-getrandom-o1.py",
+          "path": "0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.py",
+          "sha": "6be18ba05cf117ce9aa4ab5bbfcffc7a6db0dcf4",
+          "lastSyncedAt": "2026-11-06T07:48:30.660Z"
+        }
+      ]
+    }
+  ]
+}
