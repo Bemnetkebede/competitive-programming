@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T08:01:56.914Z",
+  "updatedAt": "2026-11-06T08:03:39.178Z",
   "problems": [
     {
       "frontendId": "3",
@@ -864,6 +864,26 @@
           "path": "1324-print-words-vertically/1324-print-words-vertically.py",
           "sha": "6ad850dc873e8ad59a466e949886c1cd757ff083",
           "lastSyncedAt": "2026-11-06T07:56:01.122Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1422",
+      "title": "Maximum Score After Splitting a String",
+      "slug": "maximum-score-after-splitting-a-string",
+      "problemName": "1422-maximum-score-after-splitting-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-after-splitting-a-string/",
+      "folderPath": "1422-maximum-score-after-splitting-a-string/",
+      "readmePath": "1422-maximum-score-after-splitting-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1422-maximum-score-after-splitting-a-string.py",
+          "path": "1422-maximum-score-after-splitting-a-string/1422-maximum-score-after-splitting-a-string.py",
+          "sha": "3914c7c5183a6acb084a14619e6df9b0c6dd3cc8",
+          "lastSyncedAt": "2026-11-06T08:03:39.178Z"
         }
       ]
     },
