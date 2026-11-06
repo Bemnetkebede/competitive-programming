@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:46:28.687Z",
+  "updatedAt": "2026-11-06T07:46:33.038Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1643,7 +1643,7 @@
           "filename": "2226-maximum-candies-allocated-to-k-children.py",
           "path": "2226-maximum-candies-allocated-to-k-children/2226-maximum-candies-allocated-to-k-children.py",
           "sha": "850d7ba44bb7be1a9e30848c4065fa98a5ced3fa",
-          "lastSyncedAt": "2026-11-05T07:41:45.956Z"
+          "lastSyncedAt": "2026-11-06T07:46:33.038Z"
         }
       ]
     },
