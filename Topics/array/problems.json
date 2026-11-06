@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:54:38.911Z",
+  "updatedAt": "2026-11-06T07:54:45.507Z",
   "problems": [
     {
       "frontendId": "11",
@@ -544,6 +544,26 @@
           "path": "0268-missing-number/0268-missing-number.py",
           "sha": "db2ac63c9b101bcb1ab707522711347585840134",
           "lastSyncedAt": "2026-11-06T07:41:41.995Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "274",
+      "title": "H-Index",
+      "slug": "h-index",
+      "problemName": "0274-h-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+      "folderPath": "0274-h-index/",
+      "readmePath": "0274-h-index/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0274-h-index.py",
+          "path": "0274-h-index/0274-h-index.py",
+          "sha": "fddc1a63d6f0a7a8922b26b0ada04adeeb54fa0b",
+          "lastSyncedAt": "2026-11-06T07:54:45.507Z"
         }
       ]
     },
