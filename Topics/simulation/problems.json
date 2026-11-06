@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T07:58:30.080Z",
+  "updatedAt": "2026-11-06T08:00:40.304Z",
   "problems": [
     {
       "frontendId": "54",
@@ -284,6 +284,26 @@
           "path": "3174-clear-digits/3174-clear-digits.py",
           "sha": "d869be9b314776ec0f4d7af6bddf90db6a83b790",
           "lastSyncedAt": "2026-11-06T07:41:19.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3379",
+      "title": "Transformed Array",
+      "slug": "transformed-array",
+      "problemName": "3379-transformed-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transformed-array/",
+      "folderPath": "3379-transformed-array/",
+      "readmePath": "3379-transformed-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3379-transformed-array.py",
+          "path": "3379-transformed-array/3379-transformed-array.py",
+          "sha": "b353161885cc59597169036ec25c7d8625a51e33",
+          "lastSyncedAt": "2026-11-06T08:00:40.304Z"
         }
       ]
     }
