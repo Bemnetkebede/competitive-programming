@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-06T07:49:34.970Z",
+  "updatedAt": "2026-11-06T07:49:44.039Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.py",
           "sha": "549c03cbe9824cfd503075a6863c47571815a77e",
           "lastSyncedAt": "2026-11-06T07:49:34.970Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "problemName": "0144-binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "folderPath": "0144-binary-tree-preorder-traversal/",
+      "readmePath": "0144-binary-tree-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0144-binary-tree-preorder-traversal.py",
+          "path": "0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.py",
+          "sha": "d2e93f20275405dcf8b0d4b5cc124643330f45a4",
+          "lastSyncedAt": "2026-11-06T07:49:44.039Z"
         }
       ]
     },
