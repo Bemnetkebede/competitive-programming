@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:54:29.383Z",
+  "updatedAt": "2026-11-06T07:54:38.911Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1104,6 +1104,26 @@
           "path": "0648-replace-words/0648-replace-words.py",
           "sha": "9c6db8958342224ab2166fd97b893bf192debc04",
           "lastSyncedAt": "2026-11-06T07:38:47.143Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "661",
+      "title": "Image Smoother",
+      "slug": "image-smoother",
+      "problemName": "0661-image-smoother",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/image-smoother/",
+      "folderPath": "0661-image-smoother/",
+      "readmePath": "0661-image-smoother/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0661-image-smoother.py",
+          "path": "0661-image-smoother/0661-image-smoother.py",
+          "sha": "3c4c2176f1a236196f6b2f69de3491821d279c66",
+          "lastSyncedAt": "2026-11-06T07:54:38.911Z"
         }
       ]
     },
