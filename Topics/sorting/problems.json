@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T08:00:05.093Z",
+  "updatedAt": "2026-11-06T08:02:29.737Z",
   "problems": [
     {
       "frontendId": "16",
@@ -684,6 +684,26 @@
           "path": "2418-sort-the-people/2418-sort-the-people.py",
           "sha": "5ed0d5ec3d2c7edf42bb3e0e664ea4f7ce7bf197",
           "lastSyncedAt": "2026-11-06T07:34:41.746Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2465",
+      "title": "Number of Distinct Averages",
+      "slug": "number-of-distinct-averages",
+      "problemName": "2465-number-of-distinct-averages",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-distinct-averages/",
+      "folderPath": "2465-number-of-distinct-averages/",
+      "readmePath": "2465-number-of-distinct-averages/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2465-number-of-distinct-averages.py",
+          "path": "2465-number-of-distinct-averages/2465-number-of-distinct-averages.py",
+          "sha": "8c8a9f18d249f3af6c5f74cd0095aec412fa5edb",
+          "lastSyncedAt": "2026-11-06T08:02:29.737Z"
         }
       ]
     },
