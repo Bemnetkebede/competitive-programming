@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-06T07:47:27.920Z",
+  "updatedAt": "2026-11-06T07:53:53.224Z",
   "problems": [
     {
       "frontendId": "34",
@@ -244,6 +244,26 @@
           "path": "0704-binary-search/0704-binary-search.py",
           "sha": "f94a0153bdd8497f3e4fdb1a89ca4d94293ca16c",
           "lastSyncedAt": "2026-11-06T07:47:20.694Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1004-max-consecutive-ones-iii.py",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
+          "sha": "7eb68dc7ea470628440aa967bcc0538243b672da",
+          "lastSyncedAt": "2026-11-06T07:53:53.224Z"
         }
       ]
     },
