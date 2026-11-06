@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-06T12:14:19.096Z",
+  "updatedAt": "2026-11-06T12:14:21.210Z",
   "problems": [
     {
       "frontendId": "2",
@@ -163,7 +163,7 @@
           "filename": "0142-linked-list-cycle-ii.py",
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py",
           "sha": "57b68c173c238d58830f5bece823062112ee8952",
-          "lastSyncedAt": "2026-11-06T07:31:48.428Z"
+          "lastSyncedAt": "2026-11-06T12:14:21.210Z"
         }
       ]
     },
