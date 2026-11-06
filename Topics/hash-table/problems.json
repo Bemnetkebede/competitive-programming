@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T08:03:01.557Z",
+  "updatedAt": "2026-11-06T08:03:45.664Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1084,6 +1084,26 @@
           "path": "2570-merge-two-2d-arrays-by-summing-values/2570-merge-two-2d-arrays-by-summing-values.py",
           "sha": "00fea39d9f27280c6d75a1c70a72e010833d4ce8",
           "lastSyncedAt": "2026-11-06T08:03:01.557Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2848",
+      "title": "Points That Intersect With Cars",
+      "slug": "points-that-intersect-with-cars",
+      "problemName": "2848-points-that-intersect-with-cars",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/points-that-intersect-with-cars/",
+      "folderPath": "2848-points-that-intersect-with-cars/",
+      "readmePath": "2848-points-that-intersect-with-cars/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2848-points-that-intersect-with-cars.py",
+          "path": "2848-points-that-intersect-with-cars/2848-points-that-intersect-with-cars.py",
+          "sha": "3393f07c92a61573305837a832dd33a6864de30f",
+          "lastSyncedAt": "2026-11-06T08:03:45.664Z"
         }
       ]
     },
