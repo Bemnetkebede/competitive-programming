@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T07:58:56.323Z",
+  "updatedAt": "2026-11-06T07:59:32.765Z",
   "problems": [
     {
       "frontendId": "2",
@@ -544,6 +544,26 @@
           "path": "2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.py",
           "sha": "2ab1d83e7329d8726de9298299e2191ad2326e0c",
           "lastSyncedAt": "2026-11-06T07:50:47.314Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.py",
+          "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
+          "sha": "998fb3af9b9f51ef5fcb22f77e8d62e8aaf53328",
+          "lastSyncedAt": "2026-11-06T07:59:32.765Z"
         }
       ]
     }
