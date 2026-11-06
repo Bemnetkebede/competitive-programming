@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-06T12:21:14.573Z",
+  "updatedAt": "2026-11-06T12:25:42.361Z",
   "problems": [
     {
       "frontendId": "347",
@@ -183,7 +183,7 @@
           "filename": "1834-single-threaded-cpu.py",
           "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.py",
           "sha": "155d0db508254fad8b71fefbce663b3930111bbf",
-          "lastSyncedAt": "2026-11-06T07:42:33.992Z"
+          "lastSyncedAt": "2026-11-06T12:25:42.361Z"
         }
       ]
     },
