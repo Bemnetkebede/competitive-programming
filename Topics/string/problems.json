@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T08:06:01.533Z",
+  "updatedAt": "2026-11-06T08:06:07.935Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1024,6 +1024,26 @@
           "path": "1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.py",
           "sha": "44123247ba131d2d5e736f9dd3374e7cb2f32898",
           "lastSyncedAt": "2026-11-06T07:59:24.772Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2000",
+      "title": "Reverse Prefix of Word",
+      "slug": "reverse-prefix-of-word",
+      "problemName": "2000-reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-prefix-of-word/",
+      "folderPath": "2000-reverse-prefix-of-word/",
+      "readmePath": "2000-reverse-prefix-of-word/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2000-reverse-prefix-of-word.py",
+          "path": "2000-reverse-prefix-of-word/2000-reverse-prefix-of-word.py",
+          "sha": "e62368ca95e36e8e3a2ec9e13803a5d289a11375",
+          "lastSyncedAt": "2026-11-06T08:06:07.935Z"
         }
       ]
     },
