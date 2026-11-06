@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-06T07:47:37.659Z",
+  "updatedAt": "2026-11-06T07:48:01.878Z",
   "problems": [
     {
       "frontendId": "100",
@@ -264,6 +264,26 @@
           "path": "1373-maximum-sum-bst-in-binary-tree/1373-maximum-sum-bst-in-binary-tree.py",
           "sha": "05d8359a13d71cb27ed4b4d4ebfced552885987d",
           "lastSyncedAt": "2026-11-06T07:40:08.801Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "problemName": "1382-balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+      "folderPath": "1382-balance-a-binary-search-tree/",
+      "readmePath": "1382-balance-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1382-balance-a-binary-search-tree.py",
+          "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.py",
+          "sha": "78b44dbd5acf99733c634231b486d9edb074ab91",
+          "lastSyncedAt": "2026-11-06T07:48:01.878Z"
         }
       ]
     }
