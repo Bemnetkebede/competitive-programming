@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-06T12:21:57.809Z",
+  "updatedAt": "2026-11-06T12:25:48.571Z",
   "problems": [
     {
       "frontendId": "146",
@@ -283,7 +283,7 @@
           "filename": "1845-seat-reservation-manager.py",
           "path": "1845-seat-reservation-manager/1845-seat-reservation-manager.py",
           "sha": "a9a72745a8af0713a68f416305d05001652cb949",
-          "lastSyncedAt": "2026-11-06T07:42:40.008Z"
+          "lastSyncedAt": "2026-11-06T12:25:48.571Z"
         }
       ]
     },
