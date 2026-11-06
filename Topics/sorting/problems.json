@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T08:08:52.045Z",
+  "updatedAt": "2026-11-06T12:10:27.302Z",
   "problems": [
     {
       "frontendId": "15",
@@ -464,6 +464,26 @@
           "path": "0721-accounts-merge/0721-accounts-merge.py",
           "sha": "a158ff67db28e562d47e12de67eb11673406befa",
           "lastSyncedAt": "2026-11-06T07:42:07.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "853",
+      "title": "Car Fleet",
+      "slug": "car-fleet",
+      "problemName": "0853-car-fleet",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/car-fleet/",
+      "folderPath": "0853-car-fleet/",
+      "readmePath": "0853-car-fleet/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0853-car-fleet.py",
+          "path": "0853-car-fleet/0853-car-fleet.py",
+          "sha": "304783a11bf3394e3d1c1887edd520e0770942fc",
+          "lastSyncedAt": "2026-11-06T12:10:27.302Z"
         }
       ]
     },
