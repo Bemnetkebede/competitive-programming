@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-11-06T12:23:16.825Z",
+  "updatedAt": "2026-11-06T12:23:28.377Z",
   "problems": [
     {
       "frontendId": "108",
@@ -43,7 +43,7 @@
           "filename": "0230-kth-smallest-element-in-a-bst.py",
           "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.py",
           "sha": "e89a4caea9702217c9cfec86d18b7a4fe96eb9a4",
-          "lastSyncedAt": "2026-11-06T07:40:20.875Z"
+          "lastSyncedAt": "2026-11-06T12:23:28.377Z"
         }
       ]
     },
