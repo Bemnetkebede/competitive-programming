@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:53:13.437Z",
+  "updatedAt": "2026-11-06T07:53:38.295Z",
   "problems": [
     {
       "frontendId": "11",
@@ -924,6 +924,26 @@
           "path": "0498-diagonal-traverse/0498-diagonal-traverse.py",
           "sha": "c93de932a85c93032a35b371ea107b83582f09ab",
           "lastSyncedAt": "2026-11-06T07:32:44.784Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "problemName": "0500-keyboard-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+      "folderPath": "0500-keyboard-row/",
+      "readmePath": "0500-keyboard-row/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0500-keyboard-row.py",
+          "path": "0500-keyboard-row/0500-keyboard-row.py",
+          "sha": "7ed7dc22b3058ef41035e188b9539260d2ef9bb7",
+          "lastSyncedAt": "2026-11-06T07:53:38.295Z"
         }
       ]
     },
