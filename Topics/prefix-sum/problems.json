@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T07:46:46.752Z",
+  "updatedAt": "2026-11-06T07:51:50.912Z",
   "problems": [
     {
       "frontendId": "209",
@@ -64,6 +64,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.py",
           "sha": "72d81aa80ee894607e7d26af1422835fb28ccb64",
           "lastSyncedAt": "2026-11-06T07:33:01.684Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2381",
+      "title": "Shifting Letters II",
+      "slug": "shifting-letters-ii",
+      "problemName": "2381-shifting-letters-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shifting-letters-ii/",
+      "folderPath": "2381-shifting-letters-ii/",
+      "readmePath": "2381-shifting-letters-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2381-shifting-letters-ii.py",
+          "path": "2381-shifting-letters-ii/2381-shifting-letters-ii.py",
+          "sha": "a18f1e70b3185b246f4a38a017fbe160538ff1d0",
+          "lastSyncedAt": "2026-11-06T07:51:50.912Z"
         }
       ]
     },
