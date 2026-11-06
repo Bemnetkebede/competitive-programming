@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:08:45.182Z",
+  "updatedAt": "2026-11-06T08:08:52.045Z",
   "problems": [
     {
       "frontendId": "11",
@@ -264,6 +264,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py",
           "sha": "57b68c173c238d58830f5bece823062112ee8952",
           "lastSyncedAt": "2026-11-06T07:31:48.428Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0148-sort-list.py",
+          "path": "0148-sort-list/0148-sort-list.py",
+          "sha": "e4e8c0619a8d4819e6bda43a45c09e154a94df2b",
+          "lastSyncedAt": "2026-11-06T08:08:52.045Z"
         }
       ]
     },
