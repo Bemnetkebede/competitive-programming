@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-06T12:21:34.965Z",
+  "updatedAt": "2026-11-06T12:21:57.809Z",
   "problems": [
     {
       "frontendId": "146",
@@ -43,7 +43,7 @@
           "filename": "0208-implement-trie-prefix-tree.py",
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.py",
           "sha": "031779104f031472f9013834bbd640da4d1d0c58",
-          "lastSyncedAt": "2026-11-06T07:38:54.586Z"
+          "lastSyncedAt": "2026-11-06T12:21:57.809Z"
         }
       ]
     },
