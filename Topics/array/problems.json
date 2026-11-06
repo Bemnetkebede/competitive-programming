@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:55:34.280Z",
+  "updatedAt": "2026-11-06T07:56:01.122Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1804,6 +1804,26 @@
           "path": "1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.py",
           "sha": "a0a61396a4a31b38e3aecf301b6655673d145e78",
           "lastSyncedAt": "2026-11-06T07:35:54.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1324",
+      "title": "Print Words Vertically",
+      "slug": "print-words-vertically",
+      "problemName": "1324-print-words-vertically",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/print-words-vertically/",
+      "folderPath": "1324-print-words-vertically/",
+      "readmePath": "1324-print-words-vertically/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1324-print-words-vertically.py",
+          "path": "1324-print-words-vertically/1324-print-words-vertically.py",
+          "sha": "6ad850dc873e8ad59a466e949886c1cd757ff083",
+          "lastSyncedAt": "2026-11-06T07:56:01.122Z"
         }
       ]
     },
