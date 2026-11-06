@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T07:59:32.765Z",
+  "updatedAt": "2026-11-06T08:00:16.136Z",
   "problems": [
     {
       "frontendId": "2",
@@ -484,6 +484,26 @@
           "path": "2169-count-operations-to-obtain-zero/2169-count-operations-to-obtain-zero.py",
           "sha": "cdcc857329b511d9de404e93fa854f79e51d563c",
           "lastSyncedAt": "2026-11-06T07:36:00.834Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2413",
+      "title": "Smallest Even Multiple",
+      "slug": "smallest-even-multiple",
+      "problemName": "2413-smallest-even-multiple",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+      "folderPath": "2413-smallest-even-multiple/",
+      "readmePath": "2413-smallest-even-multiple/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2413-smallest-even-multiple.py",
+          "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.py",
+          "sha": "f76b50c3155ab386f353fcdd7369bad6d36067e5",
+          "lastSyncedAt": "2026-11-06T08:00:16.136Z"
         }
       ]
     },
