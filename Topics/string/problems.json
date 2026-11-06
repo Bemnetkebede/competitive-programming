@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T08:04:44.753Z",
+  "updatedAt": "2026-11-06T08:05:01.319Z",
   "problems": [
     {
       "frontendId": "3",
@@ -964,6 +964,26 @@
           "path": "1678-goal-parser-interpretation/1678-goal-parser-interpretation.py",
           "sha": "4e5d63a6ae4881397d2bbbfb5dda6ed2f713cf9b",
           "lastSyncedAt": "2026-11-06T08:01:56.914Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1876",
+      "title": "Substrings of Size Three with Distinct Characters",
+      "slug": "substrings-of-size-three-with-distinct-characters",
+      "problemName": "1876-substrings-of-size-three-with-distinct-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/",
+      "folderPath": "1876-substrings-of-size-three-with-distinct-characters/",
+      "readmePath": "1876-substrings-of-size-three-with-distinct-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1876-substrings-of-size-three-with-distinct-characters.py",
+          "path": "1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.py",
+          "sha": "9423a0ed28f7e352736e8e6ce18da95e68d7713e",
+          "lastSyncedAt": "2026-11-06T08:05:01.319Z"
         }
       ]
     },
