@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:03:11.117Z",
+  "updatedAt": "2026-11-06T08:03:26.732Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1504,6 +1504,26 @@
           "path": "0722-remove-comments/0722-remove-comments.py",
           "sha": "90c5dc8d3ad24323c348fa89685f537b3388d2ee",
           "lastSyncedAt": "2026-11-06T07:56:26.034Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0724-find-pivot-index.py",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.py",
+          "sha": "b815459f25ba901acda1cca9f30557df3e08d9fa",
+          "lastSyncedAt": "2026-11-06T08:03:26.732Z"
         }
       ]
     },
