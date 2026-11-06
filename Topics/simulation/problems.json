@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T08:04:26.158Z",
+  "updatedAt": "2026-11-06T08:04:44.753Z",
   "problems": [
     {
       "frontendId": "54",
@@ -324,6 +324,26 @@
           "path": "2177-find-three-consecutive-integers-that-sum-to-a-given-number/2177-find-three-consecutive-integers-that-sum-to-a-given-number.py",
           "sha": "5aac1356fabbd83bf10faa4e55ba8fc4d42bb7ba",
           "lastSyncedAt": "2026-11-06T08:01:37.253Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2390",
+      "title": "Removing Stars From a String",
+      "slug": "removing-stars-from-a-string",
+      "problemName": "2390-removing-stars-from-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-stars-from-a-string/",
+      "folderPath": "2390-removing-stars-from-a-string/",
+      "readmePath": "2390-removing-stars-from-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2390-removing-stars-from-a-string.py",
+          "path": "2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.py",
+          "sha": "b247ef05f68d1f009b94af4b81583c12fc08b8fc",
+          "lastSyncedAt": "2026-11-06T08:04:44.753Z"
         }
       ]
     },
