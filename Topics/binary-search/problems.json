@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-06T07:46:41.167Z",
+  "updatedAt": "2026-11-06T07:46:46.752Z",
   "problems": [
     {
       "frontendId": "74",
@@ -244,6 +244,26 @@
           "path": "2226-maximum-candies-allocated-to-k-children/2226-maximum-candies-allocated-to-k-children.py",
           "sha": "850d7ba44bb7be1a9e30848c4065fa98a5ced3fa",
           "lastSyncedAt": "2026-11-06T07:46:33.038Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3356",
+      "title": "Zero Array Transformation II",
+      "slug": "zero-array-transformation-ii",
+      "problemName": "3356-zero-array-transformation-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zero-array-transformation-ii/",
+      "folderPath": "3356-zero-array-transformation-ii/",
+      "readmePath": "3356-zero-array-transformation-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3356-zero-array-transformation-ii.py",
+          "path": "3356-zero-array-transformation-ii/3356-zero-array-transformation-ii.py",
+          "sha": "d9b20eeeafec1a7847f745385bf2010c400a4ab6",
+          "lastSyncedAt": "2026-11-06T07:46:46.752Z"
         }
       ]
     }
