@@ -5,7 +5,7 @@
     "name": "Shortest Path",
     "tagId": "61076"
   },
-  "updatedAt": "2026-11-06T12:20:48.253Z",
+  "updatedAt": "2026-11-06T12:20:55.647Z",
   "problems": [
     {
       "frontendId": "399",
@@ -103,7 +103,7 @@
           "filename": "1514-path-with-maximum-probability.py",
           "path": "1514-path-with-maximum-probability/1514-path-with-maximum-probability.py",
           "sha": "6b49d5eafa89425a1c3690ce56b8c6fee4223a6f",
-          "lastSyncedAt": "2026-11-06T07:37:56.091Z"
+          "lastSyncedAt": "2026-11-06T12:20:55.647Z"
         }
       ]
     },
