@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:51:50.912Z",
+  "updatedAt": "2026-11-06T07:51:59.754Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1624,6 +1624,26 @@
           "path": "1552-magnetic-force-between-two-balls/1552-magnetic-force-between-two-balls.py",
           "sha": "0d6c68b3ac98f8f2e29e7c7b77681d1a1118f157",
           "lastSyncedAt": "2026-11-06T07:46:41.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1589",
+      "title": "Maximum Sum Obtained of Any Permutation",
+      "slug": "maximum-sum-obtained-of-any-permutation",
+      "problemName": "1589-maximum-sum-obtained-of-any-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/",
+      "folderPath": "1589-maximum-sum-obtained-of-any-permutation/",
+      "readmePath": "1589-maximum-sum-obtained-of-any-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1589-maximum-sum-obtained-of-any-permutation.py",
+          "path": "1589-maximum-sum-obtained-of-any-permutation/1589-maximum-sum-obtained-of-any-permutation.py",
+          "sha": "48950775ea28452f66243bd8b56ff9f3473f3c80",
+          "lastSyncedAt": "2026-11-06T07:51:59.754Z"
         }
       ]
     },
