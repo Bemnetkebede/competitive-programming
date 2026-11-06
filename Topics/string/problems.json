@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:42:07.791Z",
+  "updatedAt": "2026-11-06T07:42:26.298Z",
   "problems": [
     {
       "frontendId": "3",
@@ -383,7 +383,7 @@
           "filename": "0990-satisfiability-of-equality-equations.py",
           "path": "0990-satisfiability-of-equality-equations/0990-satisfiability-of-equality-equations.py",
           "sha": "bc69ca744a72bb46d0f1ff911b84c01a5b124938",
-          "lastSyncedAt": "2026-11-05T07:35:26.661Z"
+          "lastSyncedAt": "2026-11-06T07:42:26.298Z"
         }
       ]
     },
