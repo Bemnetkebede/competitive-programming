@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-06T12:14:21.210Z",
+  "updatedAt": "2026-11-06T12:14:28.674Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,7 +123,7 @@
           "filename": "0086-partition-list.py",
           "path": "0086-partition-list/0086-partition-list.py",
           "sha": "a725feb8fd161925a45a1e5629df84146d897f9f",
-          "lastSyncedAt": "2026-11-06T07:31:56.127Z"
+          "lastSyncedAt": "2026-11-06T12:14:28.674Z"
         }
       ]
     },
