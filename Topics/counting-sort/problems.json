@@ -5,8 +5,28 @@
     "name": "Counting Sort",
     "tagId": "61072"
   },
-  "updatedAt": "2026-11-06T07:54:29.383Z",
+  "updatedAt": "2026-11-06T07:54:45.507Z",
   "problems": [
+    {
+      "frontendId": "274",
+      "title": "H-Index",
+      "slug": "h-index",
+      "problemName": "0274-h-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+      "folderPath": "0274-h-index/",
+      "readmePath": "0274-h-index/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0274-h-index.py",
+          "path": "0274-h-index/0274-h-index.py",
+          "sha": "fddc1a63d6f0a7a8922b26b0ada04adeeb54fa0b",
+          "lastSyncedAt": "2026-11-06T07:54:45.507Z"
+        }
+      ]
+    },
     {
       "frontendId": "1365",
       "title": "How Many Numbers Are Smaller Than the Current Number",
