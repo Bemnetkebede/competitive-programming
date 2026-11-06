@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:04:53.289Z",
+  "updatedAt": "2026-11-06T08:05:26.374Z",
   "problems": [
     {
       "frontendId": "11",
@@ -524,6 +524,26 @@
           "path": "0986-interval-list-intersections/0986-interval-list-intersections.py",
           "sha": "446f684ecab1f5e409f890daa14dbc809f3c0c4c",
           "lastSyncedAt": "2026-11-06T07:52:37.388Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1471",
+      "title": "The k Strongest Values in an Array",
+      "slug": "the-k-strongest-values-in-an-array",
+      "problemName": "1471-the-k-strongest-values-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/the-k-strongest-values-in-an-array/",
+      "folderPath": "1471-the-k-strongest-values-in-an-array/",
+      "readmePath": "1471-the-k-strongest-values-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1471-the-k-strongest-values-in-an-array.py",
+          "path": "1471-the-k-strongest-values-in-an-array/1471-the-k-strongest-values-in-an-array.py",
+          "sha": "b5c32a44b3be6ae67f0b14fb9db06321a9aa8a6c",
+          "lastSyncedAt": "2026-11-06T08:05:26.374Z"
         }
       ]
     },
