@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T07:43:54.436Z",
+  "updatedAt": "2026-11-06T07:49:04.986Z",
   "problems": [
     {
       "frontendId": "3",
@@ -144,6 +144,26 @@
           "path": "0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.py",
           "sha": "8447d1bb546bbb737670e5ac6420da255ef535dd",
           "lastSyncedAt": "2026-11-06T07:38:34.043Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "0257-binary-tree-paths/",
+      "readmePath": "0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0257-binary-tree-paths.py",
+          "path": "0257-binary-tree-paths/0257-binary-tree-paths.py",
+          "sha": "533e817b34c61d41fc2c165240e06b6f03886441",
+          "lastSyncedAt": "2026-11-06T07:49:04.986Z"
         }
       ]
     },
