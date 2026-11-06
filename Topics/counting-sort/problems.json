@@ -5,7 +5,7 @@
     "name": "Counting Sort",
     "tagId": "61072"
   },
-  "updatedAt": "2026-11-06T07:54:19.776Z",
+  "updatedAt": "2026-11-06T07:54:29.383Z",
   "problems": [
     {
       "frontendId": "1365",
@@ -44,6 +44,26 @@
           "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
           "sha": "20370b0df813916ac374baf3b379e77dc3acfd3c",
           "lastSyncedAt": "2026-11-06T07:54:19.776Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2037",
+      "title": "Minimum Number of Moves to Seat Everyone",
+      "slug": "minimum-number-of-moves-to-seat-everyone",
+      "problemName": "2037-minimum-number-of-moves-to-seat-everyone",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/",
+      "folderPath": "2037-minimum-number-of-moves-to-seat-everyone/",
+      "readmePath": "2037-minimum-number-of-moves-to-seat-everyone/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2037-minimum-number-of-moves-to-seat-everyone.py",
+          "path": "2037-minimum-number-of-moves-to-seat-everyone/2037-minimum-number-of-moves-to-seat-everyone.py",
+          "sha": "ea54884fcde3d2d48677b7f19950f385f25b1ae8",
+          "lastSyncedAt": "2026-11-06T07:54:29.383Z"
         }
       ]
     }
