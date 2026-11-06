@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:03:32.767Z",
+  "updatedAt": "2026-11-06T08:03:45.664Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2964,6 +2964,26 @@
           "path": "2594-minimum-time-to-repair-cars/2594-minimum-time-to-repair-cars.py",
           "sha": "af7dd0049985ac8ac5abe25b11eae14fade046c8",
           "lastSyncedAt": "2026-11-06T07:46:57.225Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2848",
+      "title": "Points That Intersect With Cars",
+      "slug": "points-that-intersect-with-cars",
+      "problemName": "2848-points-that-intersect-with-cars",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/points-that-intersect-with-cars/",
+      "folderPath": "2848-points-that-intersect-with-cars/",
+      "readmePath": "2848-points-that-intersect-with-cars/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2848-points-that-intersect-with-cars.py",
+          "path": "2848-points-that-intersect-with-cars/2848-points-that-intersect-with-cars.py",
+          "sha": "3393f07c92a61573305837a832dd33a6864de30f",
+          "lastSyncedAt": "2026-11-06T08:03:45.664Z"
         }
       ]
     },
