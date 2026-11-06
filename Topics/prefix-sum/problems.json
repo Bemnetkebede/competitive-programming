@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T08:03:39.178Z",
+  "updatedAt": "2026-11-06T08:03:45.664Z",
   "problems": [
     {
       "frontendId": "209",
@@ -324,6 +324,26 @@
           "path": "2485-find-the-pivot-integer/2485-find-the-pivot-integer.py",
           "sha": "8416821941793b1822937ebc097661a750ba2420",
           "lastSyncedAt": "2026-11-06T08:03:19.801Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2848",
+      "title": "Points That Intersect With Cars",
+      "slug": "points-that-intersect-with-cars",
+      "problemName": "2848-points-that-intersect-with-cars",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/points-that-intersect-with-cars/",
+      "folderPath": "2848-points-that-intersect-with-cars/",
+      "readmePath": "2848-points-that-intersect-with-cars/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2848-points-that-intersect-with-cars.py",
+          "path": "2848-points-that-intersect-with-cars/2848-points-that-intersect-with-cars.py",
+          "sha": "3393f07c92a61573305837a832dd33a6864de30f",
+          "lastSyncedAt": "2026-11-06T08:03:45.664Z"
         }
       ]
     },
