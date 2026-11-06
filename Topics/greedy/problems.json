@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-06T07:54:29.383Z",
+  "updatedAt": "2026-11-06T07:54:52.784Z",
   "problems": [
     {
       "frontendId": "11",
@@ -304,6 +304,26 @@
           "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.py",
           "sha": "78b44dbd5acf99733c634231b486d9edb074ab91",
           "lastSyncedAt": "2026-11-06T07:48:01.878Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1561",
+      "title": "Maximum Number of Coins You Can Get",
+      "slug": "maximum-number-of-coins-you-can-get",
+      "problemName": "1561-maximum-number-of-coins-you-can-get",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-coins-you-can-get/",
+      "folderPath": "1561-maximum-number-of-coins-you-can-get/",
+      "readmePath": "1561-maximum-number-of-coins-you-can-get/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1561-maximum-number-of-coins-you-can-get.py",
+          "path": "1561-maximum-number-of-coins-you-can-get/1561-maximum-number-of-coins-you-can-get.py",
+          "sha": "116b546350bf1f2b5c9a16569969c6ff95119a15",
+          "lastSyncedAt": "2026-11-06T07:54:52.784Z"
         }
       ]
     },
