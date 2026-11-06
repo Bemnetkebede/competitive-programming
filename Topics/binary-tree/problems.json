@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-06T07:45:00.502Z",
+  "updatedAt": "2026-11-06T07:45:06.430Z",
   "problems": [
     {
       "frontendId": "100",
@@ -203,7 +203,7 @@
           "filename": "0965-univalued-binary-tree.py",
           "path": "0965-univalued-binary-tree/0965-univalued-binary-tree.py",
           "sha": "ba9fa9dc526c076588636d121813ebee94bcf3d5",
-          "lastSyncedAt": "2026-11-05T07:39:30.555Z"
+          "lastSyncedAt": "2026-11-06T07:45:06.430Z"
         }
       ]
     },
