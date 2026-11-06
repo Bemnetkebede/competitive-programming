@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T07:54:52.784Z",
+  "updatedAt": "2026-11-06T07:55:04.179Z",
   "problems": [
     {
       "frontendId": "16",
@@ -44,6 +44,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "47e8908d92d91bafbaccb9ec0ae64299e129dfcc",
           "lastSyncedAt": "2026-11-06T07:33:45.399Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "0179-largest-number/",
+      "readmePath": "0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0179-largest-number.py",
+          "path": "0179-largest-number/0179-largest-number.py",
+          "sha": "65f5b6ca811aa4a98e4083ce1a25cdfce1cb6a93",
+          "lastSyncedAt": "2026-11-06T07:55:04.179Z"
         }
       ]
     },
