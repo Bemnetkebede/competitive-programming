@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-06T07:51:59.754Z",
+  "updatedAt": "2026-11-06T07:53:23.325Z",
   "problems": [
     {
       "frontendId": "11",
@@ -364,6 +364,26 @@
           "path": "2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.py",
           "sha": "2ab1d83e7329d8726de9298299e2191ad2326e0c",
           "lastSyncedAt": "2026-11-06T07:50:47.314Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2938",
+      "title": "Separate Black and White Balls",
+      "slug": "separate-black-and-white-balls",
+      "problemName": "2938-separate-black-and-white-balls",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-black-and-white-balls/",
+      "folderPath": "2938-separate-black-and-white-balls/",
+      "readmePath": "2938-separate-black-and-white-balls/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2938-separate-black-and-white-balls.py",
+          "path": "2938-separate-black-and-white-balls/2938-separate-black-and-white-balls.py",
+          "sha": "fa9d9b8ea567bd5d27c39d12aa285e6559ceaee5",
+          "lastSyncedAt": "2026-11-06T07:53:23.325Z"
         }
       ]
     },
