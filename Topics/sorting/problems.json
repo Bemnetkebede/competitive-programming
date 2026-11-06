@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T08:02:29.737Z",
+  "updatedAt": "2026-11-06T08:03:11.117Z",
   "problems": [
     {
       "frontendId": "16",
@@ -724,6 +724,26 @@
           "path": "2491-divide-players-into-teams-of-equal-skill/2491-divide-players-into-teams-of-equal-skill.py",
           "sha": "572494950927dc7bf735a96e5df6b979bf77ded9",
           "lastSyncedAt": "2026-11-06T07:34:10.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3194",
+      "title": "Minimum Average of Smallest and Largest Elements",
+      "slug": "minimum-average-of-smallest-and-largest-elements",
+      "problemName": "3194-minimum-average-of-smallest-and-largest-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/",
+      "folderPath": "3194-minimum-average-of-smallest-and-largest-elements/",
+      "readmePath": "3194-minimum-average-of-smallest-and-largest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3194-minimum-average-of-smallest-and-largest-elements.py",
+          "path": "3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.py",
+          "sha": "fb2325f5b5b979c66ff0d9685ed899415413f258",
+          "lastSyncedAt": "2026-11-06T08:03:11.117Z"
         }
       ]
     },
