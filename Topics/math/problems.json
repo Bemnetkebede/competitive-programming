@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T07:52:09.607Z",
+  "updatedAt": "2026-11-06T07:54:52.784Z",
   "problems": [
     {
       "frontendId": "2",
@@ -364,6 +364,26 @@
           "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py",
           "sha": "ef1146410c38f889229de8d617c608795fca1d0c",
           "lastSyncedAt": "2026-11-06T07:39:29.736Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1561",
+      "title": "Maximum Number of Coins You Can Get",
+      "slug": "maximum-number-of-coins-you-can-get",
+      "problemName": "1561-maximum-number-of-coins-you-can-get",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-coins-you-can-get/",
+      "folderPath": "1561-maximum-number-of-coins-you-can-get/",
+      "readmePath": "1561-maximum-number-of-coins-you-can-get/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1561-maximum-number-of-coins-you-can-get.py",
+          "path": "1561-maximum-number-of-coins-you-can-get/1561-maximum-number-of-coins-you-can-get.py",
+          "sha": "116b546350bf1f2b5c9a16569969c6ff95119a15",
+          "lastSyncedAt": "2026-11-06T07:54:52.784Z"
         }
       ]
     },
