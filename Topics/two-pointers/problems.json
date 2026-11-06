@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:05:35.381Z",
+  "updatedAt": "2026-11-06T08:05:44.979Z",
   "problems": [
     {
       "frontendId": "11",
@@ -564,6 +564,26 @@
           "path": "1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.py",
           "sha": "1f8faff0da5e638c4e86f6b033bb87b36b510605",
           "lastSyncedAt": "2026-11-06T08:05:35.381Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2149-rearrange-array-elements-by-sign.py",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.py",
+          "sha": "83c65e4637faeac127c0a360f7a32f916d2f3ca3",
+          "lastSyncedAt": "2026-11-06T08:05:44.979Z"
         }
       ]
     },
