@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T12:11:41.791Z",
+  "updatedAt": "2026-11-06T12:12:00.745Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1283,7 +1283,7 @@
           "filename": "0503-next-greater-element-ii.py",
           "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.py",
           "sha": "82aea5b9592bf409ee544a408903563a9380baa6",
-          "lastSyncedAt": "2026-11-06T07:29:15.790Z"
+          "lastSyncedAt": "2026-11-06T12:12:00.745Z"
         }
       ]
     },
