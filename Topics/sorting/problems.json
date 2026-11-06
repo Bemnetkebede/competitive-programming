@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T07:57:02.604Z",
+  "updatedAt": "2026-11-06T07:57:48.643Z",
   "problems": [
     {
       "frontendId": "16",
@@ -24,6 +24,26 @@
           "path": "0016-3sum-closest/0016-3sum-closest.py",
           "sha": "6cfb210b28c02dd1afc9a6bf00c75be612065f9f",
           "lastSyncedAt": "2026-11-06T07:52:15.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "b2054f5154c8bdad1889f3ac22ee94b8fa5e9829",
+          "lastSyncedAt": "2026-11-06T07:57:48.643Z"
         }
       ]
     },
