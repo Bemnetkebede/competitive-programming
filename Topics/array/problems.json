@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:46:46.752Z",
+  "updatedAt": "2026-11-06T07:46:57.225Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1724,6 +1724,26 @@
           "path": "2491-divide-players-into-teams-of-equal-skill/2491-divide-players-into-teams-of-equal-skill.py",
           "sha": "572494950927dc7bf735a96e5df6b979bf77ded9",
           "lastSyncedAt": "2026-11-06T07:34:10.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2594",
+      "title": "Minimum Time to Repair Cars",
+      "slug": "minimum-time-to-repair-cars",
+      "problemName": "2594-minimum-time-to-repair-cars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-repair-cars/",
+      "folderPath": "2594-minimum-time-to-repair-cars/",
+      "readmePath": "2594-minimum-time-to-repair-cars/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2594-minimum-time-to-repair-cars.py",
+          "path": "2594-minimum-time-to-repair-cars/2594-minimum-time-to-repair-cars.py",
+          "sha": "af7dd0049985ac8ac5abe25b11eae14fade046c8",
+          "lastSyncedAt": "2026-11-06T07:46:57.225Z"
         }
       ]
     },
