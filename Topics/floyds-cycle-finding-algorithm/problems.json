@@ -5,8 +5,28 @@
     "name": "Floyd's Cycle Finding Algorithm",
     "tagId": "122033"
   },
-  "updatedAt": "2026-11-06T07:31:48.428Z",
+  "updatedAt": "2026-11-06T07:51:10.510Z",
   "problems": [
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0141-linked-list-cycle.py",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.py",
+          "sha": "4e7ad26d298c443688f8dc1dcf638fd84b59e8d8",
+          "lastSyncedAt": "2026-11-06T07:51:10.510Z"
+        }
+      ]
+    },
     {
       "frontendId": "142",
       "title": "Linked List Cycle II",
