@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-06T08:02:51.480Z",
+  "updatedAt": "2026-11-06T08:03:01.557Z",
   "problems": [
     {
       "frontendId": "11",
@@ -604,6 +604,26 @@
           "path": "2562-find-the-array-concatenation-value/2562-find-the-array-concatenation-value.py",
           "sha": "c0690110b37591bbcf8556d84fa767ba5b93f0d4",
           "lastSyncedAt": "2026-11-06T08:02:51.480Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2570",
+      "title": "Merge Two 2D Arrays by Summing Values",
+      "slug": "merge-two-2d-arrays-by-summing-values",
+      "problemName": "2570-merge-two-2d-arrays-by-summing-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/",
+      "folderPath": "2570-merge-two-2d-arrays-by-summing-values/",
+      "readmePath": "2570-merge-two-2d-arrays-by-summing-values/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2570-merge-two-2d-arrays-by-summing-values.py",
+          "path": "2570-merge-two-2d-arrays-by-summing-values/2570-merge-two-2d-arrays-by-summing-values.py",
+          "sha": "00fea39d9f27280c6d75a1c70a72e010833d4ce8",
+          "lastSyncedAt": "2026-11-06T08:03:01.557Z"
         }
       ]
     },
