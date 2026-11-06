@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-06T07:50:02.652Z",
+  "updatedAt": "2026-11-06T07:50:29.830Z",
   "problems": [
     {
       "frontendId": "50",
@@ -84,6 +84,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.py",
           "sha": "05156a14ad015b8afeba85573ebed2137a6e1a23",
           "lastSyncedAt": "2026-11-06T07:32:02.126Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0342-power-of-four.py",
+          "path": "0342-power-of-four/0342-power-of-four.py",
+          "sha": "fd73cf300f1912c26244134094754c0a06ceb6c4",
+          "lastSyncedAt": "2026-11-06T07:50:29.830Z"
         }
       ]
     },
