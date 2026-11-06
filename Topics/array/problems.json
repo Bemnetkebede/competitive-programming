@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:56:26.034Z",
+  "updatedAt": "2026-11-06T07:56:35.835Z",
   "problems": [
     {
       "frontendId": "11",
@@ -544,6 +544,26 @@
           "path": "0213-house-robber-ii/0213-house-robber-ii.py",
           "sha": "29f14da7c6142bda72c8bce1b4fb14e3d5a9fa8e",
           "lastSyncedAt": "2026-11-06T07:35:30.547Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0229-majority-element-ii.py",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.py",
+          "sha": "de0c326e9f6f83e922477511b6092a9fac9aca13",
+          "lastSyncedAt": "2026-11-06T07:56:35.835Z"
         }
       ]
     },
