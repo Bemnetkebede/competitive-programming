@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-06T12:26:37.163Z",
+  "updatedAt": "2026-11-06T12:26:47.391Z",
   "problems": [
     {
       "frontendId": "100",
@@ -143,7 +143,7 @@
           "filename": "0210-course-schedule-ii.py",
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.py",
           "sha": "d2fa77354d53bfaa9de452efe025ff103bde7d8f",
-          "lastSyncedAt": "2026-11-06T07:43:39.073Z"
+          "lastSyncedAt": "2026-11-06T12:26:47.391Z"
         }
       ]
     },
