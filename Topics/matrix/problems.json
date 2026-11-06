@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-06T07:53:13.437Z",
+  "updatedAt": "2026-11-06T07:54:38.911Z",
   "problems": [
     {
       "frontendId": "48",
@@ -184,6 +184,26 @@
           "path": "0542-01-matrix/0542-01-matrix.py",
           "sha": "5dfebf6a994e9388d64ad6a40a01e5f166196d85",
           "lastSyncedAt": "2026-11-06T07:44:24.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "661",
+      "title": "Image Smoother",
+      "slug": "image-smoother",
+      "problemName": "0661-image-smoother",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/image-smoother/",
+      "folderPath": "0661-image-smoother/",
+      "readmePath": "0661-image-smoother/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0661-image-smoother.py",
+          "path": "0661-image-smoother/0661-image-smoother.py",
+          "sha": "3c4c2176f1a236196f6b2f69de3491821d279c66",
+          "lastSyncedAt": "2026-11-06T07:54:38.911Z"
         }
       ]
     },
