@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T08:03:45.664Z",
+  "updatedAt": "2026-11-06T08:03:54.219Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2944,6 +2944,26 @@
           "path": "2570-merge-two-2d-arrays-by-summing-values/2570-merge-two-2d-arrays-by-summing-values.py",
           "sha": "00fea39d9f27280c6d75a1c70a72e010833d4ce8",
           "lastSyncedAt": "2026-11-06T08:03:01.557Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2574-left-and-right-sum-differences.py",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.py",
+          "sha": "c1931972c1857716f638cf89717d982dcad04ff6",
+          "lastSyncedAt": "2026-11-06T08:03:54.219Z"
         }
       ]
     },
