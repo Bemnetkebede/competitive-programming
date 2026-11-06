@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T08:00:40.304Z",
+  "updatedAt": "2026-11-06T08:00:48.092Z",
   "problems": [
     {
       "frontendId": "54",
@@ -224,6 +224,26 @@
           "path": "2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py",
           "sha": "986ffcf03442b6de1cedb4d50fe98ab034463d12",
           "lastSyncedAt": "2026-11-06T07:34:55.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2553",
+      "title": "Separate the Digits in an Array",
+      "slug": "separate-the-digits-in-an-array",
+      "problemName": "2553-separate-the-digits-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
+      "folderPath": "2553-separate-the-digits-in-an-array/",
+      "readmePath": "2553-separate-the-digits-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2553-separate-the-digits-in-an-array.py",
+          "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.py",
+          "sha": "8813d5f329d949937921d5322d963cd67a4a6b40",
+          "lastSyncedAt": "2026-11-06T08:00:48.092Z"
         }
       ]
     },
