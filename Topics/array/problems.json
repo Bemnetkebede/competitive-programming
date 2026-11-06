@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T12:17:02.001Z",
+  "updatedAt": "2026-11-06T12:17:06.486Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,7 +583,7 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.py",
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "6c3fda3f93122db10a73691759b35d9d146b7e70",
-          "lastSyncedAt": "2026-11-06T07:34:21.724Z"
+          "lastSyncedAt": "2026-11-06T12:17:06.486Z"
         }
       ]
     },
