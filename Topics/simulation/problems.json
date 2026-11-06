@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T08:00:54.788Z",
+  "updatedAt": "2026-11-06T08:01:03.545Z",
   "problems": [
     {
       "frontendId": "54",
@@ -24,6 +24,26 @@
           "path": "0054-spiral-matrix/0054-spiral-matrix.py",
           "sha": "df3ccd441d99334da7abf1ca89c9573433005b89",
           "lastSyncedAt": "2026-11-06T07:57:18.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0412-fizz-buzz.py",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.py",
+          "sha": "767e459d10a8966d5f84a08a7aec9af518b97a67",
+          "lastSyncedAt": "2026-11-06T08:01:03.545Z"
         }
       ]
     },
