@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T07:58:56.323Z",
+  "updatedAt": "2026-11-06T07:59:48.871Z",
   "problems": [
     {
       "frontendId": "16",
@@ -624,6 +624,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
           "sha": "4907bb8218297bbc0750f79dc3a8e7a5fa7cadfc",
           "lastSyncedAt": "2026-11-06T07:34:28.033Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2225",
+      "title": "Find Players With Zero or One Losses",
+      "slug": "find-players-with-zero-or-one-losses",
+      "problemName": "2225-find-players-with-zero-or-one-losses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-players-with-zero-or-one-losses/",
+      "folderPath": "2225-find-players-with-zero-or-one-losses/",
+      "readmePath": "2225-find-players-with-zero-or-one-losses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2225-find-players-with-zero-or-one-losses.py",
+          "path": "2225-find-players-with-zero-or-one-losses/2225-find-players-with-zero-or-one-losses.py",
+          "sha": "a87b91581af3594122525f66a1cd34c02b23a3cc",
+          "lastSyncedAt": "2026-11-06T07:59:48.871Z"
         }
       ]
     },
