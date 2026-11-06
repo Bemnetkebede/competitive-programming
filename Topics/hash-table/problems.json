@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T08:02:41.417Z",
+  "updatedAt": "2026-11-06T08:03:01.557Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1064,6 +1064,26 @@
           "path": "2540-minimum-common-value/2540-minimum-common-value.py",
           "sha": "f7dacf3a516292b72f167016d5631ae69012c8fd",
           "lastSyncedAt": "2026-11-06T08:02:41.417Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2570",
+      "title": "Merge Two 2D Arrays by Summing Values",
+      "slug": "merge-two-2d-arrays-by-summing-values",
+      "problemName": "2570-merge-two-2d-arrays-by-summing-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/",
+      "folderPath": "2570-merge-two-2d-arrays-by-summing-values/",
+      "readmePath": "2570-merge-two-2d-arrays-by-summing-values/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2570-merge-two-2d-arrays-by-summing-values.py",
+          "path": "2570-merge-two-2d-arrays-by-summing-values/2570-merge-two-2d-arrays-by-summing-values.py",
+          "sha": "00fea39d9f27280c6d75a1c70a72e010833d4ce8",
+          "lastSyncedAt": "2026-11-06T08:03:01.557Z"
         }
       ]
     },
