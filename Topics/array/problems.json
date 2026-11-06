@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T07:53:05.534Z",
+  "updatedAt": "2026-11-06T07:53:13.437Z",
   "problems": [
     {
       "frontendId": "11",
@@ -624,6 +624,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
           "sha": "fd8490ea5ac7129fdf84d2c9c8dd952255d34bb3",
           "lastSyncedAt": "2026-11-06T07:32:55.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "304",
+      "title": "Range Sum Query 2D - Immutable",
+      "slug": "range-sum-query-2d-immutable",
+      "problemName": "0304-range-sum-query-2d-immutable",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+      "folderPath": "0304-range-sum-query-2d-immutable/",
+      "readmePath": "0304-range-sum-query-2d-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0304-range-sum-query-2d-immutable.py",
+          "path": "0304-range-sum-query-2d-immutable/0304-range-sum-query-2d-immutable.py",
+          "sha": "0f94f2f7e3d30ce02a71f4ce55391d6e65666d68",
+          "lastSyncedAt": "2026-11-06T07:53:13.437Z"
         }
       ]
     },
