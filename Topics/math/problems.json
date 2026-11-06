@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T08:00:23.482Z",
+  "updatedAt": "2026-11-06T08:00:31.396Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.py",
           "sha": "22e08de1a101eb6241fe734954405904a25e409b",
           "lastSyncedAt": "2026-11-06T07:51:40.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "0013-roman-to-integer/",
+      "readmePath": "0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0013-roman-to-integer.py",
+          "path": "0013-roman-to-integer/0013-roman-to-integer.py",
+          "sha": "581a4864d81f6c42a96a643dc55038d28ad8b329",
+          "lastSyncedAt": "2026-11-06T08:00:31.396Z"
         }
       ]
     },
