@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T07:50:47.314Z",
+  "updatedAt": "2026-11-06T07:51:40.152Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0002-add-two-numbers.py",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.py",
+          "sha": "22e08de1a101eb6241fe734954405904a25e409b",
+          "lastSyncedAt": "2026-11-06T07:51:40.152Z"
+        }
+      ]
+    },
     {
       "frontendId": "48",
       "title": "Rotate Image",
