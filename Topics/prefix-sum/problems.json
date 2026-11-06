@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-06T08:03:32.767Z",
+  "updatedAt": "2026-11-06T08:03:39.178Z",
   "problems": [
     {
       "frontendId": "209",
@@ -184,6 +184,26 @@
           "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
           "sha": "7eb68dc7ea470628440aa967bcc0538243b672da",
           "lastSyncedAt": "2026-11-06T07:53:53.224Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1422",
+      "title": "Maximum Score After Splitting a String",
+      "slug": "maximum-score-after-splitting-a-string",
+      "problemName": "1422-maximum-score-after-splitting-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-after-splitting-a-string/",
+      "folderPath": "1422-maximum-score-after-splitting-a-string/",
+      "readmePath": "1422-maximum-score-after-splitting-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1422-maximum-score-after-splitting-a-string.py",
+          "path": "1422-maximum-score-after-splitting-a-string/1422-maximum-score-after-splitting-a-string.py",
+          "sha": "3914c7c5183a6acb084a14619e6df9b0c6dd3cc8",
+          "lastSyncedAt": "2026-11-06T08:03:39.178Z"
         }
       ]
     },
