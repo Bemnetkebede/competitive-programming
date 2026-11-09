@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 306 | 127 | 176 | 3 |
+| 307 | 127 | 177 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 9 days | 141 |
+| 1 days | 9 days | 142 |
 
 | Date | Problems |
 | --- | ---: |
-| 2025-11-14 | 2 |
 | 2025-11-17 | 1 |
 | 2025-11-18 | 1 |
 | 2025-11-19 | 2 |
@@ -29,12 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 1 |
 | 2026-11-05 | 2 |
 | 2026-11-06 | 2 |
+| 2026-11-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 177 | 58% |
+| Array | 178 | 58% |
 | String | 71 | 23% |
 | Hash Table | 60 | 20% |
 | Two Pointers | 52 | 17% |
@@ -43,19 +43,19 @@ Contains topicwise list of solved problems.
 | Depth-First Search | 36 | 12% |
 | Dynamic Programming | 36 | 12% |
 | Breadth-First Search | 34 | 11% |
-| Greedy | 28 | 9% |
+| Stack | 29 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 2 |
-| [Array](Topics/array/) | 178 |
+| [Array](Topics/array/) | 179 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 24 |
+| [Binary Search](Topics/binary-search/) | 25 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 22 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 2 |
@@ -101,9 +101,9 @@ Contains topicwise list of solved problems.
 | [Merge Sort](Topics/merge-sort/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 9 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 10 |
 | [Number Theory](Topics/number-theory/) | 2 |
-| [Ordered Set](Topics/ordered-set/) | 2 |
+| [Ordered Set](Topics/ordered-set/) | 3 |
 | [Polygons](Topics/polygons/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 23 |
 | [Queue](Topics/queue/) | 8 |
@@ -117,7 +117,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 25 |
 | [Sliding Window](Topics/sliding-window/) | 15 |
 | [Sorting](Topics/sorting/) | 49 |
-| [Stack](Topics/stack/) | 29 |
+| [Stack](Topics/stack/) | 30 |
 | [String](Topics/string/) | 72 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Successive Shortest Path Algorithm](Topics/successive-shortest-path-algorithm/) | 1 |
