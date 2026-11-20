@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T12:24:48.873Z",
+  "updatedAt": "2026-11-20T12:11:55.990Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,7 +123,7 @@
           "filename": "0050-powx-n.py",
           "path": "0050-powx-n/0050-powx-n.py",
           "sha": "bca0164d9aa333c12ac7b92d9864d173ff8938a2",
-          "lastSyncedAt": "2026-11-06T07:50:02.652Z"
+          "lastSyncedAt": "2026-11-20T12:11:55.990Z"
         }
       ]
     },
