@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 307 | 127 | 177 | 3 |
+| 308 | 127 | 178 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 142 |
+| 1 days | 9 days | 143 |
 
 | Date | Problems |
 | --- | ---: |
-| 2025-11-17 | 1 |
 | 2025-11-18 | 1 |
 | 2025-11-19 | 2 |
 | 2026-07-17 | 1 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-05 | 2 |
 | 2026-11-06 | 2 |
 | 2026-11-09 | 1 |
+| 2026-11-26 | 1 |
 
 ## Top Tags
 
@@ -36,10 +36,10 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 178 | 58% |
 | String | 71 | 23% |
-| Hash Table | 60 | 20% |
+| Hash Table | 60 | 19% |
 | Two Pointers | 52 | 17% |
 | Sorting | 49 | 16% |
-| Math | 41 | 13% |
+| Math | 42 | 14% |
 | Depth-First Search | 36 | 12% |
 | Dynamic Programming | 36 | 12% |
 | Breadth-First Search | 34 | 11% |
@@ -95,7 +95,7 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 41 |
+| [Math](Topics/math/) | 42 |
 | [Matrix](Topics/matrix/) | 21 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 3 |
@@ -111,7 +111,7 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 3 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Randomized](Topics/randomized/) | 1 |
-| [Recursion](Topics/recursion/) | 12 |
+| [Recursion](Topics/recursion/) | 13 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 6 |
 | [Simulation](Topics/simulation/) | 25 |
