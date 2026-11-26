@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T12:26:02.642Z",
+  "updatedAt": "2026-11-26T11:19:40.455Z",
   "problems": [
     {
       "frontendId": "54",
@@ -484,6 +484,26 @@
           "path": "3174-clear-digits/3174-clear-digits.py",
           "sha": "d869be9b314776ec0f4d7af6bddf90db6a83b790",
           "lastSyncedAt": "2026-11-06T12:24:28.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3304",
+      "title": "Find the K-th Character in String Game I",
+      "slug": "find-the-k-th-character-in-string-game-i",
+      "problemName": "3304-find-the-k-th-character-in-string-game-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/",
+      "folderPath": "3304-find-the-k-th-character-in-string-game-i/",
+      "readmePath": "3304-find-the-k-th-character-in-string-game-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3304-find-the-k-th-character-in-string-game-i.py",
+          "path": "3304-find-the-k-th-character-in-string-game-i/3304-find-the-k-th-character-in-string-game-i.py",
+          "sha": "4feb038b4c37fa4541cac20c92b3fd8287518665",
+          "lastSyncedAt": "2026-11-26T11:19:40.455Z"
         }
       ]
     },
