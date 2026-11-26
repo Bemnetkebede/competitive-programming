@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-06T12:25:01.393Z",
+  "updatedAt": "2026-11-26T11:19:40.455Z",
   "problems": [
     {
       "frontendId": "78",
@@ -104,6 +104,26 @@
           "path": "0645-set-mismatch/0645-set-mismatch.py",
           "sha": "099076b4e4646a96dd9e219038c7e815da0b032c",
           "lastSyncedAt": "2026-11-06T07:45:55.409Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3304",
+      "title": "Find the K-th Character in String Game I",
+      "slug": "find-the-k-th-character-in-string-game-i",
+      "problemName": "3304-find-the-k-th-character-in-string-game-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/",
+      "folderPath": "3304-find-the-k-th-character-in-string-game-i/",
+      "readmePath": "3304-find-the-k-th-character-in-string-game-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3304-find-the-k-th-character-in-string-game-i.py",
+          "path": "3304-find-the-k-th-character-in-string-game-i/3304-find-the-k-th-character-in-string-game-i.py",
+          "sha": "4feb038b4c37fa4541cac20c92b3fd8287518665",
+          "lastSyncedAt": "2026-11-26T11:19:40.455Z"
         }
       ]
     }
