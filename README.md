@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 308 | 127 | 178 | 3 |
+| 312 | 130 | 179 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 143 |
+| 1 days | 9 days | 145 |
 
 | Date | Problems |
 | --- | ---: |
-| 2025-11-18 | 1 |
-| 2025-11-19 | 2 |
 | 2026-07-17 | 1 |
 | 2026-07-28 | 1 |
 | 2026-08-04 | 1 |
@@ -28,20 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-11-05 | 2 |
 | 2026-11-06 | 2 |
 | 2026-11-09 | 1 |
-| 2026-11-26 | 1 |
+| 2026-11-20 | 2 |
+| 2026-11-21 | 1 |
+| 2026-11-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 178 | 58% |
+| Array | 179 | 57% |
 | String | 71 | 23% |
 | Hash Table | 60 | 19% |
 | Two Pointers | 52 | 17% |
 | Sorting | 49 | 16% |
-| Math | 42 | 14% |
+| Math | 46 | 15% |
+| Dynamic Programming | 37 | 12% |
 | Depth-First Search | 36 | 12% |
-| Dynamic Programming | 36 | 12% |
 | Breadth-First Search | 34 | 11% |
 | Stack | 29 | 9% |
 
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 2 |
-| [Array](Topics/array/) | 179 |
+| [Array](Topics/array/) | 180 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Binary Search Tree](Topics/binary-search-tree/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 22 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 34 |
@@ -78,10 +78,10 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 36 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 37 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
-| [Game Theory](Topics/game-theory/) | 2 |
+| [Game Theory](Topics/game-theory/) | 3 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 19 |
 | [Greedy](Topics/greedy/) | 28 |
@@ -95,11 +95,11 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 42 |
+| [Math](Topics/math/) | 46 |
 | [Matrix](Topics/matrix/) | 21 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 3 |
-| [Minimax](Topics/minimax-algorithm/) | 1 |
+| [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 10 |
 | [Number Theory](Topics/number-theory/) | 2 |
@@ -111,10 +111,10 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 3 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Randomized](Topics/randomized/) | 1 |
-| [Recursion](Topics/recursion/) | 13 |
+| [Recursion](Topics/recursion/) | 17 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 6 |
-| [Simulation](Topics/simulation/) | 25 |
+| [Simulation](Topics/simulation/) | 26 |
 | [Sliding Window](Topics/sliding-window/) | 15 |
 | [Sorting](Topics/sorting/) | 49 |
 | [Stack](Topics/stack/) | 30 |
@@ -130,5 +130,5 @@ Contains topicwise list of solved problems.
 | [Trie](Topics/trie/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 53 |
 | [Union-Find](Topics/union-find/) | 10 |
-| [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
+| [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
