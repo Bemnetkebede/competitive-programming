@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-09T09:58:53.905Z",
+  "updatedAt": "2026-11-26T11:19:32.402Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,7 +443,7 @@
           "filename": "0119-pascals-triangle-ii.py",
           "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.py",
           "sha": "f7db9491c24b05bb9955c39bfb180d5063f9d263",
-          "lastSyncedAt": "2026-11-06T07:50:08.976Z"
+          "lastSyncedAt": "2026-11-26T11:19:32.402Z"
         }
       ]
     },
