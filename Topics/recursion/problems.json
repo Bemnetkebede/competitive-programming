@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-26T11:19:40.455Z",
+  "updatedAt": "2026-11-26T11:19:51.686Z",
   "problems": [
     {
       "frontendId": "2",
@@ -164,6 +164,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.py",
           "sha": "05156a14ad015b8afeba85573ebed2137a6e1a23",
           "lastSyncedAt": "2026-11-06T12:14:34.613Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "0326-power-of-three/",
+      "readmePath": "0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0326-power-of-three.py",
+          "path": "0326-power-of-three/0326-power-of-three.py",
+          "sha": "c5755783ffe534ba37146f77a6ae78648281614b",
+          "lastSyncedAt": "2026-11-26T11:19:51.686Z"
         }
       ]
     },
