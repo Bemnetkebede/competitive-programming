@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T11:19:40.455Z",
+  "updatedAt": "2026-11-26T11:19:51.686Z",
   "problems": [
     {
       "frontendId": "2",
@@ -324,6 +324,26 @@
           "path": "0279-perfect-squares/0279-perfect-squares.py",
           "sha": "56e2361d277096fcacb129f6e70fb99e62b32eff",
           "lastSyncedAt": "2026-11-06T12:19:12.444Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "0326-power-of-three/",
+      "readmePath": "0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0326-power-of-three.py",
+          "path": "0326-power-of-three/0326-power-of-three.py",
+          "sha": "c5755783ffe534ba37146f77a6ae78648281614b",
+          "lastSyncedAt": "2026-11-26T11:19:51.686Z"
         }
       ]
     },
