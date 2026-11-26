@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T11:19:22.922Z",
+  "updatedAt": "2026-11-26T11:19:40.455Z",
   "problems": [
     {
       "frontendId": "2",
@@ -844,6 +844,26 @@
           "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
           "sha": "998fb3af9b9f51ef5fcb22f77e8d62e8aaf53328",
           "lastSyncedAt": "2026-11-06T07:59:32.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3304",
+      "title": "Find the K-th Character in String Game I",
+      "slug": "find-the-k-th-character-in-string-game-i",
+      "problemName": "3304-find-the-k-th-character-in-string-game-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/",
+      "folderPath": "3304-find-the-k-th-character-in-string-game-i/",
+      "readmePath": "3304-find-the-k-th-character-in-string-game-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3304-find-the-k-th-character-in-string-game-i.py",
+          "path": "3304-find-the-k-th-character-in-string-game-i/3304-find-the-k-th-character-in-string-game-i.py",
+          "sha": "4feb038b4c37fa4541cac20c92b3fd8287518665",
+          "lastSyncedAt": "2026-11-26T11:19:40.455Z"
         }
       ]
     }
