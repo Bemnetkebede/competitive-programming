@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-26T11:19:58.841Z",
+  "updatedAt": "2026-11-26T11:20:05.056Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,7 +83,7 @@
           "filename": "0050-powx-n.py",
           "path": "0050-powx-n/0050-powx-n.py",
           "sha": "bca0164d9aa333c12ac7b92d9864d173ff8938a2",
-          "lastSyncedAt": "2026-11-20T12:11:55.990Z"
+          "lastSyncedAt": "2026-11-26T11:20:05.056Z"
         }
       ]
     },
