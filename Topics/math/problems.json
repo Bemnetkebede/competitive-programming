@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T11:20:08.935Z",
+  "updatedAt": "2026-11-26T16:21:00.347Z",
   "problems": [
     {
       "frontendId": "2",
@@ -424,6 +424,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.py",
           "sha": "767e459d10a8966d5f84a08a7aec9af518b97a67",
           "lastSyncedAt": "2026-11-06T08:01:03.545Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "0486-predict-the-winner/",
+      "readmePath": "0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0486-predict-the-winner.py",
+          "path": "0486-predict-the-winner/0486-predict-the-winner.py",
+          "sha": "0405a17f49274810d786f8900729a3949d15a420",
+          "lastSyncedAt": "2026-11-26T16:21:00.347Z"
         }
       ]
     },
